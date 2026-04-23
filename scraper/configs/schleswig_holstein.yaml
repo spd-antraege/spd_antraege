@@ -1,0 +1,42 @@
+state: schleswig_holstein
+display_name: "SPD Schleswig-Holstein"
+portal_url: "http://beschluesse.spd-schleswig-holstein.de"
+technology: mediawiki
+
+# MediaWiki API
+api_url: "http://beschluesse.spd-schleswig-holstein.de/api.php"
+
+# Beschluss template fields map to our schema
+template_map:
+  "Gremium": "veranstaltung"      # Landesparteitag, Landesparteirat, Landesvorstand
+  "Gliederung": "antragsteller"
+  "Sitzung": "veranstaltung_detail"
+  "Nr": "kuerzel"
+  "Kategorien": "tagesordnungspunkt"
+  "Antragsteller": "antragsteller"
+  "Status": "status"
+  "Adressat": "ueberwiesen_an"
+
+status_map:
+  "angenommen": "Annahme"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+  "erledigt": "Erledigt"
+  "zurückgezogen": "Zurückgezogen"
+
+# Sub-wikis (KV level)
+sub_wikis:
+  - name: "KV Kiel"
+    api_url: "http://ki.beschluesse.spd-schleswig-holstein.de/api.php"
+    pages: 163
+  - name: "KV Steinburg"
+    api_url: "http://iz.beschluesse.spd-schleswig-holstein.de/api.php"
+    pages: 79
+
+scrape_delay: 1.0
+checkpoint_interval: 100
+
+audit:
+  total_motions: 2003
+  date_range: "1971-2023"
+  schema_compat: 0.85

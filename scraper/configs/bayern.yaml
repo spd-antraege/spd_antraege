@@ -1,0 +1,27 @@
+state: bayern
+display_name: "BayernSPD"
+portal_url: "https://www.parteitag-bayernspd.de"
+technology: cvtx
+
+# Kuerzel: Bayern uses short codes (LAT1, W6, S11) — not number-based
+kuerzel_format: "{code}"
+kuerzel_prefix: ""
+# Berlin-compatible ID: "{code}/{event_label}" e.g. "LAT1/I-2024-Landeskonferenz"
+
+status_map:
+  "annahme": "Annahme"
+  "mit änderungen angenommen": "Annahme mit Änderungen"
+  "ablehnung": "Ablehnung"
+  "überweisung": "Überweisung"
+  "erledigt": "Erledigt"
+  "zurückgezogen": "Zurückgezogen"
+
+scrape_delay: 1.0
+checkpoint_interval: 50
+
+audit:
+  total_motions: 944
+  events: 11
+  date_range: "2017-2025"
+  schema_compat: 0.92
+  status_compat: 0.86

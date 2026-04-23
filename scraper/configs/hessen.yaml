@@ -1,0 +1,39 @@
+state: hessen
+display_name: "SPD Hessen"
+portal_url: "https://www.spd-hessen.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://www.spd-hessen.de/wp-content/uploads/sites/269/2024/03/Antragsbuch_behandelte_Antr__ge_Ordentlicher_Landesparteitag_2024.pdf"
+    label: "LPT 2024"
+    veranstaltung: "Ordentlicher Landesparteitag 2024"
+    year: 2024
+  - url: "https://www.spd-hessen.de/wp-content/uploads/sites/269/2022/05/Antragsbuch-mit-Voten-der-APK_final.pdf"
+    label: "LPT 2022 Anträge"
+    veranstaltung: "Landesparteitag 2022"
+    year: 2022
+  - url: "https://www.spd-hessen.de/wp-content/uploads/sites/269/2022/05/Beschlussbuch_LPT2022_final.pdf"
+    label: "LPT 2022 Beschlüsse"
+    veranstaltung: "Landesparteitag 2022"
+    year: 2022
+  - url: "https://www.spd-hessen.de/wp-content/uploads/sites/269/2019/11/Beschlussbuch_LPT_2019.pdf"
+    label: "LPT 2019 Beschlüsse"
+    veranstaltung: "Landesparteitag 2019"
+    year: 2019
+  - url: "https://www.spd-hessen.de/wp-content/uploads/sites/269/2026/01/Beschlussbuch-LPT-25Nov2017.pdf"
+    label: "LPT 2017 Beschlüsse"
+    veranstaltung: "Landesparteitag 2017"
+    year: 2017
+# LPT 2023 returns 403 Forbidden
+
+audit:
+  total_motions: 200
+  date_range: "2017-2024"

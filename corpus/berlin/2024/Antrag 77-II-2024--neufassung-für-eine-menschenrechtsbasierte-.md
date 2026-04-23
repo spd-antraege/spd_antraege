@@ -1,0 +1,93 @@
+---
+kuerzel: Antrag 77/II/2024
+titel: 'Antrag 77/II/2024 Neufassung: Für eine menschenrechtsbasierte & sozialdemokratische Migrations- und Asylpolitik!'
+status_in_tabelle: Annahme
+antragsteller: Fassung der AK
+ueberwiesen_an: Bundesparteitag 2025
+tagesordnungspunkt: Geflüchteten-/ Asylpolitik
+veranstaltung: II/2024 LPT 23.11.2024
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/neufassung-fuer-eine-menschenrechtsbasierte-sozialdemokratische-migrations-und-asylpolitik/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/II_2024//Antrag_77II2024_Neufassung_Fuer_eine_menschenrecht.pdf
+publication_date: This Antrag was published on Dienstag, 19. November 2024 at 22:39.
+tags:
+- antifaschismus-und-extremismusbekämpfung
+- außen-und-europapolitik
+- bundespolitik-und-bundesebene
+- digitale-transformation
+- finanz-und-steuerpolitik
+- gesellschaftlicher-zusammenhalt
+- gleichstellung-und-genderpolitik
+- innen-und-gesellschaftspolitik
+- justiz-und-rechtspolitik
+- medien-und-meinungsfreiheit
+- soziale-gerechtigkeit-und-ungleichheit
+- verteidigung
+- wirtschafts-und-industriepolitik
+content_hash: 7b5c355f1a20
+---
+
+# Antragstext
+
+Der  furchtbare Anschlag von Solingen hat die in der politischen Debatte voranschreitende Diskursverschiebung in der Migrationspolitik weiter verschlimmert. Während Geflüchteten aus der Ukraine zunächst mit Solidarität begegnet wurde, bleibt die Ablehnung gegenüber Geflüchteten aus anderen Teilen der Welt erschreckend hoch. Debatten darüber, dass Migration begrenzt werden müsse, kommen seit 2015 immer wieder auf und stehen dem individuellen Menschenrecht auf Asyl fundamental gegenüber.
+
+Nachdem die Bundesregierung zuvor mit dem Chancenaufenthaltsrecht, dem Fachkräftezuwanderungsgesetz und dem neuen Einbürgerungsrecht ein aktives Eintreten und Bekenntnis Deutschlands als Einwanderungsland manifestiert hat, wurden immer mehr restriktivere Regelungen in der Migrationspolitik über das Rückkehrverbesserungsgesetzes, das GEAS bis hin zum Sicherheitspaket von der sozialdemokratisch-geführte Bundesregierung aufgenommen.
+
+Migration wird damit nicht mehr als Chance und Bereicherung für unsere Gesellschaft und gleichberechtigte Teilhabe verstanden, sondern vor allem als Bedrohung für die öffentliche Sicherheit. Die Konnexität von Migration und Kriminalität ist das Gift rechter Narrative, das auch in Teilen der linken Parteien wie der SPD aufgenommen wurde und ein gesellschaftliches Klima geschaffen hat, indem Migrant*nnen ablehnend und rassistisch begegnet wird. Rechte Narrative arbeiten dabei stets nach dem gleichen Muster, indem sie Migrant*innen als Bedrohung darstellen und Migration in einen Kontext von Kriminalität stellen. Die Debatte wird nicht mehr nur von rechtsextremen Kreisen geführt, sie ist inzwischen in der Mitte der Gesellschaft angekommen und eine Bedrohung für Menschen, die bei uns Schutz suchen oder aufgrund ihrer Zuschreibung als Migrant*innen gelesen werden. Unsere sozialdemokratische Antwort muss dazu klar und unmissverständlich sein: Wir lehnen rechte Narrative entschieden ab und eifern ihnen nicht hinterher oder relativieren sie. Dieses schleichende Gift zerstört unsere solidarische Gesellschaft und widerspricht unseren sozialdemokratischen Grundwerten.
+
+In diesem Kontext erleben wir leider eine fortschreitende Adaption solcher Narrative, die mit sich überbietenden Forderungen einer immer restriktiveren Migrationspolitik in das bürgerliche Milieu vordringt. Der furchtbare Anschlag eines extremistischen Einzeltäters in Solingen wurde zum Anlass für eine deutliche Verschärfung des Migrationsrechts genommen, um diese Debatte aufzunehmen, anstatt ihr entgegen zu treten.
+
+Das “Sicherheitspaket”
+
+Als Reaktion auf den Anschlag von Solingen wurde sehr schnell das sogenannte “Sicherheitspaket” auf den Weg gebracht. Dieses besteht aus verschiedenen Gesetzen, die unter anderem  Verschärfungen im Asyl- und Aufenthaltsrecht vorsehen. Durch den gewählten Zeitpunkt der Gesetze sowie durch den direkten Bezug auf das Asylrecht in diesen wird eine Verknüpfung von Terrorismus und Geflüchteten impliziert, die wir entschieden ablehnen. Ebenso hat die Debatte um das „Sicherheitspaket“ erneut offengelegt, dass Menschenrechte, wie das individuelle Recht auf Asyl oder das Recht auf ein Leben in Würde für alle Menschen zunehmend in Frage gestellt werden. Diese Diskursverschiebung, die sich auch im „Sicherheitspaket“ wiederfindet, nehmen wir nicht hin und stellen uns ihnen klar entgegen.
+
+Ein Bestandteil der Reaktionen auf den Terroranschlag von Solingen war die Wiedereinführung von stationären Grenzkontrollen an allen deutschen Landgrenzen, zunächst für sechs Monate. Bereits zuvor bestanden bereits seit 2023 stationäre Grenzkontrollen zu Landgrenzen zu Polen, Tschechien und der Schweiz sowie seit 2015 an der Landgrenze zu Österreich.
+
+Die Wiedereinführung von Grenzkontrollen widerspricht den Errungenschaften des Schengen-Raums, der für offene Grenzen, freien Personenverkehr und eine engere europäische Zusammenarbeit steht. Neben der Einschränkung für die Mobilität von Menschen sowie der Behinderung des wirtschaftlichen Verkehrs sendet diese Maßnahme ein Signal der Abschottung. Hierdurch schwächen diese Grenzkontrollen das Vertrauen in die europäische Integration und gefährden den Zusammenhalt. Grenzkontrollen können zwar Schleuserkriminalität bekämpfen, die aus der Not der Menschen Profit machen. Sie bekämpfen aber nur das Symptom, aber  nicht die Ursache. Diese liegt in dem unsolidarischen Dublinsystem, weil ungleiche  Asylstandards in Europa eine Sekundärmigration und Vertreibung in Europa begründen. Das GEAS verfestigt dieses System mit Grenzverfahren, anstatt in ganz Europa einheitliche Asylstandards zu etablieren.
+
+Hinzu kommt, dass diese Grenzkontrollen, die Gefahr von Racial Profiling bieten.
+
+Gleichzeitig werden flächendeckend populistische Narrative bedient, die Geflüchtete sowie grundsätzlich Menschen mit Migrationsgeschichte als Bedrohung darstellen. In diesem Zusammenhang besteht eine erhöhte Gefahr, dass bestimmte Menschen vermehrt Opfer von Racial Profiling werden können. Darüber hinaus ist zweifelhaft, ob diese Maßnahme überhaupt die Gefahr von extremistischen Terroranschlägen reduzieren kann.
+
+Die Unionspartei hat im Zuge der Wiedereinführung der Grenzkontrollen sogar wiederholt deutlich gemacht, dass ihnen diese Maßnahmen nicht weit genug gehen. Vielmehr fordern sie, das Grundrecht auf Asylrecht aufzuweichen. Dies soll geschehen, indem Geflüchtete trotz eines Asylgesuchs abgewiesen werden sollen. Diesen Verstoß gegen die europäische Menschenrechtskonvention lehnen wir entschieden ab, er legt die Axt an die Wurzel der europäischen Union.
+
+Daher fordern wir:
+
+Die Zurücknahme der stationären Grenzkontrollen an allen deutschen Landgrenzen.
+Das Asylrecht weiterhin vollumfänglich zu schützen und jeglichen Aufweichungsversuchen entschieden entgegenzutreten.
+(Den Einsatz für einen klaren Rahmen für Asylverfahren in der gesamten EU nach den höchsten Standards)”
+
+Neben den Grenzkontrollen beinhaltet das “Sicherheitspaket” den vollständige Ausschluss von Sozialleistungen , der eine Grenzüberschreitung bleibt.
+
+Auch rückkehrpflichtigen Menschen steht in Deutschland bis zum Tag der Ausreise ein Recht auf ein menschenwürdiges Existenzminimum zu, Art. 1 Abs. 1 und Art. 20 Abs. 1 Grundgesetz. Leistungen auf null zu setzen sowie auf die „Unterbringung nach jeweiligen Landesgesetzen“ – also in der Regel die ordnungsrechtliche Notunterbringung – zu verweisen, steht im Widerspruch dazu und ist mit sozialdemokratischen Grundwerten unvereinbar.
+
+Wir fordern daher die Rücknahme der Komplett-Streichung und die Wahrung des Existenzminimums für alle in Deutschland lebenden Menschen.
+
+Die Entwicklungen der letzten Wochen in der Asyl- und Migrationspolitik haben innerparteilich, aber auch gesamtgesellschaftlich große Verunsicherung und Unzufriedenheit erzeugt. Die SPD muss in dieser Debatte einen klaren Standpunkt vertreten und darf sich nicht von einzelnen rechten sowie rechtsextremen Akteur:innen treiben lassen. Das Ziel der Sozialdemokratie muss es sein, Terrorismusbekämpfung und die Schaffung eines funktionierenden sowie menschenrechtskonformen Rahmens für die Asyl- und Migrationspolitik differenziert anzugehen. Die Menschen erwarten dabei Ergebnisse, die als Gesamtkonstrukt gedacht und nicht reine Symptombekämpfung im Sinne des kurzfristigen politischen Erfolgs sind. Die Ausgestaltung und Umsetzung des Sicherheitspaketes schafft dies nicht.
+
+Wir stehen als SPD immer für Humanität und den individuellen Schutz des Asylrechts. Die mit der Zunahme der Migration verbundenen Herausforderungen werden wir nicht ignorieren, sondern aktiv angehen, anstatt ihnen nur durch kurzfristige Abschottungs- und Abschreckungsmaßnahmen zu begegnen.
+
+Für uns ist klar, dass wir Gewalt- und Terroranschläge auf das Schärfste verurteilen und von Menschen, denen wir Schutz und Aufnahme geben, erwarten, dass sie unsere Rechtsordnung achten. Wir verurteilen aber gleichermaßen jede populistische Verallgemeinerung, aus islamistisch motivierten  Einzeltaten eine Migrationsfeindlichkeit abzuleiten und damit rechte Narrative gesellschaftsfähig zu machen.
+
+Für eine sozialdemokratische Asyl- und Migrationspolitik
+
+Unser Konzept sozialdemokratischer Migrationspolitik beruht auf unserer Geschichte als SPD und unserer gemeinsamen Überzeugung unseres Menschenbildes. Sie ist in unserem Grundsatzprogamm fest verankert. Wir treten für eine gleichberechtige und vielfältige Gesellschaft ein, in der Menschen, die vor Krieg und Verfolgung fliehen, unseren Schutz und unsere Solidarität erhalten. Die SPD steht für die Humanität in der Migrationspolitik und lehnt jede Art der Ausgrenzung von Menschen anderer Nationalitäten entschieden ab. Wir wollen Menschen, die zu uns kommen, eine echte Chance und Bleibeperspektive geben, wir gehen offen, hilfsbereit und wertschätzend auf Menschen zu und lehnen jede Form rassistischer und Ausgrenzung ab. Wir bieten und fördern eine
+Integration, Partizipation und Vielfalt
+auf der Grundlage unserer
+solidarischen und menschenrechtsorientierten Werte
+.
+
+Unsere Wirtschaft und Gesellschaft sind auf Migration angewiesen. Dafür hat die SPD geführte Ampel-Koalition viel erreicht: Wir haben mit dem Chancen-Aufenthaltsrecht das diskriminierende System jahrelanger Kettenduldungen beendet, mit dem Fachkräfteeinwanderungsgesetz haben wir Wege der Zuwanderung außerhalb gefährlicher Fluchtrouten und dem Asylrecht geschaffen und mit einem modernen Staatsangehörigkeitsrecht eine Doppelstaatigkeit und gleichberechtigte politische Teilhabe ermöglicht. Diese sozialdemokratischen Erfolge lassen wir uns durch rechte Narrative, die aus Angst politischen Profit schlagen wollen, nicht klein reden. Unser Konzept sozialdemokratischer Migrationspolitik begreift Migration als Chance und Herausforderung für unsere Gesellschaft und nicht als Bedrohung oder Gefahr für die öffentliche Sicherheit.
+
+Wir sind stolz darauf, eine vielfältige Gesellschaft und Chancengleichheit unabhängig von der Herkunft zu gestalten.
+Hierzu gehört, dass wir Integration, Partizipation und Vielfalt und Vielfalt als zwingende Voraussetzung für ein friedliches Zusammenleben begreifen und Angriffe auf unsere solidarische und menschenrechtsorientierte Werte, unseren Rechtsstaat und unsere Freiheit entschieden ablehnen.
+
+Aus diesem Grund fordern wir:
+
+Die Reformen, die durch das Sicherheitspakets beschlossen wurden, insbesondere die Einführung der Grenzkontrollen an allen deutschen Landgrenzen sowie die Verschärfungen bei den Sozialleistungen für Geflüchtete/Asylbewerber*innen, schnellstmöglich zurückzunehmen
+Die Ausgestaltung und Umsetzung einer sozialdemokratischen Asyl- und Sicherheitspolitik anhand bereits bestehender Beschlusslagen
+Die Ablehnung von rechten Narrativen sowie ein aktives Eintreten für die Verteidigung von Menschenrechten
+Eine Weiterentwicklung der neuen Regelungen einer gemeinsamen europäischen Asylpolitik mit den europäischen Partner*innen
+
+Bei Annahme wären die Anträge 77,78,79, 80, 89, 81 wären erledigt

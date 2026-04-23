@@ -1,0 +1,38 @@
+{
+  "model": "claude-haiku-4-5-20251001",
+  "overall_score": 0.9767,
+  "num_docs": 20,
+  "doc_scores": {
+    "Antrag 80/I/2015": 1.0,
+    "Antrag 27/I/2022": 1.0,
+    "Antrag 31/II/2018": 0.9333,
+    "Antrag 55/I/2021": 1.0,
+    "Antrag 301/I/2020": 0.9333,
+    "Antrag 305/II/2022": 1.0,
+    "Antrag 175/II/2018": 1.0,
+    "Antrag 45/II/2023": 1.0,
+    "Antrag 02/I/2015": 1.0,
+    "Antrag 246/I/2025": 0.9333,
+    "Antrag 62/I/2017": 0.9333,
+    "Antrag 143/II/2014": 1.0,
+    "Antrag 145/I/2013": 0.9333,
+    "Antrag 164/II/2024": 1.0,
+    "Antrag 291/I/2025": 1.0,
+    "Antrag 167/I/2025": 1.0,
+    "Antrag 177/I/2025": 0.9333,
+    "Antrag 61/I/2025": 0.9333,
+    "Antrag 122/I/2015": 1.0,
+    "Antrag 133/I/2015": 1.0
+  },
+  "field_averages": {
+    "actors.addressees": 1.0,
+    "actors.mentioned": 0.95,
+    "demands": 1.0,
+    "strategy.framing": 1.0,
+    "style.complexity": 1.0,
+    "style.persuasion_mode": 0.7,
+    "style.register": 1.0,
+    "topics.primary": 1.0,
+    "topics.secondary": 1.0
+  }
+}

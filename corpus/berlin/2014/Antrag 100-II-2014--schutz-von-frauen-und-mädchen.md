@@ -1,0 +1,27 @@
+---
+kuerzel: Antrag 100/II/2014
+titel: "Antrag 100/II/2014 \nSchutz von Frauen und Mädchen in Berlin stärken"
+status_in_tabelle: Annahme
+antragsteller: AG Migration und Vielfalt
+ueberwiesen_an: AH Fraktion, Senat
+tagesordnungspunkt: Inneres / Recht
+veranstaltung: "II/2014 \nAnträge zum Parteitag 08. November 2014"
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/schutz-von-frauen-und-maedchen-in-berlin-staerken/
+pdf_url: ''
+publication_date: ''
+tags: []
+content_hash: b13b2bfcb55d
+---
+
+**AntragstellerInnen:** AG Migration und Vielfalt
+
+**Adressat:** Der Landesparteitag möge beschließen:
+
+## Antragstext
+
+Die sozialdemokratischen Mitglieder des Senats und der SPD-Fraktion im  Abgeordnetenhaus von Berlin werden aufgefordert, dafür Sorge zu tragen, dass Frauen und Mädchen, die in Deutschland aufgewachsen sind, nicht in ein Land mit patriarchalischen Strukturen abgeschoben werden, in denen ihnen gesellschaftliche Isolation – Zwangsverheiratung und Prostitution – drohen.
+Diesem Anliegen können die Abgeordneten durch die Anregung ermessensleitender Verwaltungsvorschriften (VAB der Berliner Ausländerbehörde) nachkommen.
+
+**Empfehlung der Antragskommission:** Annahme(Konsens)

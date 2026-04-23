@@ -1,0 +1,498 @@
+---
+kuerzel: Antrag 135.1/II/2019
+titel: Antrag 135.1/II/2019 Wissenschaft und Forschung in und für die (Stadt)gesellschaft
+status_in_tabelle: Annahme
+antragsteller: Fassung der Antragskommission
+ueberwiesen_an: AH Fraktion, Senat
+tagesordnungspunkt: Bildung
+veranstaltung: II/2019 Landesparteitag 26. Oktober 2019
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/wissenschaft-und-forschung-in-und-fuer-die-stadtgesellschaft-2/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/II_2019//Antrag_135.1II2019_Wissenschaft_und_Forschung_in_u-2.pdf
+publication_date: This Antrag was published on Freitag, 4. Oktober 2019 at 15:13.
+tags:
+- antifaschismus-und-extremismusbekämpfung
+- arbeitsmarkt-und-soziales
+- außen-und-europapolitik
+- bau-wohnen-stadtentwicklung
+- bildung-und-forschung
+- bundespolitik-und-bundesebene
+- bürokratieabbau-und-effizienz
+- demografischer-wandel
+- digitale-transformation
+- finanz-und-steuerpolitik
+- generationenpolitik
+- gesellschaftlicher-zusammenhalt
+- gesundheitspolitik
+- gleichstellung-und-genderpolitik
+- innen-und-gesellschaftspolitik
+- justiz-und-rechtspolitik
+- medien-und-meinungsfreiheit
+- parteiorganisation-verfahren-und-statuten
+- soziale-gerechtigkeit-und-ungleichheit
+- umwelt-und-klimapolitik
+- verkehr-und-infrastruktur
+- verteidigung
+- wirtschafts-und-industriepolitik
+content_hash: 465e08f932c2
+---
+
+# Antragstext
+
+Grundsätze in Wissenschaft und Forschung für die Zukunft
+
+Wissenschaft und Forschung sind essenziell zur Lösung sowohl der großen internationalen Zukunftsfragen sowie der zentralen
+Fragen der wachsenden Stadt
+Berlin. Berlin hat durch die Dichte und Vielfalt an Wissenschafts- und Forschungsinstitutionen ein unglaubliches Potenzial an ersichtlicher Qualität, das wir in den kommenden zehn Jahren gezielt weiter auszubauen werden.
+
+Es gilt dieses Potenzial im Sinne der Stadt, ihrer Wissenschaftler*innen, Forscher*innen, Erfinder*innen und Bewohner*innen zu nutzen. Eine sozialdemokratische Wissenschafts- und Forschungspolitik orientiert sich dabei an den Grundsätzen der vertikalen wie horizontalen Durchlässigkeit, maximaler
+Chancengleichheit
+, Vielfalt bei Gleichwertigkeit und eine breite Beteiligung der Betroffenen an Prozessen. Wir wollen Wissenschaft und Forschung im Sinne aller an ihnen Mitwirkenden und Partizipierenden, aber auch im Sinne der Bürgerinnen und Bürger!
+
+Es ist die Aufgabe des Staates, die
+Autonomie
+von Wissenschaft und Forschung zu schützen, dabei aber zugleich die politischen Rahmenbedingungen für eine positive und progressive Entwicklung zu setzen.
+
+Durch die neoliberalen Reformen der vergangenen Jahrzehnte, die sich in der Wissenschaft in Form des New Public Management niederschlugen und der Theorie eines effektiv administrierbaren, outputorientierten nach wirtschaftlichen Gesichtspunkten ausgerichteten Wissenschaftssystems gründeten, wurde Wissenschaft jedoch vielfach nicht nur prekarisiert sondern im Wettlauf um Drittmittel auch in ihrer Freiheit beschränkt. Alle Versuche, die Lehre zu verbessern und ihren Stellenwert zu erhöhen, mussten in einem derartigen System wenig Erfolge zeitigen. Nur eine solide Grundfinanzierung, ergänzt durch Exzellenz, Drittmittel und kooperative Forschungsvorhaben, kann auch den Querdenker*innen und denen, die an langfristigen und weniger kurzfristig outputorientierten Vorhaben arbeiten, die notwendige Grundlage bieten.
+
+Das Land Berlin hat hier bereits
+politische Instrumente
+, wie beispielsweise die Hochschulverträge entwickelt, die sich bewährt haben und weiterhin eine zentrale Rolle in der wissenschaftspolitischen Gestaltung spielen sollten.
+
+So sind Wissenschafts- und Forschungseinrichtungen öffentliche Institutionen, die in einem Spannungsverhältnis zwischen Autonomie von Wissenschaft und Forschung einerseits und den
+gesellschaftlichen Bedarfen und gesellschaftlicher Verantwortung
+andererseits stehen. Sozialdemokratische Wissenschafts- und Forschungspolitik greift entsprechend gestaltend ein, ohne die Autonomie von Wissenschaft und Forschung einzuschränken.
+
+Sozialdemokratische Wissenschafts- und Forschungspolitik bedeutet unabhängige,
+kritische Wissenschaft
+. Sie rechtfertigt sich aus sich selbst heraus und untersteht allein den wissenschaftlichen Prinzipien. Diese Aussage klingt selbstverständlich, ist es aber nicht. Tatsächlich ist Forschung mehr und mehr zahlreichen Abhängigkeiten ausgesetzt. Manche von ihnen sind nicht vollständig vermeidbar, etwa bei der Finanzierung. Aber eine Wissenschaft, die nur solche Ergebnisse „produzieren“ soll, die von Auftraggebern gewünscht sind, ist Pseudo-Wissenschaft.
+
+Das Bild einer unabhängigen Wissenschaft gerät stärker unter Druck. Selbst Grundsätze, die vor kurzem noch als selbstverständlich galten, sind es heute nicht mehr.
+
+So hat die CDU-Wissenschaftsministerin Anja Karliczek ein Verständnis von Wissenschaft und Forschung, nach dem es vornehmlich darum geht konkrete Ergebnisse zu produzieren, die so sofort verwendbar sind – am besten für die Wirtschaft. Doch so funktioniert Wissenschaft nicht: Wissenschaft braucht eine umfangreiche Grundlagenforschung und die Freiheit Erkenntnisse zu produzieren, ohne das diese unmittelbar wirtschaftlich verwertbar sind. Wissenschaft ist kein Zulieferbetrieb für die Wirtschaft. Wissenschaft ist Erkenntnisgewinn und kritisches Denken.
+
+Wissenschaft und Forschung dienen nicht nur wenigen. Es ist verlässlich nachgewiesen, dass Wissenschaft und Forschung nachhaltig auf die Arbeitsplatzentwicklung in den Regionen wirken und große Auswirkung auf das Wirtschaftswachstum haben. Dabei entstehen Arbeitsplätze auf allen Qualifikationsniveaus und Löhne steigen. Darüber hinaus hat Wissenschaft und Forschung in der Region einen großen Anteil am Bildungsaufstieg bislang ausgegrenzter gesellschaftlicher Gruppen. Die Ergebnisse von Forschung können ALLE Arbeitsplätze gesünder und nachhaltiger gestalten. Dabei gehen Sozialforschung und technische Innovation idealerweise Hand in Hand. Ohne Wissenschaft und Forschung werden wir weder die regionalen Probleme z.B. des Verkehrs und der Energieversorgung oder der Partizipation und des sozialen Zusammenhalts noch die globalen Probleme der Friedenssicherung oder des Klimawandels lösen können. Digitalisierung und Automatisierung, Künstliche Intelligenz und Welthandel, Inklusion und Gleichstellung brauchen Wissenschaft.
+
+Die deutsche Wissenschaft, und Berlin mit an der Spitze, sind hocherfolgreich im internationalen Vergleich. Mit dem Zukunftsvertrag ist der Bund dauerhaft und verlässlich in die Finanzierung der Hochschulen eingestiegen. Das ist auch ein Erfolg sozialdemokratischer Verhandlungserfolge. Trotzdem ist ein „Mitspielen“ in der Weltspitze auf diesem Niveau nicht nachhaltig zu erreichen. Während andere große Industrienationen bis zu 2,5 % ihres Bruttosozialproduktes in Wissenschaft und Forschung investieren, ist Deutschland mit 1,2 % öffentlicher direkter Mittel weit hinter her. Dabei gibt es unter den Spitzenreitern Staaten, in denen der Anteil der privaten Finanzierung über Stiftungen, Schenkungen aber auch Studiengebühren, die weitgehend die Mittelschicht aufbringt und sich dafür verschuldet hoch ist, aber auch solche Staaten, die Bildung sowie Wissenschaft und Forschung grundsätzlich als Aufgabe der staatlichen Daseinsvorsorge betrachten und öffentliche finanzieren. Diese sollte sich Deutschland zum Vorbild nehmen, weil ein durchlässiges Bildungssystem grundlegend notwendig ist und eine Erosion der Mittelschicht durch Verschuldung katastrophale gesellschaftliche Folgen zeitigt.
+
+Situation in der Berliner Wissenschafts- und Forschungspolitik
+
+In der Berliner Wissenschafts- und Forschungspolitik finden die beschriebenen sozialdemokratischen Grundsätze bereits jetzt Anwendung. Im bundesweiten Vergleich pflegt Berlin eine starke
+Kultur des Austausches und der Kooperation
+zwischen Politik, Stadtgesellschaft und den Wissenschafts- und Forschungsinstitutionen. Diese gilt es zu erhalten und weiter auszubauen. Insbesondere bei der Vernetzung zwischen Hochschulen und Forschungseinrichtungen wollen wir in den kommenden Jahren einen Schwerpunkt setzen.
+
+Doch auch das Verhältnis zwischen Land und Hochschulen wollen wir weiter intensivieren, indem wir im Vorfeld der Verhandlungen zu den Hochschulverträgen die gesellschaftlichen und
+politischen Präferenzen
+der Stadt durch partizipative Elemente stärker integrieren. Die Schwerpunkte eines Hochschulvertrages müssen im Vorfeld sowohl in den Gremien der Hochschulen als auch im Parlament beraten werden. Ziel ist, eine breite gesellschaftliche Auseinandersetzung mit den Themen der Hochschulen.
+
+So stellen die
+Hochschulverträge
+nach wie vor für uns das zentrale politische Instrument dar, um die Bedarfe der Stadtgesellschaft in die Hochschulen zu transferieren. Durch die bessere finanzielle Situation war es uns in den letzten Jahren möglich, wesentliche gesellschaftspolitische Prozesse anzustoßen und Weichen für die Zukunft zustellen. Zu nennen sind hier insbesondere die Einrichtung eines Instituts für Islamische Theologie an der Humboldt-Universität zu Berlin, die Einrichtung einer Geschäftsstelle für die neu gegründete Landeskommission Duales Studium, eine Erhöhung der Studienplätze insbesondere in den Bereichen „Soziale Arbeit“, „Erziehung und Bildung im Kindesalter“, „Öffentliche Verwaltung“ und schließlich im Bereich des Lehramts.
+
+Schließlich hat die SPD dafür gesorgt, dass in den jüngsten Hochschulverträgen 2018 bis 2022 das Land Berlin seine elf staatlichen Hochschulen und die Charité durch
+Erhöhung der Grundmittel
+stärkt: Die Verträge wurden erstmals über einen Zeitraum von fünf Jahre und mit einem Aufwuchs von 3,5 % p.a. abgeschlossen. Die Hochschulen erhalten insgesamt 767 Mio. Euro zusätzliche Mittel. Im Jahr 2022 beläuft sich das Gesamtvolumen damit auf 1,65 Mrd. Euro.
+
+Die SPD hat die Arbeitsbedingungen an den Hochschulen wesentlich verbessert. Erstmals vereinbart wurde mit den Hochschulen:
+
+eine fest vereinbarte Mindestquote an Dauerbeschäftigten an jeder Hochschule;
+Mindestvertragslaufzeiten, die sich an der jeweiligen Projektlaufzeit orientiert;
+die familienpolitischen Möglichkeiten für Haushalts- und Drittmittelbeschäftigte vollumfassend auszuschöpfen;
+die Karrierewege des wissenschaftlichen Nachwuchses durch das so genannte Tenure-Track-Gesetz zu stärken;
+Mindest-Honorare für Lehrbeauftragte zu zahlen sowie den studentischen Tarifvertrag zu erhalten und auszubauen.
+Fremdvergaben zu vermeiden und Ausgründungen wie die Betriebsgesellschaft am Botanischen Garten in die Hochschule und damit in den TVL zurückzuführen (erfolgt)
+Zudem wurden die Mindeststundenlöhne bei der Charité Facility Management (CFM) erhöht und im Januar 2019 die CFM zu 100% in öffentliches Eigentum überführt.
+
+Diesen Kurs wollen wir fortsetzen und auch in Zukunft an der Erreichung unseres Ziels „Gute Arbeit in Wissenschaft und Forschung“ arbeiten.
+
+Berliner Wissenschafts- und Forschungspolitik weiterentwickeln
+
+Gute Arbeit und eine vorausschauende Personalentwicklung bleiben zentrale Aufgaben einer sozialdemokratischen Wissenschafts- und Forschungspolitik. Wir wissen: Arbeit an Hochschulen ist oft prekär. Das ist nicht nur fatal für die betroffenen Personen, sondern führt auch zu einer schlechteren Qualität von Wissenschaft und Forschung. Als SPD wollen wir uns in den kommenden Jahren daher insbesondere für folgende Maßnahmen einsetzen, um
+Gute Arbeit und Personalentwicklung
+zu verwirklichen:
+
+Wir wollen den wissenschaftlichen Mittelbau weiter stärken, indem wir attraktive Forschungsstellen neben der klassischen Professur anbieten. Diese sollen dauerhaft eingerichtet werden und sich durch wissenschaftlich eigenständiges Arbeiten auszeichnen. Damit schaffen wir eine neue Personalkategorie an den Hochschulen.
+Wir wollen für alle dauerhaft zu erbringenden Arbeiten Dauerstellen und gleiche Arbeit auch gleich bezahlen. Die Quote an dauerhaft Beschäftigten an den Berliner Hochschulen soll in den kommenden Jahren weiter deutlich erhöht werden.
+Ein Bereich, in dem es besonders viele befristet beschäftigte Mitarbeiter*innen gibt, sind Drittmittelprojekte. Der „Sachgrund“ ist hier, dass die Mittel nur befristet gewährt werden. Gemeinsam mit den Hochschulen wollen wir innovative Arbeitsmodelle etablieren, durch die gewährleistet werden kann, dass auch Drittmittelprojekte über unbefristet beschäftige Forscher*innen durchgeführt werden, z.B. durch so genannten „rolling contract“.
+Wir fordern, dass sich Senat und die sozialdemokratischen Mitglieder des Abgeordnetenhauses und des deutschen Bundestages dafür einsetzen, dass Drittmittel des Bundes nicht zwingend mit befristeter Beschäftigung des wissenschaftlichen Mittelbaus verbunden werden.
+Auch Stellen für die Einwerbung und Koordination von Drittmitteln sollen als Dauerstellen geführt werden. So bilden sie einen Bereich des Wissenschaftsmanagements. Ein auf Dauer gestelltes, professionelles Wissenschaftsmanagement beinhaltet den Vorteil, dass unsere Wissenschaftler*innen und Forscher*innen sich nicht hauptsächlich mit der Akquise zukünftiger Gelder beschäftigt müssen.
+Wir wollen den Weg des tenure track weiter gehen, denn er bietet den Wissenschaftler*innen Sicherheit auf dem Weg zur Professur. In Berlin soll es in Zukunft keine Juniorprofessur mehr geben, ohne dass die über einen tenure track in einem geregelten Verfahren zu einer Professur führt. Dabei muss die Frauenquote für tenure track Stellen 50 Prozent betragen. Darüber hinaus wollen wir auch Wege finden, um Stellen aus dem wissenschaftlichen Mittelbau sinnvoll mit einem tenure track auszustatten.
+Das Berliner Chancengleichheitsprogramm soll als wichtiges Instrument der Frauenförderung fortgeführt und weiter entwickelt werden.
+Die Frauenbeauftragten der Hochschulen wollen wir in ihren Kompetenzen und Ausstattung stärken und geeignete Strukturen wie ein Netzwerk Diversity und Antidiskriminierung schaffen, um struktureller Diskriminierung umfassend und wirksam zu begegnen.
+Wir werden uns dafür einsetzen, dass auch die studentischen Hilfskräfte an den Außeruniversitären Forschungseinrichtungen in Zukunft nach dem TV Stud bezahlt werden.
+
+Qualität und Selbstbestimmung in Studium und Lehre
+
+Einen weiteren Schwerpunkt wollen wir in den kommenden Monaten und Jahren beim Thema
+Qualität und Selbstbestimmung in Studium und Lehre
+setzen. 20 Jahre nach der Bologna-Deklaration sind ein guter Zeitpunkt, um erfahrungsbasiert Bilanz zu ziehen und an den Stellen neu zu justieren, die sich in der Praxis nicht oder nur unzureichend bewährt haben. Aus sozialdemokratischer Sicht sind dahingehend folgende Maßnahmen anzugehen:
+
+Ein Jahr „Studium Generale“ für Alle, die das wollen. Wir wollen eine Studieneingangsphase bzw. ein Orientierungsstudium einführen, in der Kurse aus allen Fachbereichen gewählt werden können und Prüfungsleistungen auf das später gewählte Studium angerechnet werden können.
+Wir wollen den Anteil der Wahlmodule erhöhen, damit Studierende selbst entscheiden können, welche Schwerpunkte sie innerhalb des Studiums setzen.
+Unabhängige Wissenschaft fängt im Studium an. Wir bekennen uns zu den Prinzipien: Keine Anwesenheitspflicht, keine Studiengebühren, volle Durchlässigkeit zwischen Bachelor und Master.
+Wir wollen Wege finden, mit denen wir die Möglichkeiten eines Teilzeitstudiums weiter verbessern und dadurch auch die Studierenden erreichen, die faktisch Teilzeit studieren, ohne sich im Teilzeitstudium zu befinden. Teilzeitstudium kann ein Weg sein, um Erwerbsarbeit, Familie und Studium besser zu vereinbaren. Wichtig ist aber vor allem die Möglichkeit, Studienverläufe individuell zu gestalten und den persönlichen Profilen und Zeitbudgetts anzupassen. Dafür brauchen die Studierenden Wahlfreiheit und Flexibilität bei der Wahl der Angebote. Hochschulen sollen durch individuelle freiwillige Beratung diese Studienverläufe unterstützen. Vom Messen der Leistung der Hochschulen fixiert auf Abschlüsse in Regelstudienzeit wollen wir in den Hochschulverträgen weiter Abstand nehmen.
+Zur Förderung einer besseren Anerkennungskultur von Studienleistungen, implementieren wir die Beweisumkehr bei der Anerkennung von Leistungsnachweisen anderer Hochschulen, inklusive der im Ausland erbrachten Studienleistungen.
+Wir wollen die Studienberatung weiter ausbauen, damit es zu noch weniger Studienabbrüchen kommt.
+Wissenschaft bedeutet, dass Forschung und Lehre zusammenkommen. Die Lehre wird grundsätzlich von Professor*innen und wissenschaftlichen Mitarbeiter*innen ausgeübt. Reine Lehrstellen – zum Beispiel über Lehrbeauftragte – darf es deshalb nur ergänzend als Schnittstelle zur Praxis und in Ausnahmefällen zur Abdeckung kurzfristiger Sonderbedarfe geben.
+Wir wollen eine verpflichtende Lehrevaluation, die in den Gremien der Hochschulen ausgewertet und mit systematischen Handlungsempfehlungen versehen werden.
+
+Soziale Lage der Studierenden verbessern, Studienerfolg und Berufsperspektiven absichern
+
+In den letzten Jahren sind die Studierendenzahlen in Berlin stark gestiegen, von 130.000 Anfang der Nuller Jahre auf über 190.000 zurzeit. Das hat die SPD in Bund und Land unterstützt, zumal wir auf die Fachkräfte insbesondere im Bereich Lehrkräfte, Soziale Arbeit, Erziehungsberufe, öffentliche Verwaltung inklusive Polizei und Rechtspflege dringend angewiesen sind.
+
+In Folge der Einschnitte in der Hochschulfinanzierung vergangener Jahrzehnte – trotz momentaner Aufwüchse von 3,5% – und in Folge der Bolognareformen sind aber Studiendruck und Arbeitsverdichtung an den Hochschulen gestiegen. Hinzu kommen steigende Lebenshaltungskosten, insbesondere Mieten und daher auch zunehmende Belastung durch Erwerbsarbeit bei Studierenden.
+
+Heute nehmen über 40% eines Jahrganges ein Studium auf. Berufe, die früher in vollschulischer Form ausgebildet wurden, werden heute teilweise akademisch gelehrt, weil die Komplexität und der Spezialisierungsgrad zugenommen haben. Akademisierung ist ein wichtiges Thema in der Pflege wie in den Erziehungsberufen, aber auch in technischen und anderen Berufsfeldern. Dazu steht die SPD.
+
+Die Duale Ausbildung ist neben der akademischen Ausbildung die zweite Säule. Die akademische Ausbildung mit ihren rund 18.000 Bachelorstudiengängen trägt einerseits der notwendigen Multiprofessionalität vieler Aufgabenfelder Rechnung. Die duale Ausbildung nach BBiG und HwO ermöglicht mit ihren rund 350 Ausbildungsberufen andererseits den fachlichen Zugang zu über einhunderttausend Fachberufen und erfüllt damit ebenfalls den Anspruch der Multifunktionalität im Hinblick auf die beruflichen Perspektiven nach Abschluss der Ausbildung.
+
+Allerdings hat sich durch steigende Mieten und unzureichende Anpassung des BAFöG die soziale Lage der Studierenden besonders in Metropolen wie Berlin verschlechtert.
+
+Darunter leiden insbesondere die jungen Menschen, die aus dem Elternhaus weder finanzielle Unterstützung noch den Erfahrungshintergrund einer Akademikerfamilie mitbringen sowie Studierende mit Kindern. Auch diejenigen, die in höherem Lebensalter durch längere Bildungswege,gerade oder nach einer Phase der Berufstätigkeit ihr Studium aufnehmen. Gerade auch in Studiengängen wie der sozialen Arbeit oder der Gesundheitsberufen (ohne Medizin), die bei späterer Berufstätigkeit keine hohen Einkommen erwarten lassen.
+
+Hinzu kommt die gestiegene Heterogenität der Studierendenschaft auch in Bezug auf Herkünfte und Fluchthintergründe. Für diese Studierendengruppen ist das Angebot vor allem des Studierendenwerks und andere niedrigschwellige und kostengünstige Beratungs- und Unterstützungsangebote besonders wichtig. Sozialberatung, Arbeitsberatung, psychologische Studienberatung müssen ausreichend vorgehalten werden. Wir brauchen darüber hinaus Wohnangebote, die auch für Studierende mit Kindern geeignet sind und den international üblichen Wohnformen entgegenkommen. Hier sind oft mehr günstige WG- oder Wohnheimzimmer mit Gemeinschaftsflächen zu finden als Einzelappartements. Wir brauchen Kinderbetreuung, die sich an Tageszeiten und Semesterzeiten anpasst und räumlich günstig zum Studienort liegt. Für alle Angehörigen der Hochschulen kann Wege- und Zeitsparende Organisation des Alltags Studien- bzw. wissenschaftlichen oder beruflichen Erfolg entscheidend beeinflussen. Zeitpolitik ist Frauen- und Familienpolitik.
+
+Das Hochschulstudium, insbesondere auch an Fachhochschulen oder Hochschulen für angewandte Wissenschaft, ist ebenso ein Thema der inklusiven Gesellschaft und des Bildungsaufstieges für unsere diverse Gesellschaft wie die Förderung aller Kinder in der Schule und Kita. Es kann nicht mit dem Schulabschluss Schluss sein. Wir sind verpflichtet, auch weiterhin Kinder aus Nichtakademikerfamilien oder mit Migrationsgeschichte nicht vor verschlossenen Türen stehen oder nach kurzer Zeit an der Belastung und der unzureichenden Betreuung und Beratung scheitern zu lassen.
+
+Senat und sozialdemokratische Mitglieder des Abgeordnetenhauses sollen sich dafür einsetzen, dass die soziale Lage aller Studierenden nachhaltig verbessert wird:
+
+Berlin muss sich in Bundesrat und Bundestag weiter dafür einsetzen, dass das Bafög den Lebenshaltungskosten der Studierenden auch in Metropolen angepasst wird.
+Wir wollen den beispielgebenden Berliner Studentischen Tarifvertrag weiter als Modell auch für außeruniversitäre Forschungseinrichtungen und andere Bundesländer bewerben.
+Die Angebote des Studierendenwerks sollen bedarfsgerecht ausgebaut und finanziert werden. Der gestiegenen Heterogenität und der Bedarfe an Arbeits- und Sozialberatung im komplexen deutschen System sowie an psychologischer Beratung ist Rechnung zu tragen.
+Die Forderungen der Studierenden nach ausgewogener, gesunder und klimaschonender Ernährung sollen weiter aufgenommen werden. Die dazu nötigen Strukturen in Einkauf und Ausstattung der Mensen und Caféterien ist zu berücksichtigen.
+Hochschulnahe Wohnangebote für Studierende – auch mit Kindern – müssen in vielfältiger Weise ausgebaut werden. Auch Kinderbetreuung, die sich in den angebotenen Betreuungszeiten täglich und vor allem in den Vorlesungszeiten zeitlich und örtlich mit dem Studium gut vereinbaren lässt, muss weiter ausgebaut werden. Hier sind auch die Bedarfe des Wissenschaftlichen Personals und der Mitarbeitenden in Verwaltung, Technik und Service zu berücksichtigen.
+Das ABC-Ticket im Rahmen der Rückmeldegebühren ist sozial-, verkehrs- und umweltpolitisch ein großer Erfolg. Bei weiteren Absenkungen der Nahverkehrstarife dürfen die Studierenden nicht vergessen werden.
+
+Studentischen Wohnraum schaffen
+
+Berlin hat in den letzten Jahren (auch dank der Förderung des Bundes) die Zahl der Studienplätze auf 195.000 erhöht, insbesondere im Bereich von Qualifikationen, die dringend in der Stadt benötigt werden, wie die Ausbildung für den öffentlichen Dienst (z.B. Polizei und Rechtspflege sowie Lehrkräfte, Soziale Arbeit, Erziehungsberufe, Pflege- und Gesundheitsberufe) aber auch für die erfolgreiche Start-up-Szene oder Ansiedlungen in Forschung- und Entwicklung von Unternehmen. Internationalisierung ist eine der Strategien, mit der Berliner Universitäten erfolgreich sind.
+
+Damit diese Entwicklung nicht durch Wohnraummangel abgewürgt wird sollen neben den bestehenden Bemühungen folgende einzelnen Maßnahmen ergriffen werden:
+
+Am Campus Schöneberg der HWR soll der Neubau für Kita, studentisches Wohnen und Lehrgebäude zügig finanziert und umgesetzt werden.
+Am Campus Lichtenberg der HWR soll zügig der Übergang von der BIM ins Fachvermögen der Wissenschaftsverwaltung umgesetzt werden. Der Campus soll saniert und weiterentwickelt werden inklusive der Sportstätten für die Polizeiausbildung und ausreichend Wohnraum für Studierende und Auszubildende, insbesondere der Polizei und anderer öffentlicher Belange.
+An den Standorten der Alice-Salomon-Hochschule in Hellersdorf und der HTW in Oberschöneweide sollen geeignete Grundstücke angekauft werden um campusnahe Wohnmöglichkeiten zu schaffen. An beiden Standorten ist die Wohnsituation für Studierende schwierig, wodurch lange Anfahrten nötig sind. Gleichzeitig würde campusnahes Wohnen auch der Verankerung der Hochschulen in ihren Stadtteilen dienen.
+
+Bei der Planung für die Beuthhochschule in Tegel soll maximal möglicher studentischer Wohnraum berücksichtigt werden.
+An den Standorten der drei Universitäten in Mitte, Dahlem und Charlottenburg sollen alle Universitätseigenen Grundstücke, wie zum Beispiel Parkplätze und Immobilien darauf hin überprüft werden, ob bei Sanierung oder Umbau – auch kleinteilig – studentischer Wohnraum geschaffen werden kann. Die Strategie nur big is beautifull muss hinterfragt werden. Geeignete Grundstücke in Privatbesitz oder Besitz des Bundes sollen unter Mitwirkung der Hochschulen identifiziert werden, um in Ankaufgespräche einzutreten.
+
+Bei der Planung studentischen Wohnraums sollen insbesondere auch folgende Wohnformen Berücksichtigung finden:
+
+Wohnraum für Studierende mit Kind oder Kindern
+Wohnraum für Studierende mit Behinderung
+Wohnraum in Form von Wohngemeinschaften mit gemeinsam genutzten Küchen und unter Umständen Bädern, wie international üblich
+Gemeinschaftsflächen für Kommunikation und Begegnung und sozialräumliche Öffnung
+
+Bei der Planung sollen folgende Bauweisen Berücksichtigung finden:
+
+Schnellbau mit einfachem Standard für kürzere Nutzungszeiten, z.B. 30 Jahre auch unter Verwendung von Holzmodulbau
+
+Für die schnelle Umsetzung müssen alle Kooperationspartner*innen in der Stadt ins Boot geholt werden. Zunächst das Studierendenwerk und die Genossenschaften, die Hochschulen und mögliche weitere Akteure.
+
+Zukünftige nachhaltige Wissenschaftspolitik für Berlin
+
+Unsere Berliner Hochschulen sind bundesweit und international in ihren Profilen und ihrer Forschung sehr gut aufgestellt. Die Attraktivität zeigt sich vor allem auch in dem Zuzug von Wissenschaftler*innen aus der gesamten Bundesrepublik und der Welt. Die Strahlkraft wird durch die Berliner Erfolge im Rahmen der Exzellenz-Strategie noch gesteigert. Wir als Berliner SPD unterstützen unsere Hochschulen auf ihrem erfolgreichen Kurs und stehen für exzellente Forschung und Wissenschaft – in der Spitze wie in der Breite! Um eine gute Mischung zwischen erfolgreicher, autonomer Forschung und der Realisierung gesellschaftlicher Bedarfe durch nachhaltige
+Wissenschaftspolitik
+zu realisieren, setzen wir uns in den kommenden Jahren für folgende Maßnahmen ein:
+
+Wir fordern, dass sich Senat und die sozialdemokratischen Mitglieder des Abgeordnetenhauses und des deutschen Bundestages dafür einsetzen, dass die Anstrengungen des Bundes und der Länder zu einer dauerhaften deutlich erhöhten Grundfinanzierung der Wissenschaft in Deutschland intensiviert werden
+Um beste Wissenschaft zu garantieren, setzen wir uns auch in Zukunft auf Landesebene für eine hohe und verlässliche Grundfinanzierung der Berliner Hochschulen ein. Die Laufzeit der Hochschulverträge soll auch in Zukunft mindestens vier Jahre betragen und mindestens eine 3% Steigerung der Mittel enthalten. Dadurch soll ein gesundes Verhältnis von Grund- zu Drittmittelfinanzierung und die finanzielle Ausstattung weniger drittmittelbegünstigten Bereiche gewährleistet sein. Darüber hinaus gehende Tarifabschlüsse im öffentlichen Dienst sollen durch eine Tarifanpassungsklausel ausgeglichen werden, damit eine gute Tarifentwicklung nicht zu Lasten der qualitativen Entwicklung der Hochschulen und der Qualität der Lehre geht.
+Die Studienplatzkapazitäten wollen wir erhalten und insbesondere die Bereiche stärken, in denen ein gesellschaftlicher Bedarf besteht. Für Berlin bedeutet dies in den nächsten Jahren weiterhin den Bereich „Soziale Arbeit“ sowie insbesondere auch die Gesundheitsberufe zu stärken.
+Der Bedarf an Lehrkräften wird auch in den kommenden Jahren hoch sein. Gut ausgebildete Lehrkräfte sind der entscheidende Faktor für die Leistungsfähigkeit unseres Schulsystems. Um den Lehrkräftebedarf an den Berliner Hochschulen in angemessener Quantität und Qualität gerecht zu werden, wollen wir neben dem Ausbau der Studienplatzkapazitäten die zentralen „Schools of Education“ an den Berliner Universitäten stärken und mit eigenen Professuren und eigenen Lehramtsstudiengängen ausstatten. Durch eine Stärkung der Fachdidaktiken soll zudem sichergestellt werden, dass Schule als Lernort für Demokratie verstanden wird und Fragen der Unterrichtskultur und der Mitbestimmung von Schüler*innen stärkeren Eingang in die Lehrkräfteausbildung finden.
+Wir werden die Abstimmung zwischen den lehrkräfteausbildenden Universitäten weiter ausbauen, Übergänge erleichtern, Beratung und Betreuung der Studierenden ausbauen und das Lehrpersonal gezielt weiterbilden für die Erfordernisse des Berliner Schulsystems. Lehrkräfteausbildung hat für die SPD absolute Priorität.
+Neu gegründet werden soll eine Akademie für das Wissenschaftsmanagement, um den gestiegenen Anforderungen und Komplexität im Wissenschaftssystem auch personell besser Rechnung zu tragen.
+Um Qualität statt Quantität in Wissenschaft und Forschung zu stärken, werden wir uns im Rahmen unserer Möglichkeiten dafür setzen, den in den letzten Jahren entstandenen „Publikationswahn“ Einhalt zu gebieten. Statt politisch Anreize für lange Publikationslisten zu setzen, wollen wir eine Kultur stärken, die die Quantität von Publikationen als Reputationsfaktor hin zu anderen Qualitätskriterien verschiebt, Gesellschaftliche Relevanz von Forschungsergebnissen und Einbindung in die Stadtgesellschaft sollen stärker honoriert werden.
+Ebenfalls im Rahmen der Grenzen der Hochschulautonomie wollen wir die Berufungskriterien und -verfahren transparenter gestalten. Zu überlegen ist auch, inwieweit die Hochschulen dazu ermutigt werden können, die Berufungsverfahren und die Zusammensetzung der Kommissionen neu zu strukturieren, indem diese sich beispielsweise per Los aus einem Pool von möglichen Mitgliedern rekrutieren.
+Ziel ist eine geschlechterparitätische Besetzung der Gremien, die aber in Fächern, in denen Frauen stark unterrepräsentiert sind, nicht zu einer Überlastung der Frauen führen darf. Hier sind geeignete Wege der Unterstützung und Kompensation zu finden.
+Die Senatsverwaltung soll zügig einen Ruf erteilen, wenn es keine Beanstandung der Liste gibt.
+Im Fall von Berufungsverfahren, die beispielsweise durch Frauenbeauftragte oder Diversity oder Antidiskriminierungsstellen beanstandet werden, soll es einen zügigen Clearingprozess geben, bevor der Ruf erteilt wird.
+
+Die ausgeprägte Kooperationskultur und Vernetzung in der Berliner Wissenschafts- und Forschungslandschaft wollen wir weiter stärken. Während wir in den letzten Jahren bei der Wissenschaftspolitik bereits Einiges erreicht und bewegt haben, gilt es in den kommenden Jahren den Fokus vor allem auf die
+Forschungspolitik
+zu richten. Die Berlin University Alliance bietet für den Wissenschaftsstandort Berlin eine einmalige Chance für die Zukunft um in Berlin eine im besten Sinne soziale, nachhaltige und demokratische Forschungspolitik, die sich insbesondere den Bereichen „Sozial-ökologische Transformation“, „Arbeit 4.0 / KI“ und „Gesundheit / Wohlbefinden“ widmet. Dazu werden wir folgende Maßnahmen ergreifen:
+
+Wir bekennen uns dazu, dass gesellschaftsrelevante Themen Kernbereiche der Forschung darstellen. Die Entwicklung der Arbeit der Zukunft, die Digitalisierung, das autonome Fahren, Stärkung der Nachhaltigkeit, Biodiversität, Friedens- und Konfliktforschung, vorausschauende Stadtentwicklung und die Erforschung des Umgangs mit dem Kolonialismus sind nur einige Beispiele dafür.
+Mit der strategischen Neuausrichtung der Interdisziplinären Forschungsverbünde werden wir ab 2020 ein Förderinstrument des Landes haben, wodurch gezielt die Forschungsprojekte für eine sozial-ökologische Stadtentwicklung unterstützt und Anregungen für Forschungsbedarfe aus der Stadtgesellschaft aufgenommen und integriert werden können.
+Wir fördern gezielt auch solche Fachbereiche, die nicht dem Mainstream entsprechen und eher weniger Drittmittel einwerben können, weil sie nicht unmittelbar der Wirtschaft nützen. Dies gilt in besonderer Weise für gesellschafts- und sozialwissenschaftliche Themen.
+Die Öffnung hin zur Gesellschaft bedeutet auch die Rahmenbedingungen für Ausgründungen zu verbessern und Studierenden den Weg von Forschung und Wissenschaft hin zu Startups bzw. Unternehmensgründung zu erleichtern.
+Wo es die beteiligten Akteur*innen wünschen, wollen wir die Vernetzung und den Wissenstransfer zwischen Forschungsinstituten, Hochschulen, Unternehmen und weiteren Institutionen fördern.
+Wir stärken die Friedensforschung und bekennen uns zur Zivilklausel, d.h. wir bestärken unsere Wissenschafts- und Forschungseinrichtungen dazu, ausschließlich für friedliche Zwecke zu forschen.
+Berlin soll bundesweit führend in der Erforschung von Alternativen zu Tierversuchen werden und dahingehend neue Maßstäbe setzen.
+
+Gesundheitsstadt Berlin 2030
+
+Wir werden Berlin zur europäischen Gesundheitssmetropole ausbauen. Berlin hat mit dem Umfeld von exzellenten Wissenschaftseinrichtungen sowie den Landesunternehmen Charite und Vivantes beste Voraussetzungen. Wir werden die Charite und Vivantes baulich modernisieren, auf den neuesten Stand der Digitailisierung bringen und ihre jeweiligen Profile weiter stärken. Wir wollen beste Krankenversorgung in allen Regionen unserer Stadt. Krankenversorgung darf nicht davnb abhängig sein, in welcher Region man lebt. Deswegen werden wir alle Standorte unserer Kliniken stärken. Medizinische Weiterentwicklung lebt von exzellenter Forschung. Mit der Integration des Berliner Instituts für Gesundheitsforschung haben wir dazu beste Rahmenbedingungen.
+
+Berlin – Wissenschaftsstadt 2035 durch Investitionen absichern
+
+Auch in den Hochschulen ist durch die lang anhaltende Haushaltskonsolidierungsphase ein hoher Sanierungsrückstau entstanden. Analog zur Schulbauoffensive brauchen wir ein langfristig angelegtes Sanierungs- und Neubaukonzept für die Berliner Hochschulstandorte. Dazu fordern wir:
+
+Der Wissenschaftssenat entwickelt gemeinsam mit den Hochschulen und Forschungseinrichtungen sowie mit den Bezirken, der Innenverwaltung, Stadtentwicklung und Finanzen einen Hochschulentwicklungs- und Investitionsplan, der folgende Ziele hat:
+Den Sanierungsrückstau in den Hochschulen in diesem Zeitraum zu beseitigen und analog zur Schulbauoffensive langfristige Planung und Finanzierung sicher zu stellen.
+Die Campusentwicklung an allen Hochschulstandorten unter Gesichtspunkten der Rolle der Hochschulen im Sozialraum, des studentischen Wohnens, der Ausbildungsqualität und der Daseinsvorsorge durch Sportstätten zu planen und zu finanzieren.
+
+Dazu muss geprüft werden,
+
+inwiefern Grundstücke von Dritten erworben werden müssen, um die Campi zu entwickeln
+Inwiefern Anmietungen durch Sanierung und Neubau überflüssig werden können
+inwiefern landeseigene Grundstücke von z.B. der BIM ins Fachvermögen der Wissenschaftsverwaltung verlagert werden sollten
+wie die erfolgreiche Bauherreneigenschaft der Hochschulen – auch in Kooperation z.B. mit Fachhochschulen – weiter gestärkt werden kann
+welche Partner aus dem Bereich der öffentlichen Unternehmen bei der Campusentwicklung mit einbezogen werden können, um die Effektivität zu erhöhen, Synergien zu schaffen und die Prozesse zu beschleunigen.
+wie die IT-Infrastruktur in Bezug auf Datendurchsatz und Speicherung an den Campi zukunftsfest ausgebaut werden muss und ob dazu ein öffentliches Netz notwendig ist.
+
+Der erste Schritt muss die Finanzierung und konsequente Umsetzung des 6-Punkte-Sofortplans „Gemeinsamer Maßnahmenplan zum „Gutachten über den Instandsetzungsbedarf an den Berliner Hochschulen“ von den Berliner Hochschulen und der Senatskanzlei – Wissenschaft und Forschung“ sein.
+
+Den Berliner Hochschulen kann als „institutionellen Einheiten, die vom Land Berlin kontrolliert werden“ eine Kreditermächtigung eingeräumt werden. Eine Kreditaufnahme setzt allerdings in jedem Einzelfall dann auch eine einzelfallbezogene Einwilligung des Berliner Abgeordnetenhauses voraus, wobei die Finanzierung der Kredite im Haushalt des Landes abzusichern ist.
+
+Wissenschaft Kommunikation Lernorte
+
+Wissenschaft braucht Kommunikation. Nicht nur intern, sondern vor allem mit allen Teilen der Gesellschaft. Wissenschaft muss Akzeptanz schaffen und wissenschaftliche Ergebnisse aller Disziplinen sollen Eingang finden sowohl in politisches, wirtschaftliches und Alltagshandeln. Wissenschaft muss begeistern, um Nachwuchs zu finden, nicht nur für akademische Berufe, sondern auch für Wissenschaftsuntertützende Berufe z.B Laborassistenz u.v.a. Für diese Prozesse werden sowohl Räume benötigt sowie Strukturen, die diese Kommunikation organisieren. Schüler*innenlabore, Schüler*innenuni sind Angebote, die junge Menschen für verschiedenste Disziplinen begeistern sollen. Dies ist besonders für die jungen Menschen wichtig, die diese Zugänge nicht über das Elternhaus vermittelt bekommen können. Außerschulische Lernorte sind z.B. Museen (Stadtmuseum, SPK, Naturkundemuseum und Botanischer Garten u.v.a.) Gedenk- und Kulturorte sowie Einrichtungen wie die Planetarien oder das Gläserne Labor.
+
+Wir wollen Außerschulische Lernorte für Wissenstransfer aus Hochschulen noch besser nutzen:
+
+Dazu werden wir eine koordinierende Stelle schaffen, die die außerschulischen Lernorte vernetzt und koordiniert, über die Angebote informiert und Schulen und Kitas unterstützt, diese Angebote wahr zu nehmen. Diese Stelle kann z.B. beim größten Außerschulischen Lernort,der Stadt, Stiftung Planetarium Berlin, angesiedelt sein.
+Wissenschaft und Forschung sollen offen sein für die ganze Gesellschaft. Dazu gehört auch, dass wir Wege finden, um Wissenschaft zugänglich und nahbar zu machen, etwa durch freie Eintritte für Museen und Dialogformate zum Austausch zwischen Wissenschaftsinstitutionen und Stadtgesellschaft.
+Wissenschafts- und Forschungseinrichtungen müssen Orte der gesellschaftspolitischen Auseinandersetzung bleiben. Dazu gehören die freie Meinungsäußerung sowie der freie Zugang zu Räumen für politische Veranstaltungen z.B. für politische Kongresse an den Berliner Hochschulen.
+Für die Kommunikation mit der Stadtgesellschaft und die Debatte über gegenwärtige und zuküntige Fragestellungen braucht die Wissenschaft nicht nur Schaufenster, sondern Räume in allen Teilen der Stadt. Diese gilt es zu identifizieren, für das Land und die Wissenschaft zu sichern und tragfähige Konzepte mit den Partner*innen zu entwickeln,
+
+Wissenschaft nachhaltig
+
+Nicht erst seit FridaysforFuture sind Hochschulen und Einrichtungen wie das Studierendenwerk um nachhaltiges Handeln bemüht und gibt es Bestrebungen, nachhaltige Entwicklung als handlungsleitendes Prinzip in Hochschulen und Wissenschaftspolitik zu verankern. Wir begrüßen die FridayforFuture-Initiativen von Studierenden an den Hochschulen sowie das Engagement der Wissenschaftler*innen bei science for future und bekennen uns zu den Zielen der Nachhaltigkeit.
+
+Dabei lehnen wir uns an die Definition an, die nachhaltiger Entwicklung beschreibt als Strategie, die globale und intergenerationelle Gerechtigkeit, Chancengleichheit, Erhalt von Biodiversität und Ökosystemen, Klimaschutz, verantwortungsvollen Konsum, ressourcenschonendes und kreislauforientiertes Produktionsverhalten sowie faire Arbeits- und Handelsbedingungen umfasst und insofern eine umfassende Transformation anstrebt.
+
+Wir werden:
+
+Nachhaltigkeit als Aufgabe der Hochschulen im Hochschulgesetz verankern
+Transparente Governancestrukturen schaffen, die nachhaltige Entwicklung an den Hochschulen ermöglichen
+Die Hochschulen dabei unterstützen, alle Gruppen der Hochschulen in die Entscheidungen einzubeziehen
+Regelungen in Landes- und Bundesgesetzgebung identifizieren und verändern, die nachhaltiges Handeln z.B. bei Reisen oder Vergaben behindern.
+
+Bei der Erarbeitung der Nachhaltigkeitsstrategie arbeiten wir als SPD mit den Akteur*innen an den Hochschulen und übergreifenden Initiativen wie der Initiative für Nachhaltigkeit und Ethik an den Hochschulen (netzwerk-n, Was bildet Ihr uns ein? u.a.) zusammen.
+
+# Beschluss
+
+- **Überweisen an:** AH Fraktion, Senat
+- **Beschluss:** Annahme
+
+**Text des Beschlusses:**
+
+Grundsätze in Wissenschaft und Forschung für die ZukunftWissenschaft und Forschung sind essenziell zur Lösung sowohl der großen internationalen Zukunftsfragen sowie der zentralenFragen der wachsenden StadtBerlin. Berlin hat durch die Dichte und Vielfalt an Wissenschafts- und Forschungsinstitutionen ein unglaubliches Potenzial an ersichtlicher Qualität, das wir in den kommenden zehn Jahren gezielt weiter auszubauen werden.
+
+Es gilt dieses Potenzial im Sinne der Stadt, ihrer Wissenschaftler*innen, Forscher*innen, Erfinder*innen und Bewohner*innen zu nutzen. Eine sozialdemokratische Wissenschafts- und Forschungspolitik orientiert sich dabei an den Grundsätzen der vertikalen wie horizontalen Durchlässigkeit, maximalerChancengleichheit, Vielfalt bei Gleichwertigkeit und eine breite Beteiligung der Betroffenen an Prozessen. Wir wollen Wissenschaft und Forschung im Sinne aller an ihnen Mitwirkenden und Partizipierenden, aber auch im Sinne der Bürgerinnen und Bürger!Es ist die Aufgabe des Staates, dieAutonomievon Wissenschaft und Forschung zu schützen, dabei aber zugleich die politischen Rahmenbedingungen für eine positive und progressive Entwicklung zu setzen.
+
+Durch die neoliberalen Reformen der vergangenen Jahrzehnte, die sich in der Wissenschaft in Form des New Public Management niederschlugen und der Theorie eines effektiv administrierbaren, outputorientierten nach wirtschaftlichen Gesichtspunkten ausgerichteten Wissenschaftssystems gründeten, wurde Wissenschaft jedoch vielfach nicht nur prekarisiert sondern im Wettlauf um Drittmittel auch in ihrer Freiheit beschränkt. Alle Versuche, die Lehre zu verbessern und ihren Stellenwert zu erhöhen, mussten in einem derartigen System wenig Erfolge zeitigen. Nur eine solide Grundfinanzierung, ergänzt durch Exzellenz, Drittmittel und kooperative Forschungsvorhaben, kann auch den Querdenker*innen und denen, die an langfristigen und weniger kurzfristig outputorientierten Vorhaben arbeiten, die notwendige Grundlage bieten.
+
+Das Land Berlin hat hier bereitspolitische Instrumente, wie beispielsweise die Hochschulverträge entwickelt, die sich bewährt haben und weiterhin eine zentrale Rolle in der wissenschaftspolitischen Gestaltung spielen sollten.
+
+So sind Wissenschafts- und Forschungseinrichtungen öffentliche Institutionen, die in einem Spannungsverhältnis zwischen Autonomie von Wissenschaft und Forschung einerseits und dengesellschaftlichen Bedarfen und gesellschaftlicher Verantwortungandererseits stehen. Sozialdemokratische Wissenschafts- und Forschungspolitik greift entsprechend gestaltend ein, ohne die Autonomie von Wissenschaft und Forschung einzuschränken.
+
+Sozialdemokratische Wissenschafts- und Forschungspolitik bedeutet unabhängige,kritische Wissenschaft. Sie rechtfertigt sich aus sich selbst heraus und untersteht allein den wissenschaftlichen Prinzipien. Diese Aussage klingt selbstverständlich, ist es aber nicht. Tatsächlich ist Forschung mehr und mehr zahlreichen Abhängigkeiten ausgesetzt. Manche von ihnen sind nicht vollständig vermeidbar, etwa bei der Finanzierung. Aber eine Wissenschaft, die nur solche Ergebnisse „produzieren“ soll, die von Auftraggebern gewünscht sind, ist Pseudo-Wissenschaft.
+
+Das Bild einer unabhängigen Wissenschaft gerät stärker unter Druck. Selbst Grundsätze, die vor kurzem noch als selbstverständlich galten, sind es heute nicht mehr.
+
+So hat die CDU-Wissenschaftsministerin Anja Karliczek ein Verständnis von Wissenschaft und Forschung, nach dem es vornehmlich darum geht konkrete Ergebnisse zu produzieren, die so sofort verwendbar sind – am besten für die Wirtschaft. Doch so funktioniert Wissenschaft nicht: Wissenschaft braucht eine umfangreiche Grundlagenforschung und die Freiheit Erkenntnisse zu produzieren, ohne das diese unmittelbar wirtschaftlich verwertbar sind. Wissenschaft ist kein Zulieferbetrieb für die Wirtschaft. Wissenschaft ist Erkenntnisgewinn und kritisches Denken.
+
+Wissenschaft und Forschung dienen nicht nur wenigen. Es ist verlässlich nachgewiesen, dass Wissenschaft und Forschung nachhaltig auf die Arbeitsplatzentwicklung in den Regionen wirken und große Auswirkung auf das Wirtschaftswachstum haben. Dabei entstehen Arbeitsplätze auf allen Qualifikationsniveaus und Löhne steigen. Darüber hinaus hat Wissenschaft und Forschung in der Region einen großen Anteil am Bildungsaufstieg bislang ausgegrenzter gesellschaftlicher Gruppen. Die Ergebnisse von Forschung können ALLE Arbeitsplätze gesünder und nachhaltiger gestalten. Dabei gehen Sozialforschung und technische Innovation idealerweise Hand in Hand. Ohne Wissenschaft und Forschung werden wir weder die regionalen Probleme z.
+
+B. des Verkehrs und der Energieversorgung oder der Partizipation und des sozialen Zusammenhalts noch die globalen Probleme der Friedenssicherung oder des Klimawandels lösen können. Digitalisierung und Automatisierung, Künstliche Intelligenz und Welthandel, Inklusion und Gleichstellung brauchen Wissenschaft.
+
+Die deutsche Wissenschaft, und Berlin mit an der Spitze, sind hocherfolgreich im internationalen Vergleich. Mit dem Zukunftsvertrag ist der Bund dauerhaft und verlässlich in die Finanzierung der Hochschulen eingestiegen. Das ist auch ein Erfolg sozialdemokratischer Verhandlungserfolge. Trotzdem ist ein „Mitspielen“ in der Weltspitze auf diesem Niveau nicht nachhaltig zu erreichen. Während andere große Industrienationen bis zu 2,5 % ihres Bruttosozialproduktes in Wissenschaft und Forschung investieren, ist Deutschland mit 1,2 % öffentlicher direkter Mittel weit hinter her. Dabei gibt es unter den Spitzenreitern Staaten, in denen der Anteil der privaten Finanzierung über Stiftungen, Schenkungen aber auch Studiengebühren, die weitgehend die Mittelschicht aufbringt und sich dafür verschuldet hoch ist, aber auch solche Staaten, die Bildung sowie Wissenschaft und Forschung grundsätzlich als Aufgabe der staatlichen Daseinsvorsorge betrachten und öffentliche finanzieren. Diese sollte sich Deutschland zum Vorbild nehmen, weil ein durchlässiges Bildungssystem grundlegend notwendig ist und eine Erosion der Mittelschicht durch Verschuldung katastrophale gesellschaftliche Folgen zeitigt.
+
+Situation in der Berliner Wissenschafts- und ForschungspolitikIn der Berliner Wissenschafts- und Forschungspolitik finden die beschriebenen sozialdemokratischen Grundsätze bereits jetzt Anwendung. Im bundesweiten Vergleich pflegt Berlin eine starkeKultur des Austausches und der Kooperationzwischen Politik, Stadtgesellschaft und den Wissenschafts- und Forschungsinstitutionen. Diese gilt es zu erhalten und weiter auszubauen. Insbesondere bei der Vernetzung zwischen Hochschulen und Forschungseinrichtungen wollen wir in den kommenden Jahren einen Schwerpunkt setzen.
+
+Doch auch das Verhältnis zwischen Land und Hochschulen wollen wir weiter intensivieren, indem wir im Vorfeld der Verhandlungen zu den Hochschulverträgen die gesellschaftlichen undpolitischen Präferenzender Stadt durch partizipative Elemente stärker integrieren. Die Schwerpunkte eines Hochschulvertrages müssen im Vorfeld sowohl in den Gremien der Hochschulen als auch im Parlament beraten werden. Ziel ist, eine breite gesellschaftliche Auseinandersetzung mit den Themen der Hochschulen.
+
+So stellen dieHochschulverträgenach wie vor für uns das zentrale politische Instrument dar, um die Bedarfe der Stadtgesellschaft in die Hochschulen zu transferieren. Durch die bessere finanzielle Situation war es uns in den letzten Jahren möglich, wesentliche gesellschaftspolitische Prozesse anzustoßen und Weichen für die Zukunft zustellen. Zu nennen sind hier insbesondere die Einrichtung eines Instituts für Islamische Theologie an der Humboldt-Universität zu Berlin, die Einrichtung einer Geschäftsstelle für die neu gegründete Landeskommission Duales Studium, eine Erhöhung der Studienplätze insbesondere in den Bereichen „Soziale Arbeit“, „Erziehung und Bildung im Kindesalter“, „Öffentliche Verwaltung“ und schließlich im Bereich des Lehramts.
+
+Schließlich hat die SPD dafür gesorgt, dass in den jüngsten Hochschulverträgen 2018 bis 2022 das Land Berlin seine elf staatlichen Hochschulen und die Charité durchErhöhung der Grundmittelstärkt: Die Verträge wurden erstmals über einen Zeitraum von fünf Jahre und mit einem Aufwuchs von 3,5 % p.a. abgeschlossen. Die Hochschulen erhalten insgesamt 767 Mio. Euro zusätzliche Mittel. Im Jahr 2022 beläuft sich das Gesamtvolumen damit auf 1,65 Mrd. Euro.
+
+Die SPD hat die Arbeitsbedingungen an den Hochschulen wesentlich verbessert. Erstmals vereinbart wurde mit den Hochschulen:eine fest vereinbarte Mindestquote an Dauerbeschäftigten an jeder Hochschule;Mindestvertragslaufzeiten, die sich an der jeweiligen Projektlaufzeit orientiert;die familienpolitischen Möglichkeiten für Haushalts- und Drittmittelbeschäftigte vollumfassend auszuschöpfen;die Karrierewege des wissenschaftlichen Nachwuchses durch das so genannte Tenure-Track-Gesetz zu stärken;Mindest-Honorare für Lehrbeauftragte zu zahlen sowie den studentischen Tarifvertrag zu erhalten und auszubauen.
+
+Fremdvergaben zu vermeiden und Ausgründungen wie die Betriebsgesellschaft am Botanischen Garten in die Hochschule und damit in den TVL zurückzuführen (erfolgt)Zudem wurden die Mindeststundenlöhne bei der Charité Facility Management (CFM) erhöht und im Januar 2019 die CFM zu 100% in öffentliches Eigentum überführt.
+
+Diesen Kurs wollen wir fortsetzen und auch in Zukunft an der Erreichung unseres Ziels „Gute Arbeit in Wissenschaft und Forschung“ arbeiten.
+
+Berliner Wissenschafts- und Forschungspolitik weiterentwickelnGute Arbeit und eine vorausschauende Personalentwicklung bleiben zentrale Aufgaben einer sozialdemokratischen Wissenschafts- und Forschungspolitik. Wir wissen: Arbeit an Hochschulen ist oft prekär. Das ist nicht nur fatal für die betroffenen Personen, sondern führt auch zu einer schlechteren Qualität von Wissenschaft und Forschung. Als SPD wollen wir uns in den kommenden Jahren daher insbesondere für folgende Maßnahmen einsetzen, umGute Arbeit und Personalentwicklungzu verwirklichen:
+
+Wir wollen den wissenschaftlichen Mittelbau weiter stärken, indem wir attraktive Forschungsstellen neben der klassischen Professur anbieten. Diese sollen dauerhaft eingerichtet werden und sich durch wissenschaftlich eigenständiges Arbeiten auszeichnen. Damit schaffen wir eine neue Personalkategorie an den Hochschulen.
+
+Wir wollen für alle dauerhaft zu erbringenden Arbeiten Dauerstellen und gleiche Arbeit auch gleich bezahlen. Die Quote an dauerhaft Beschäftigten an den Berliner Hochschulen soll in den kommenden Jahren weiter deutlich erhöht werden.
+
+Ein Bereich, in dem es besonders viele befristet beschäftigte Mitarbeiter*innen gibt, sind Drittmittelprojekte. Der „Sachgrund“ ist hier, dass die Mittel nur befristet gewährt werden. Gemeinsam mit den Hochschulen wollen wir innovative Arbeitsmodelle etablieren, durch die gewährleistet werden kann, dass auch Drittmittelprojekte über unbefristet beschäftige Forscher*innen durchgeführt werden, z.
+
+B. durch so genannten „rolling contract“.
+
+Wir fordern, dass sich Senat und die sozialdemokratischen Mitglieder des Abgeordnetenhauses und des deutschen Bundestages dafür einsetzen, dass Drittmittel des Bundes nicht zwingend mit befristeter Beschäftigung des wissenschaftlichen Mittelbaus verbunden werden.
+
+Auch Stellen für die Einwerbung und Koordination von Drittmitteln sollen als Dauerstellen geführt werden. So bilden sie einen Bereich des Wissenschaftsmanagements. Ein auf Dauer gestelltes, professionelles Wissenschaftsmanagement beinhaltet den Vorteil, dass unsere Wissenschaftler*innen und Forscher*innen sich nicht hauptsächlich mit der Akquise zukünftiger Gelder beschäftigt müssen.
+
+Wir wollen den Weg des tenure track weiter gehen, denn er bietet den Wissenschaftler*innen Sicherheit auf dem Weg zur Professur. In Berlin soll es in Zukunft keine Juniorprofessur mehr geben, ohne dass die über einen tenure track in einem geregelten Verfahren zu einer Professur führt. Dabei muss die Frauenquote für tenure track Stellen 50 Prozent betragen. Darüber hinaus wollen wir auch Wege finden, um Stellen aus dem wissenschaftlichen Mittelbau sinnvoll mit einem tenure track auszustatten.
+
+Das Berliner Chancengleichheitsprogramm soll als wichtiges Instrument der Frauenförderung fortgeführt und weiter entwickelt werden.
+
+Die Frauenbeauftragten der Hochschulen wollen wir in ihren Kompetenzen und Ausstattung stärken und geeignete Strukturen wie ein Netzwerk Diversity und Antidiskriminierung schaffen, um struktureller Diskriminierung umfassend und wirksam zu begegnen.
+
+Wir werden uns dafür einsetzen, dass auch die studentischen Hilfskräfte an den Außeruniversitären Forschungseinrichtungen in Zukunft nach dem TV Stud bezahlt werden.
+
+Qualität und Selbstbestimmung in Studium und LehreEinen weiteren Schwerpunkt wollen wir in den kommenden Monaten und Jahren beim ThemaQualität und Selbstbestimmung in Studium und Lehresetzen. 20 Jahre nach der Bologna-Deklaration sind ein guter Zeitpunkt, um erfahrungsbasiert Bilanz zu ziehen und an den Stellen neu zu justieren, die sich in der Praxis nicht oder nur unzureichend bewährt haben. Aus sozialdemokratischer Sicht sind dahingehend folgende Maßnahmen anzugehen:
+
+Ein Jahr „Studium Generale“ für Alle, die das wollen. Wir wollen eine Studieneingangsphase bzw. ein Orientierungsstudium einführen, in der Kurse aus allen Fachbereichen gewählt werden können und Prüfungsleistungen auf das später gewählte Studium angerechnet werden können.
+
+Wir wollen den Anteil der Wahlmodule erhöhen, damit Studierende selbst entscheiden können, welche Schwerpunkte sie innerhalb des Studiums setzen.
+
+Unabhängige Wissenschaft fängt im Studium an. Wir bekennen uns zu den Prinzipien: Keine Anwesenheitspflicht, keine Studiengebühren, volle Durchlässigkeit zwischen Bachelor und Master.
+
+Wir wollen Wege finden, mit denen wir die Möglichkeiten eines Teilzeitstudiums weiter verbessern und dadurch auch die Studierenden erreichen, die faktisch Teilzeit studieren, ohne sich im Teilzeitstudium zu befinden. Teilzeitstudium kann ein Weg sein, um Erwerbsarbeit, Familie und Studium besser zu vereinbaren. Wichtig ist aber vor allem die Möglichkeit, Studienverläufe individuell zu gestalten und den persönlichen Profilen und Zeitbudgetts anzupassen. Dafür brauchen die Studierenden Wahlfreiheit und Flexibilität bei der Wahl der Angebote. Hochschulen sollen durch individuelle freiwillige Beratung diese Studienverläufe unterstützen. Vom Messen der Leistung der Hochschulen fixiert auf Abschlüsse in Regelstudienzeit wollen wir in den Hochschulverträgen weiter Abstand nehmen.
+
+Zur Förderung einer besseren Anerkennungskultur von Studienleistungen, implementieren wir die Beweisumkehr bei der Anerkennung von Leistungsnachweisen anderer Hochschulen, inklusive der im Ausland erbrachten Studienleistungen.
+
+Wir wollen die Studienberatung weiter ausbauen, damit es zu noch weniger Studienabbrüchen kommt.
+
+Wissenschaft bedeutet, dass Forschung und Lehre zusammenkommen. Die Lehre wird grundsätzlich von Professor*innen und wissenschaftlichen Mitarbeiter*innen ausgeübt. Reine Lehrstellen – zum Beispiel über Lehrbeauftragte – darf es deshalb nur ergänzend als Schnittstelle zur Praxis und in Ausnahmefällen zur Abdeckung kurzfristiger Sonderbedarfe geben.
+
+Wir wollen eine verpflichtende Lehrevaluation, die in den Gremien der Hochschulen ausgewertet und mit systematischen Handlungsempfehlungen versehen werden.
+
+Soziale Lage der Studierenden verbessern, Studienerfolg und Berufsperspektiven absichernIn den letzten Jahren sind die Studierendenzahlen in Berlin stark gestiegen, von 130.000 Anfang der Nuller Jahre auf über 190.000 zurzeit. Das hat die SPD in Bund und Land unterstützt, zumal wir auf die Fachkräfte insbesondere im Bereich Lehrkräfte, Soziale Arbeit, Erziehungsberufe, öffentliche Verwaltung inklusive Polizei und Rechtspflege dringend angewiesen sind.
+
+In Folge der Einschnitte in der Hochschulfinanzierung vergangener Jahrzehnte – trotz momentaner Aufwüchse von 3,5% – und in Folge der Bolognareformen sind aber Studiendruck und Arbeitsverdichtung an den Hochschulen gestiegen. Hinzu kommen steigende Lebenshaltungskosten, insbesondere Mieten und daher auch zunehmende Belastung durch Erwerbsarbeit bei Studierenden.
+
+Heute nehmen über 40% eines Jahrganges ein Studium auf. Berufe, die früher in vollschulischer Form ausgebildet wurden, werden heute teilweise akademisch gelehrt, weil die Komplexität und der Spezialisierungsgrad zugenommen haben. Akademisierung ist ein wichtiges Thema in der Pflege wie in den Erziehungsberufen, aber auch in technischen und anderen Berufsfeldern. Dazu steht die SPD.
+
+Die Duale Ausbildung ist neben der akademischen Ausbildung die zweite Säule. Die akademische Ausbildung mit ihren rund 18.000 Bachelorstudiengängen trägt einerseits der notwendigen Multiprofessionalität vieler Aufgabenfelder Rechnung. Die duale Ausbildung nach BBiG und HwO ermöglicht mit ihren rund 350 Ausbildungsberufen andererseits den fachlichen Zugang zu über einhunderttausend Fachberufen und erfüllt damit ebenfalls den Anspruch der Multifunktionalität im Hinblick auf die beruflichen Perspektiven nach Abschluss der Ausbildung.
+
+Allerdings hat sich durch steigende Mieten und unzureichende Anpassung des BAFöG die soziale Lage der Studierenden besonders in Metropolen wie Berlin verschlechtert.
+
+Darunter leiden insbesondere die jungen Menschen, die aus dem Elternhaus weder finanzielle Unterstützung noch den Erfahrungshintergrund einer Akademikerfamilie mitbringen sowie Studierende mit Kindern. Auch diejenigen, die in höherem Lebensalter durch längere Bildungswege,gerade oder nach einer Phase der Berufstätigkeit ihr Studium aufnehmen. Gerade auch in Studiengängen wie der sozialen Arbeit oder der Gesundheitsberufen (ohne Medizin), die bei späterer Berufstätigkeit keine hohen Einkommen erwarten lassen.
+
+Hinzu kommt die gestiegene Heterogenität der Studierendenschaft auch in Bezug auf Herkünfte und Fluchthintergründe. Für diese Studierendengruppen ist das Angebot vor allem des Studierendenwerks und andere niedrigschwellige und kostengünstige Beratungs- und Unterstützungsangebote besonders wichtig. Sozialberatung, Arbeitsberatung, psychologische Studienberatung müssen ausreichend vorgehalten werden. Wir brauchen darüber hinaus Wohnangebote, die auch für Studierende mit Kindern geeignet sind und den international üblichen Wohnformen entgegenkommen. Hier sind oft mehr günstige WG- oder Wohnheimzimmer mit Gemeinschaftsflächen zu finden als Einzelappartements. Wir brauchen Kinderbetreuung, die sich an Tageszeiten und Semesterzeiten anpasst und räumlich günstig zum Studienort liegt. Für alle Angehörigen der Hochschulen kann Wege- und Zeitsparende Organisation des Alltags Studien- bzw. wissenschaftlichen oder beruflichen Erfolg entscheidend beeinflussen. Zeitpolitik ist Frauen- und Familienpolitik.
+
+Das Hochschulstudium, insbesondere auch an Fachhochschulen oder Hochschulen für angewandte Wissenschaft, ist ebenso ein Thema der inklusiven Gesellschaft und des Bildungsaufstieges für unsere diverse Gesellschaft wie die Förderung aller Kinder in der Schule und Kita. Es kann nicht mit dem Schulabschluss Schluss sein. Wir sind verpflichtet, auch weiterhin Kinder aus Nichtakademikerfamilien oder mit Migrationsgeschichte nicht vor verschlossenen Türen stehen oder nach kurzer Zeit an der Belastung und der unzureichenden Betreuung und Beratung scheitern zu lassen.
+
+Senat und sozialdemokratische Mitglieder des Abgeordnetenhauses sollen sich dafür einsetzen, dass die soziale Lage aller Studierenden nachhaltig verbessert wird:
+
+Berlin muss sich in Bundesrat und Bundestag weiter dafür einsetzen, dass das Bafög den Lebenshaltungskosten der Studierenden auch in Metropolen angepasst wird.
+
+Wir wollen den beispielgebenden Berliner Studentischen Tarifvertrag weiter als Modell auch für außeruniversitäre Forschungseinrichtungen und andere Bundesländer bewerben.
+
+Die Angebote des Studierendenwerks sollen bedarfsgerecht ausgebaut und finanziert werden. Der gestiegenen Heterogenität und der Bedarfe an Arbeits- und Sozialberatung im komplexen deutschen System sowie an psychologischer Beratung ist Rechnung zu tragen.
+
+Die Forderungen der Studierenden nach ausgewogener, gesunder und klimaschonender Ernährung sollen weiter aufgenommen werden. Die dazu nötigen Strukturen in Einkauf und Ausstattung der Mensen und Caféterien ist zu berücksichtigen.
+
+Hochschulnahe Wohnangebote für Studierende – auch mit Kindern – müssen in vielfältiger Weise ausgebaut werden. Auch Kinderbetreuung, die sich in den angebotenen Betreuungszeiten täglich und vor allem in den Vorlesungszeiten zeitlich und örtlich mit dem Studium gut vereinbaren lässt, muss weiter ausgebaut werden. Hier sind auch die Bedarfe des Wissenschaftlichen Personals und der Mitarbeitenden in Verwaltung, Technik und Service zu berücksichtigen.
+
+Das ABC-Ticket im Rahmen der Rückmeldegebühren ist sozial-, verkehrs- und umweltpolitisch ein großer Erfolg. Bei weiteren Absenkungen der Nahverkehrstarife dürfen die Studierenden nicht vergessen werden.
+
+Studentischen Wohnraum schaffenBerlin hat in den letzten Jahren (auch dank der Förderung des Bundes) die Zahl der Studienplätze auf 195.000 erhöht, insbesondere im Bereich von Qualifikationen, die dringend in der Stadt benötigt werden, wie die Ausbildung für den öffentlichen Dienst (z.
+
+B. Polizei und Rechtspflege sowie Lehrkräfte, Soziale Arbeit, Erziehungsberufe, Pflege- und Gesundheitsberufe) aber auch für die erfolgreiche Start-up-Szene oder Ansiedlungen in Forschung- und Entwicklung von Unternehmen. Internationalisierung ist eine der Strategien, mit der Berliner Universitäten erfolgreich sind.
+
+Damit diese Entwicklung nicht durch Wohnraummangel abgewürgt wird sollen neben den bestehenden Bemühungen folgende einzelnen Maßnahmen ergriffen werden:
+
+Am Campus Schöneberg der HWR soll der Neubau für Kita, studentisches Wohnen und Lehrgebäude zügig finanziert und umgesetzt werden.
+
+Am Campus Lichtenberg der HWR soll zügig der Übergang von der BIM ins Fachvermögen der Wissenschaftsverwaltung umgesetzt werden. Der Campus soll saniert und weiterentwickelt werden inklusive der Sportstätten für die Polizeiausbildung und ausreichend Wohnraum für Studierende und Auszubildende, insbesondere der Polizei und anderer öffentlicher Belange.
+
+An den Standorten der Alice-Salomon-Hochschule in Hellersdorf und der HTW in Oberschöneweide sollen geeignete Grundstücke angekauft werden um campusnahe Wohnmöglichkeiten zu schaffen. An beiden Standorten ist die Wohnsituation für Studierende schwierig, wodurch lange Anfahrten nötig sind. Gleichzeitig würde campusnahes Wohnen auch der Verankerung der Hochschulen in ihren Stadtteilen dienen.
+
+Bei der Planung für die Beuthhochschule in Tegel soll maximal möglicher studentischer Wohnraum berücksichtigt werden.
+
+An den Standorten der drei Universitäten in Mitte, Dahlem und Charlottenburg sollen alle Universitätseigenen Grundstücke, wie zum Beispiel Parkplätze und Immobilien darauf hin überprüft werden, ob bei Sanierung oder Umbau – auch kleinteilig – studentischer Wohnraum geschaffen werden kann. Die Strategie nur big is beautifull muss hinterfragt werden. Geeignete Grundstücke in Privatbesitz oder Besitz des Bundes sollen unter Mitwirkung der Hochschulen identifiziert werden, um in Ankaufgespräche einzutreten.
+
+Bei der Planung studentischen Wohnraums sollen insbesondere auch folgende Wohnformen Berücksichtigung finden:
+
+Wohnraum für Studierende mit Kind oder KindernWohnraum für Studierende mit BehinderungWohnraum in Form von Wohngemeinschaften mit gemeinsam genutzten Küchen und unter Umständen Bädern, wie international üblichGemeinschaftsflächen für Kommunikation und Begegnung und sozialräumliche ÖffnungBei der Planung sollen folgende Bauweisen Berücksichtigung finden:
+
+Schnellbau mit einfachem Standard für kürzere Nutzungszeiten, z.
+
+B. 30 Jahre auch unter Verwendung von HolzmodulbauFür die schnelle Umsetzung müssen alle Kooperationspartner*innen in der Stadt ins Boot geholt werden. Zunächst das Studierendenwerk und die Genossenschaften, die Hochschulen und mögliche weitere Akteure.
+
+Zukünftige nachhaltige Wissenschaftspolitik für BerlinUnsere Berliner Hochschulen sind bundesweit und international in ihren Profilen und ihrer Forschung sehr gut aufgestellt. Die Attraktivität zeigt sich vor allem auch in dem Zuzug von Wissenschaftler*innen aus der gesamten Bundesrepublik und der Welt. Die Strahlkraft wird durch die Berliner Erfolge im Rahmen der Exzellenz-Strategie noch gesteigert. Wir als Berliner SPD unterstützen unsere Hochschulen auf ihrem erfolgreichen Kurs und stehen für exzellente Forschung und Wissenschaft – in der Spitze wie in der Breite! Um eine gute Mischung zwischen erfolgreicher, autonomer Forschung und der Realisierung gesellschaftlicher Bedarfe durch nachhaltigeWissenschaftspolitikzu realisieren, setzen wir uns in den kommenden Jahren für folgende Maßnahmen ein:
+
+Wir fordern, dass sich Senat und die sozialdemokratischen Mitglieder des Abgeordnetenhauses und des deutschen Bundestages dafür einsetzen, dass die Anstrengungen des Bundes und der Länder zu einer dauerhaften deutlich erhöhten Grundfinanzierung der Wissenschaft in Deutschland intensiviert werdenUm beste Wissenschaft zu garantieren, setzen wir uns auch in Zukunft auf Landesebene für eine hohe und verlässliche Grundfinanzierung der Berliner Hochschulen ein. Die Laufzeit der Hochschulverträge soll auch in Zukunft mindestens vier Jahre betragen und mindestens eine 3% Steigerung der Mittel enthalten. Dadurch soll ein gesundes Verhältnis von Grund- zu Drittmittelfinanzierung und die finanzielle Ausstattung weniger drittmittelbegünstigten Bereiche gewährleistet sein. Darüber hinaus gehende Tarifabschlüsse im öffentlichen Dienst sollen durch eine Tarifanpassungsklausel ausgeglichen werden, damit eine gute Tarifentwicklung nicht zu Lasten der qualitativen Entwicklung der Hochschulen und der Qualität der Lehre geht.
+
+Die Studienplatzkapazitäten wollen wir erhalten und insbesondere die Bereiche stärken, in denen ein gesellschaftlicher Bedarf besteht. Für Berlin bedeutet dies in den nächsten Jahren weiterhin den Bereich „Soziale Arbeit“ sowie insbesondere auch die Gesundheitsberufe zu stärken.
+
+Der Bedarf an Lehrkräften wird auch in den kommenden Jahren hoch sein. Gut ausgebildete Lehrkräfte sind der entscheidende Faktor für die Leistungsfähigkeit unseres Schulsystems. Um den Lehrkräftebedarf an den Berliner Hochschulen in angemessener Quantität und Qualität gerecht zu werden, wollen wir neben dem Ausbau der Studienplatzkapazitäten die zentralen „Schools of Education“ an den Berliner Universitäten stärken und mit eigenen Professuren und eigenen Lehramtsstudiengängen ausstatten. Durch eine Stärkung der Fachdidaktiken soll zudem sichergestellt werden, dass Schule als Lernort für Demokratie verstanden wird und Fragen der Unterrichtskultur und der Mitbestimmung von Schüler*innen stärkeren Eingang in die Lehrkräfteausbildung finden.
+
+Wir werden die Abstimmung zwischen den lehrkräfteausbildenden Universitäten weiter ausbauen, Übergänge erleichtern, Beratung und Betreuung der Studierenden ausbauen und das Lehrpersonal gezielt weiterbilden für die Erfordernisse des Berliner Schulsystems. Lehrkräfteausbildung hat für die SPD absolute Priorität.
+
+Neu gegründet werden soll eine Akademie für das Wissenschaftsmanagement, um den gestiegenen Anforderungen und Komplexität im Wissenschaftssystem auch personell besser Rechnung zu tragen.
+
+Um Qualität statt Quantität in Wissenschaft und Forschung zu stärken, werden wir uns im Rahmen unserer Möglichkeiten dafür setzen, den in den letzten Jahren entstandenen „Publikationswahn“ Einhalt zu gebieten. Statt politisch Anreize für lange Publikationslisten zu setzen, wollen wir eine Kultur stärken, die die Quantität von Publikationen als Reputationsfaktor hin zu anderen Qualitätskriterien verschiebt, Gesellschaftliche Relevanz von Forschungsergebnissen und Einbindung in die Stadtgesellschaft sollen stärker honoriert werden.
+
+Ebenfalls im Rahmen der Grenzen der Hochschulautonomie wollen wir die Berufungskriterien und -verfahren transparenter gestalten. Zu überlegen ist auch, inwieweit die Hochschulen dazu ermutigt werden können, die Berufungsverfahren und die Zusammensetzung der Kommissionen neu zu strukturieren, indem diese sich beispielsweise per Los aus einem Pool von möglichen Mitgliedern rekrutieren.
+
+Ziel ist eine geschlechterparitätische Besetzung der Gremien, die aber in Fächern, in denen Frauen stark unterrepräsentiert sind, nicht zu einer Überlastung der Frauen führen darf. Hier sind geeignete Wege der Unterstützung und Kompensation zu finden.
+
+Die Senatsverwaltung soll zügig einen Ruf erteilen, wenn es keine Beanstandung der Liste gibt.
+
+Im Fall von Berufungsverfahren, die beispielsweise durch Frauenbeauftragte oder Diversity oder Antidiskriminierungsstellen beanstandet werden, soll es einen zügigen Clearingprozess geben, bevor der Ruf erteilt wird.
+
+Die ausgeprägte Kooperationskultur und Vernetzung in der Berliner Wissenschafts- und Forschungslandschaft wollen wir weiter stärken. Während wir in den letzten Jahren bei der Wissenschaftspolitik bereits Einiges erreicht und bewegt haben, gilt es in den kommenden Jahren den Fokus vor allem auf dieForschungspolitikzu richten. Die Berlin University Alliance bietet für den Wissenschaftsstandort Berlin eine einmalige Chance für die Zukunft um in Berlin eine im besten Sinne soziale, nachhaltige und demokratische Forschungspolitik, die sich insbesondere den Bereichen „Sozial-ökologische Transformation“, „Arbeit 4.0 / KI“ und „Gesundheit / Wohlbefinden“ widmet. Dazu werden wir folgende Maßnahmen ergreifen:
+
+Wir bekennen uns dazu, dass gesellschaftsrelevante Themen Kernbereiche der Forschung darstellen. Die Entwicklung der Arbeit der Zukunft, die Digitalisierung, das autonome Fahren, Stärkung der Nachhaltigkeit, Biodiversität, Friedens- und Konfliktforschung, vorausschauende Stadtentwicklung und die Erforschung des Umgangs mit dem Kolonialismus sind nur einige Beispiele dafür.
+
+Mit der strategischen Neuausrichtung der Interdisziplinären Forschungsverbünde werden wir ab 2020 ein Förderinstrument des Landes haben, wodurch gezielt die Forschungsprojekte für eine sozial-ökologische Stadtentwicklung unterstützt und Anregungen für Forschungsbedarfe aus der Stadtgesellschaft aufgenommen und integriert werden können.
+
+Wir fördern gezielt auch solche Fachbereiche, die nicht dem Mainstream entsprechen und eher weniger Drittmittel einwerben können, weil sie nicht unmittelbar der Wirtschaft nützen. Dies gilt in besonderer Weise für gesellschafts- und sozialwissenschaftliche Themen.
+
+Die Öffnung hin zur Gesellschaft bedeutet auch die Rahmenbedingungen für Ausgründungen zu verbessern und Studierenden den Weg von Forschung und Wissenschaft hin zu Startups bzw. Unternehmensgründung zu erleichtern.
+
+Wo es die beteiligten Akteur*innen wünschen, wollen wir die Vernetzung und den Wissenstransfer zwischen Forschungsinstituten, Hochschulen, Unternehmen und weiteren Institutionen fördern.
+
+Wir stärken die Friedensforschung und bekennen uns zur Zivilklausel, d.h. wir bestärken unsere Wissenschafts- und Forschungseinrichtungen dazu, ausschließlich für friedliche Zwecke zu forschen.
+
+Berlin soll bundesweit führend in der Erforschung von Alternativen zu Tierversuchen werden und dahingehend neue Maßstäbe setzen.
+
+Gesundheitsstadt Berlin 2030Wir werden Berlin zur europäischen Gesundheitssmetropole ausbauen. Berlin hat mit dem Umfeld von exzellenten Wissenschaftseinrichtungen sowie den Landesunternehmen Charite und Vivantes beste Voraussetzungen. Wir werden die Charite und Vivantes baulich modernisieren, auf den neuesten Stand der Digitailisierung bringen und ihre jeweiligen Profile weiter stärken. Wir wollen beste Krankenversorgung in allen Regionen unserer Stadt. Krankenversorgung darf nicht davnb abhängig sein, in welcher Region man lebt. Deswegen werden wir alle Standorte unserer Kliniken stärken. Medizinische Weiterentwicklung lebt von exzellenter Forschung. Mit der Integration des Berliner Instituts für Gesundheitsforschung haben wir dazu beste Rahmenbedingungen.
+
+Berlin – Wissenschaftsstadt 2035 durch Investitionen absichernAuch in den Hochschulen ist durch die lang anhaltende Haushaltskonsolidierungsphase ein hoher Sanierungsrückstau entstanden. Analog zur Schulbauoffensive brauchen wir ein langfristig angelegtes Sanierungs- und Neubaukonzept für die Berliner Hochschulstandorte. Dazu fordern wir:
+
+Der Wissenschaftssenat entwickelt gemeinsam mit den Hochschulen und Forschungseinrichtungen sowie mit den Bezirken, der Innenverwaltung, Stadtentwicklung und Finanzen einen Hochschulentwicklungs- und Investitionsplan, der folgende Ziele hat:
+
+Den Sanierungsrückstau in den Hochschulen in diesem Zeitraum zu beseitigen und analog zur Schulbauoffensive langfristige Planung und Finanzierung sicher zu stellen.
+
+Die Campusentwicklung an allen Hochschulstandorten unter Gesichtspunkten der Rolle der Hochschulen im Sozialraum, des studentischen Wohnens, der Ausbildungsqualität und der Daseinsvorsorge durch Sportstätten zu planen und zu finanzieren.
+
+Dazu muss geprüft werden,inwiefern Grundstücke von Dritten erworben werden müssen, um die Campi zu entwickelnInwiefern Anmietungen durch Sanierung und Neubau überflüssig werden könneninwiefern landeseigene Grundstücke von z.
+
+B. der BIM ins Fachvermögen der Wissenschaftsverwaltung verlagert werden solltenwie die erfolgreiche Bauherreneigenschaft der Hochschulen – auch in Kooperation z.
+
+B. mit Fachhochschulen – weiter gestärkt werden kannwelche Partner aus dem Bereich der öffentlichen Unternehmen bei der Campusentwicklung mit einbezogen werden können, um die Effektivität zu erhöhen, Synergien zu schaffen und die Prozesse zu beschleunigen.wie die IT-Infrastruktur in Bezug auf Datendurchsatz und Speicherung an den Campi zukunftsfest ausgebaut werden muss und ob dazu ein öffentliches Netz notwendig ist.
+
+Der erste Schritt muss die Finanzierung und konsequente Umsetzung des 6-Punkte-Sofortplans „Gemeinsamer Maßnahmenplan zum „Gutachten über den Instandsetzungsbedarf an den Berliner Hochschulen“ von den Berliner Hochschulen und der Senatskanzlei – Wissenschaft und Forschung“ sein.
+
+Den Berliner Hochschulen kann als „institutionellen Einheiten, die vom Land Berlin kontrolliert werden“ eine Kreditermächtigung eingeräumt werden. Eine Kreditaufnahme setzt allerdings in jedem Einzelfall dann auch eine einzelfallbezogene Einwilligung des Berliner Abgeordnetenhauses voraus, wobei die Finanzierung der Kredite im Haushalt des Landes abzusichern ist.
+
+Wissenschaft Kommunikation LernorteWissenschaft braucht Kommunikation. Nicht nur intern, sondern vor allem mit allen Teilen der Gesellschaft. Wissenschaft muss Akzeptanz schaffen und wissenschaftliche Ergebnisse aller Disziplinen sollen Eingang finden sowohl in politisches, wirtschaftliches und Alltagshandeln. Wissenschaft muss begeistern, um Nachwuchs zu finden, nicht nur für akademische Berufe, sondern auch für Wissenschaftsuntertützende Berufe z.
+
+B Laborassistenz u.v.a. Für diese Prozesse werden sowohl Räume benötigt sowie Strukturen, die diese Kommunikation organisieren. Schüler*innenlabore, Schüler*innenuni sind Angebote, die junge Menschen für verschiedenste Disziplinen begeistern sollen. Dies ist besonders für die jungen Menschen wichtig, die diese Zugänge nicht über das Elternhaus vermittelt bekommen können. Außerschulische Lernorte sind z.
+
+B. Museen (Stadtmuseum, SPK, Naturkundemuseum und Botanischer Garten u.v.a.) Gedenk- und Kulturorte sowie Einrichtungen wie die Planetarien oder das Gläserne Labor.
+
+Wir wollen Außerschulische Lernorte für Wissenstransfer aus Hochschulen noch besser nutzen:
+
+Dazu werden wir eine koordinierende Stelle schaffen, die die außerschulischen Lernorte vernetzt und koordiniert, über die Angebote informiert und Schulen und Kitas unterstützt, diese Angebote wahr zu nehmen. Diese Stelle kann z.
+
+B. beim größten Außerschulischen Lernort,der Stadt, Stiftung Planetarium Berlin, angesiedelt sein.
+
+Wissenschaft und Forschung sollen offen sein für die ganze Gesellschaft. Dazu gehört auch, dass wir Wege finden, um Wissenschaft zugänglich und nahbar zu machen, etwa durch freie Eintritte für Museen und Dialogformate zum Austausch zwischen Wissenschaftsinstitutionen und Stadtgesellschaft.
+
+Wissenschafts- und Forschungseinrichtungen müssen Orte der gesellschaftspolitischen Auseinandersetzung bleiben. Dazu gehören die freie Meinungsäußerung sowie der freie Zugang zu Räumen für politische Veranstaltungen z.
+
+B. für politische Kongresse an den Berliner Hochschulen.
+
+Für die Kommunikation mit der Stadtgesellschaft und die Debatte über gegenwärtige und zuküntige Fragestellungen braucht die Wissenschaft nicht nur Schaufenster, sondern Räume in allen Teilen der Stadt. Diese gilt es zu identifizieren, für das Land und die Wissenschaft zu sichern und tragfähige Konzepte mit den Partner*innen zu entwickeln,Wissenschaft nachhaltigNicht erst seit FridaysforFuture sind Hochschulen und Einrichtungen wie das Studierendenwerk um nachhaltiges Handeln bemüht und gibt es Bestrebungen, nachhaltige Entwicklung als handlungsleitendes Prinzip in Hochschulen und Wissenschaftspolitik zu verankern. Wir begrüßen die FridayforFuture-Initiativen von Studierenden an den Hochschulen sowie das Engagement der Wissenschaftler*innen bei science for future und bekennen uns zu den Zielen der Nachhaltigkeit.
+
+Dabei lehnen wir uns an die Definition an, die nachhaltiger Entwicklung beschreibt als Strategie, die globale und intergenerationelle Gerechtigkeit, Chancengleichheit, Erhalt von Biodiversität und Ökosystemen, Klimaschutz, verantwortungsvollen Konsum, ressourcenschonendes und kreislauforientiertes Produktionsverhalten sowie faire Arbeits- und Handelsbedingungen umfasst und insofern eine umfassende Transformation anstrebt.
+
+Wir werden:
+
+Nachhaltigkeit als Aufgabe der Hochschulen im Hochschulgesetz verankernTransparente Governancestrukturen schaffen, die nachhaltige Entwicklung an den Hochschulen ermöglichenDie Hochschulen dabei unterstützen, alle Gruppen der Hochschulen in die Entscheidungen einzubeziehenRegelungen in Landes- und Bundesgesetzgebung identifizieren und verändern, die nachhaltiges Handeln z.
+
+B. bei Reisen oder Vergaben behindern.
+
+Bei der Erarbeitung der Nachhaltigkeitsstrategie arbeiten wir als SPD mit den Akteur*innen an den Hochschulen und übergreifenden Initiativen wie der Initiative für Nachhaltigkeit und Ethik an den Hochschulen (netzwerk-n, Was bildet Ihr uns ein? u.a.) zusammen.
+- **Beschluss-PDF:** Beschluss (PDF)

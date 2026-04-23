@@ -1,0 +1,24 @@
+state: thueringen
+display_name: "SPD Thüringen"
+portal_url: "https://inhalte.spd-thueringen.de"
+technology: antragsgruen
+
+consultations:
+  - slug: "lpt25"
+    label: "Landesparteitag 2025"
+
+status_map:
+  "angenommen": "Annahme"
+  "geändert angenommen": "Annahme mit Änderungen"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+  "erledigt": "Erledigt"
+  "zurückgezogen": "Zurückgezogen"
+
+scrape_delay: 1.0
+checkpoint_interval: 50
+
+audit:
+  total_motions: 60
+  date_range: "2025"
+  schema_compat: 0.80

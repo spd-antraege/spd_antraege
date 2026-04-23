@@ -1,0 +1,25 @@
+# Local development: Elasticsearch only
+# Run: docker compose -f docker-compose.dev.yaml up -d
+
+services:
+  elasticsearch:
+    image: elasticsearch:8.15.0
+    container_name: pis-elasticsearch-dev
+    restart: unless-stopped
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+    volumes:
+      - es_dev_data:/usr/share/elasticsearch/data
+    ports:
+      - "127.0.0.1:9200:9200"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    mem_limit: 1g
+
+volumes:
+  es_dev_data:

@@ -1,0 +1,86 @@
+---
+kuerzel: Antrag 171/I/2020
+titel: Antrag 171/I/2020 Kein Vergessen der deutschen Kolonialverbrechen!
+status_in_tabelle: Annahme
+antragsteller: Jusos LDK
+ueberwiesen_an: Bundesparteitag 2021
+tagesordnungspunkt: Internationales
+veranstaltung: I/2020 Landesparteitag 31.10.2020
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/kein-vergessen-der-deutschen-kolonialverbrechen/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/I_2020//Antrag_171I2020_Kein_Vergessen_der_deutschen_Kolon.pdf
+publication_date: ''
+tags: []
+content_hash: ee50996946ee
+---
+
+**AntragstellerInnen:** Jusos LDK
+
+**Adressat:** Der Landesparteitag möge beschließen:Der Bundesparteitag möge beschließen:
+
+## Antragstext
+
+1904, das ist das Jahr an dem der erste Völkermord des 20. Jahrhunderts geschah.
+40.000 bis 60.000 Herero und 10.000 Nama, Damara und San wurden in den Jahren bis 1908 ermordet. Tausende verletzt, ausgebeutet und traumatisiert. Begonnen wurde all das vom Deutschen Kaiserreich. Bis heute fehlt ein Wort der Entschuldigung, ein Wort des Bedauerns, eine Anerkennung der Schuld.
+Dabei bleibt festzuhalten: Kriegsverbrechen verjähren nicht und Trauer, Verlust wie auch Schuld vergehen nicht.
+Es zeigt zudem: Die deutsche Kolonialzeit ist weder abschließend geschichtlich aufgearbeitet worden, noch im öffentlichen Diskurs genügend präsent. Dass Deutschland sich weigert, sich die eigene Verantwortung am Genozid mit allen Konsequenzen einzugestehen, ist ein ernstes Problem.
+Was geschah kann nicht verschwiegen werden!
+Doch was genau ereignete sich vor 116 Jahren?
+Im Januar begann der Aufstand der Herero gegen die deutschen Besatzer*innen. Der Auslöser waren erneute Repressalien gegen die Herero, Besetzung von Gebieten und zunehmend rassistische Gewaltpraktiken der Kolonialverwaltung, wie u.a. die Prügelstrafe. Zudem beanspruchten deutsche Siedler immer größere Teile des Landes für sich und der Reichstag wies in der sog. „Grund- und Bodenfrage“ den Herero, Nama, Damara und San ein Territorium zu. Weitere schwere Vergehen waren Vergewaltigung und Mord, derer sich Siedler gegenüber Herero, Nama, Damara und San schuldig machten.
+Hierdurch verschlechterte sich die Situation der Hereros, Damara und San stetig, so dass sich die Stämme 1904 zu einem Aufstand entschlossen. Wobei laut Verschonungsbefehl des Großhäuptlings ausdrücklich Kinder und Frauen verschont werden sollten, woran sich auch bis auf wenigen Ausnahmen gehalten wurde.
+Wenige Monate später wurden in mehreren Gefechten die Hereros militärisch besiegt.
+Am 02.10.1904 erließ Lothar von Trotha dann den Vernichtungsbefehl. Alle Herero sollten in die Wüste getrieben werden, der Zugang zu Wasserquellen verhindert werden und alle, die sich den deutschen Linien näherten, ohne Vorwarnung erschossen werden. In den folgenden Monaten wurden so zehntausende Hereros erschossen oder verhungerten/verdursteten.
+Auch bei Frauen und Kindern wurde keinerlei Ausnahme gemacht.
+Dabei ist ausdrücklich zu erwähnen, dass Lothar von Trotha, der in Deutsch-Südwestafrika die Genozide befahl, damals unter Kaiser Wilhelm II gehandelt hat. Wilhelm II war nicht nur politisch verantwortlich, er hat zudem von Trotha auch als nicht brutal genug empfunden.
+Ein Tag nach dem Vernichtungsbefehl wechselten dann die Stämme der Nama die Seiten. Zuvor hatten sie noch im Auftrag der Deutschen gekämpft, nun verbündeten sie sich mit den Hereros. In den folgenden vier Jahren folgten daraufhin verschiedene kriegerische Auseinandersetzungen mit zahlreichen Menschenrechtsverletzungen von deutscher Seite.
+Während dieser Zeit wurden auch erste Konzentrationslager im heutigen Namibia errichtet. Durch stetige Überbelegung, schlechtes Trinkwasser und einseitige mangelhafte Ernährung breiteten sich verschiedene Krankheiten aus, die schnell tausende Todesopfer forderte. Die gesunden Gefangenen wurden zur Zwangsarbeit eingesetzt. Unter anderem sollten die Gefangenen in der Wüste nach Toten suchen, die Schädel aufsammeln, auskochen und das Fleisch entfernen. Die Schädel wurden dann nach Deutschland verschickt, um dort an Krankenhäuser für die Begründung der Rassentheorien genutzt zu werden.
+Im März 1908 fand das letzte Gefecht in der Wüste statt, welches von deutscher Seite gewonnen wurde. Am Ende starben 50.000 bis 70.000 Hereros, Nama, Damara und San.
+Das Verhalten der Bundesregierungen? Eine Schande!
+Seit 2002 erheben die Hereros, Nama, Damara und San juristische Forderungen gegen Deutschland. Zwar hatte Heidemarie Wieczorek-Zeul im Rahmen einer Gedenkfeier für die Massaker um Entschuldigung gebeten, die Bundesregierung erklärte anschließend jedoch, dass sie dort als Privatperson gesprochen habe und keine Forderungen daraus resultieren könnten. Bis 2018 wurden ca. 100 der ca. 3000 Schädel nach Namibia zurückgeführt. Ein großer Teil ist nach wie vor in den Archiven deutscher Universitäten. Erst 2016 erkannte die deutsche Bundesregierung erstmals die Massaker von 1904-1908 als Genozid an, schränkte jedoch ein, dass die UN-Völkermordkonvention nicht rückwirkend anwendbar sei und sich somit keinerlei Entschädigungen daraus ergäben. Zudem wurde eine Einbeziehung der Opferverbände ausgeschlossen.
+Eine offizielle Entschuldigung ist bis heute nicht ausgesprochen worden.
+Internationale Folgen
+Die Forderungen von Entschädigungszahlungen Deutschlands an die Hereros, Nama, Damara und San haben auch International eine wichtige Bedeutung. Frankreich, Großbritannien und andere ehemaligen Kolonialmächte beobachten die juristischen Vorgänge ganz genau, da eine Zahlung Deutschlands von finanziellen Entschädigungen wahrscheinlich auch sie betreffen würde, da Opfergruppen aus ihren ehemaligen Kolonien auf dieser Basis ebenfalls Entschädigungen fordern könnten. Zudem würden die Entschädigungszahlungen Deutschlands dazu beitragen, dass die Debatte um koloniale Schuld international öffentlich geführt wird und den Druck auf andere ehemalige Kolonialmächte erhöhen, Entschädigungen zu zahlen und sich mit dem begangenen Unrecht auseinanderzusetzen.
+Schuld bleibt Schuld!
+Rein juristisch kann man zwar argumentieren, dass sich die UN-Völkermordkonvention nicht rückwirkend angewenden lässt. Das kann man machen, doch man handelt dann moralisch verwerflich und verletzt die Hinterbliebenen der Opfer immer wieder aufs Neue. Es ist zudem einer sozialdemokratischen Partei unwürdig und scheinheilig. Denn wo bleibt die Solidarität, die Gerechtigkeit für die Hinterbliebenen der Opfer?
+Es erscheint fast schon grotesk, dass die folgenden Forderungen im Jahre 2020 aufgestellt werden müssen und noch nicht bereits freiwillig und aus moralischer Verpflichtung erfüllt worden sind, von einem der reichsten Länder der Welt, welches sich auf das Erbe aus dem Kaiserreich stützt und zu den dort begangenen Verbrechen eine historische Verantwortung trägt. Wir fordern eine gesamtgesellschaftliche Aufarbeitung des deutschen Kolonialismus.
+Außerdem fordern wir alle SPD-Mitglieder im Bundestag, Bundesrat und in der Bundesregierung, sowie den Bundesparteitag der SPD dazu auf, die Nachfahren der Genozidopfer förmlich um Entschuldigung zu bitten.
+Wir fordern selbige auf, sich für die Identifizierung und Rückgabe aller nach Deutschland verschleppten Gebeine und Wertgegenstände von Menschen aus Namibia und anderen ehemaligen Kolonien einzusetzen. Dies soll schnellstmöglich durchgesetzt werden, so dass bis spätestens 2024, also zum 120. Gedenkjahr, alle Gebeine in Namibia beigesetzt werden können und die Hinterbliebenen trauern können.
+Wir fordernvon der Bundesregierung, Bundesrat und Bundestag, sich zu einem bedingungslosen und offenen Dialog über Versöhnungsmaßnahmen mit den Nachfahren der Genozidopfer und mit der namibischen Regierung bereit zu erklären.
+Wir fordernvon der Bundesregierung, Bundesrat und Bundestag, dass sie sich für den Aufbau eines Ausgleichsfonds für die Hinterbliebenen der Opfer einsetzen, um darüber Entschädigungszahlungen an die Hinterbliebenen auszahlen zu können.
+Wir fordern die Bundesregierung auf, nach Anerkennung der eigenen Schuld undeiner förmlichen Entschuldigung, andere ehemalige Kolonialmächte aktiv zu einem ähnlichen Versöhnungs- und Ausgleichsprozess aufzufordern und sie gegebenenfalls dabei zu begleiten. Bedingungslose internationale Solidarität mit allen Opfern von Kolonialverbrechen sollte unverhandelbar sein.
+Wir fordern den Bundesparteivorstand und den Bundesparteitag der SPDauf, bis zum 120. Gedenktag eine umfassende Aufarbeitung der Kolonialpolitik der SPD durchzuführen. Fakt ist, dass bis 1906 viele einflussreiche Vertreter*innen der SPD sich für eine „sozialistische Kolonialpolitik“ aussprachen und auch nicht gegen die Bewilligung der Kriegskredite für den Krieg gegen die Hereros stimmten. Der Abschlussbericht soll dann als Grundlage dienen, um einen Dialogprozess mit den Opferverbänden zu beginnen und konkrete Veranstaltungen, Versöhnungs- und Aufklärungsangebote zuerarbeiten.
+
+**Empfehlung der Antragskommission:** Annahme(Konsens)
+
+## Beschluss
+
+1904, das ist das Jahr an dem der erste Völkermord des 20. Jahrhunderts geschah.
+40.000 bis 60.000 Herero und 10.000 Nama, Damara und San wurden in den Jahren bis 1908 ermordet. Tausende verletzt, ausgebeutet und traumatisiert. Begonnen wurde all das vom Deutschen Kaiserreich. Bis heute fehlt ein Wort der Entschuldigung, ein Wort des Bedauerns, eine Anerkennung der Schuld.
+Dabei bleibt festzuhalten: Kriegsverbrechen verjähren nicht und Trauer, Verlust wie auch Schuld vergehen nicht.
+Es zeigt zudem: Die deutsche Kolonialzeit ist weder abschließend geschichtlich aufgearbeitet worden, noch im öffentlichen Diskurs genügend präsent. Dass Deutschland sich weigert, sich die eigene Verantwortung am Genozid mit allen Konsequenzen einzugestehen, ist ein ernstes Problem.
+Was geschah kann nicht verschwiegen werden!
+Doch was genau ereignete sich vor 116 Jahren?
+Im Januar begann der Aufstand der Herero gegen die deutschen Besatzer*innen. Der Auslöser waren erneute Repressalien gegen die Herero, Besetzung von Gebieten und zunehmend rassistische Gewaltpraktiken der Kolonialverwaltung, wie u.a. die Prügelstrafe. Zudem beanspruchten deutsche Siedler immer größere Teile des Landes für sich und der Reichstag wies in der sog. „Grund- und Bodenfrage“ den Herero, Nama, Damara und San ein Territorium zu. Weitere schwere Vergehen waren Vergewaltigung und Mord, derer sich Siedler gegenüber Herero, Nama, Damara und San schuldig machten.
+Hierdurch verschlechterte sich die Situation der Hereros, Damara und San stetig, so dass sich die Stämme 1904 zu einem Aufstand entschlossen. Wobei laut Verschonungsbefehl des Großhäuptlings ausdrücklich Kinder und Frauen verschont werden sollten, woran sich auch bis auf wenigen Ausnahmen gehalten wurde.
+Wenige Monate später wurden in mehreren Gefechten die Hereros militärisch besiegt.
+Am 02.10.1904 erließ Lothar von Trotha dann den Vernichtungsbefehl. Alle Herero sollten in die Wüste getrieben werden, der Zugang zu Wasserquellen verhindert werden und alle, die sich den deutschen Linien näherten, ohne Vorwarnung erschossen werden. In den folgenden Monaten wurden so zehntausende Hereros erschossen oder verhungerten/verdursteten.
+Auch bei Frauen und Kindern wurde keinerlei Ausnahme gemacht.
+Dabei ist ausdrücklich zu erwähnen, dass Lothar von Trotha, der in Deutsch-Südwestafrika die Genozide befahl, damals unter Kaiser Wilhelm II gehandelt hat. Wilhelm II war nicht nur politisch verantwortlich, er hat zudem von Trotha auch als nicht brutal genug empfunden.
+Ein Tag nach dem Vernichtungsbefehl wechselten dann die Stämme der Nama die Seiten. Zuvor hatten sie noch im Auftrag der Deutschen gekämpft, nun verbündeten sie sich mit den Hereros. In den folgenden vier Jahren folgten daraufhin verschiedene kriegerische Auseinandersetzungen mit zahlreichen Menschenrechtsverletzungen von deutscher Seite.
+Während dieser Zeit wurden auch erste Konzentrationslager im heutigen Namibia errichtet. Durch stetige Überbelegung, schlechtes Trinkwasser und einseitige mangelhafte Ernährung breiteten sich verschiedene Krankheiten aus, die schnell tausende Todesopfer forderte. Die gesunden Gefangenen wurden zur Zwangsarbeit eingesetzt. Unter anderem sollten die Gefangenen in der Wüste nach Toten suchen, die Schädel aufsammeln, auskochen und das Fleisch entfernen. Die Schädel wurden dann nach Deutschland verschickt, um dort an Krankenhäuser für die Begründung der Rassentheorien genutzt zu werden.
+Im März 1908 fand das letzte Gefecht in der Wüste statt, welches von deutscher Seite gewonnen wurde. Am Ende starben 50.000 bis 70.000 Hereros, Nama, Damara und San.
+Das Verhalten der Bundesregierungen? Eine Schande!
+Seit 2002 erheben die Hereros, Nama, Damara und San juristische Forderungen gegen Deutschland. Zwar hatte Heidemarie Wieczorek-Zeul im Rahmen einer Gedenkfeier für die Massaker um Entschuldigung gebeten, die Bundesregierung erklärte anschließend jedoch, dass sie dort als Privatperson gesprochen habe und keine Forderungen daraus resultieren könnten. Bis 2018 wurden ca. 100 der ca. 3000 Schädel nach Namibia zurückgeführt. Ein großer Teil ist nach wie vor in den Archiven deutscher Universitäten. Erst 2016 erkannte die deutsche Bundesregierung erstmals die Massaker von 1904-1908 als Genozid an, schränkte jedoch ein, dass die UN-Völkermordkonvention nicht rückwirkend anwendbar sei und sich somit keinerlei Entschädigungen daraus ergäben. Zudem wurde eine Einbeziehung der Opferverbände ausgeschlossen.
+Eine offizielle Entschuldigung ist bis heute nicht ausgesprochen worden.
+Internationale Folgen
+Die Forderungen von Entschädigungszahlungen Deutschlands an die Hereros, Nama, Damara und San haben auch International eine wichtige Bedeutung. Frankreich, Großbritannien und andere ehemaligen Kolonialmächte beobachten die juristischen Vorgänge ganz genau, da eine Zahlung Deutschlands von finanziellen Entschädigungen wahrscheinlich auch sie betreffen würde, da Opfergruppen aus ihren ehemaligen Kolonien auf dieser Basis ebenfalls Entschädigungen fordern könnten. Zudem würden die Entschädigungszahlungen Deutschlands dazu beitragen, dass die Debatte um koloniale Schuld international öffentlich geführt wird und den Druck auf andere ehemalige Kolonialmächte erhöhen, Entschädigungen zu zahlen und sich mit dem begangenen Unrecht auseinanderzusetzen.
+Schuld bleibt Schuld!
+Rein juristisch kann man zwar argumentieren, dass sich die UN-Völkermordkonvention nicht rückwirkend angewenden lässt. Das kann man machen, doch man handelt dann moralisch verwerflich und verletzt die Hinterbliebenen der Opfer immer wieder aufs Neue. Es ist zudem einer sozialdemokratischen Partei unwürdig und scheinheilig. Denn wo bleibt die Solidarität, die Gerechtigkeit für die Hinterbliebenen der Opfer?
+Es erscheint fast schon grotesk, dass die folgenden Forderungen im Jahre 2020 aufgestellt werden müssen und noch nicht bereits freiwillig und aus moralischer Verpflichtung erfüllt worden sind, von einem der reichsten Länder der Welt, welches sich auf das Erbe aus dem Kaiserreich stützt und zu den dort begangenen Verbrechen eine historische Verantwortung trägt. Wir fordern eine gesamtgesellschaftliche Aufarbeitung des deutschen Kolonialismus.
+Außerdem fordern wir alle SPD-Mitglieder im Bundestag, Bundesrat und in der Bundesregierung, sowie den Bundesparteitag der SPD dazu auf, die Nachfahren der Genozidopfer förmlich um Entschuldigung zu bitten.
+Wir fordern selbige auf, sich für die Identifizierung und Rückgabe aller nach Deutschland verschleppten Gebeine und Wertgegenstände von Menschen aus Namibia und anderen ehemaligen Kolonien einzusetzen. Dies soll schnellstmöglich durchgesetzt werden, so dass bis spätestens 2024, also zum 120. Gedenkjahr, alle Gebeine in Namibia beigesetzt werden können und die Hinterbliebenen trauern können.
+Wir fordernvon der Bundesregierung, Bundesrat und Bundestag, sich zu einem bedingungslosen und offenen Dialog über Versöhnungsmaßnahmen mit den Nachfahren der Genozidopfer und mit der namibischen Regierung bereit zu erklären.
+Wir fordernvon der Bundesregierung, Bundesrat und Bundestag, dass sie sich für den Aufbau eines Ausgleichsfonds für die Hinterbliebenen der Opfer einsetzen, um darüber Entschädigungszahlungen an die Hinterbliebenen auszahlen zu können.
+Wir fordern die Bundesregierung auf, nach Anerkennung der eigenen Schuld undeiner förmlichen Entschuldigung, andere ehemalige Kolonialmächte aktiv zu einem ähnlichen Versöhnungs- und Ausgleichsprozess aufzufordern und sie gegebenenfalls dabei zu begleiten. Bedingungslose internationale Solidarität mit allen Opfern von Kolonialverbrechen sollte unverhandelbar sein.
+Wir fordern den Bundesparteivorstand und den Bundesparteitag der SPDauf, bis zum 120. Gedenktag eine umfassende Aufarbeitung der Kolonialpolitik der SPD durchzuführen. Fakt ist, dass bis 1906 viele einflussreiche Vertreter*innen der SPD sich für eine „sozialistische Kolonialpolitik“ aussprachen und auch nicht gegen die Bewilligung der Kriegskredite für den Krieg gegen die Hereros stimmten. Der Abschlussbericht soll dann als Grundlage dienen, um einen Dialogprozess mit den Opferverbänden zu beginnen und konkrete Veranstaltungen, Versöhnungs- und Aufklärungsangebote zuerarbeiten.

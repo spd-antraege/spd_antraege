@@ -1,0 +1,27 @@
+---
+kuerzel: Antrag 164/I/2019
+titel: Antrag 164/I/2019 Für die gleichberechtigte Partizipation von Frauen am politischen und gesellschaftlichen Leben - Parität jetzt!
+status_in_tabelle: Erledigt
+antragsteller: KDV Tempelhof-Schöneberg
+ueberwiesen_an: ''
+tagesordnungspunkt: Gleichstellung / Teilhabe
+veranstaltung: I/2019 Landesparteitag 30.03.2019
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/fuer-die-gleichberechtigte-partizipation-von-frauen-am-politischen-und-gesellschaftlichen-leben-paritaet-jetzt-2/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/I_2019//Antrag-164I2019-Fuer-die-gleichberechtigte-Partizi.pdf
+publication_date: ''
+tags: []
+content_hash: 91251b785b7d
+---
+
+**AntragstellerInnen:** KDV Tempelhof-Schöneberg
+
+**Adressat:** Der Landesparteitag möge beschließen:
+
+## Antragstext
+
+Wir fordern die sozialdemokratischen Mitglieder im Abgeordnetenhaus, die sozialdemokratischen Mitglieder der Berliner Landesregierung und die SPD-Berlin auf, sich weiterhin für die Einführung eines Paritäts-Gesetzes für das Land Berlin einzusetzen.
+Das Paritätsgesetz soll für die Wahlen zum Abgeordnetenhaus von Berlin und für die Wahlen zu den zwölf Bezirksverordnetenversammlungen bald möglichst erlassen werden.
+
+**Empfehlung der Antragskommission:** Erledigt bei Annahme 165/I/2019(Konsens)

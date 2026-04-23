@@ -1,0 +1,44 @@
+state: nrw
+display_name: "NRWSPD"
+portal_url: "https://www.nrwspd.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "mit änderungen angenommen": "Annahme mit Änderungen"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+  "erledigt": "Erledigt"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://www.nrwspd.de/wp-content/uploads/sites/2/2025/04/antragsbuch-nrwspd-lpt-2025-rot.pdf"
+    label: "LPT 2025"
+    veranstaltung: "Landesparteitag 2025"
+    year: 2025
+  - url: "https://www.nrwspd.de/wp-content/uploads/sites/2/2023/08/ordentlicher-landesparteitag-2023-antragsbuch-1.pdf"
+    label: "LPT 2023"
+    veranstaltung: "Landesparteitag 2023"
+    year: 2023
+  - url: "https://www.nrwspd.de/wp-content/uploads/sites/2/2022/02/1-antragsbuch-a-o-landesparteitag-2022.pdf"
+    label: "a.o. LPT 2022"
+    veranstaltung: "Außerordentlicher Landesparteitag 2022"
+    year: 2022
+  - url: "https://www.nrwspd.de/wp-content/uploads/sites/2/2021/03/2021-antragsbuch-i-leitantraege.pdf"
+    label: "LPT 2021 Leitanträge"
+    veranstaltung: "Landesparteitag 2021"
+    year: 2021
+  - url: "https://www.nrwspd.de/wp-content/uploads/sites/2/2021/03/2021-antragsbuch-ii-weitere-antraege.pdf"
+    label: "LPT 2021 Anträge"
+    veranstaltung: "Landesparteitag 2021"
+    year: 2021
+  - url: "https://www.nrwspd.de/wp-content/uploads/sites/2/2017/01/doc_36263_20119191654.pdf"
+    label: "LPT 2011"
+    veranstaltung: "Landesparteitag 2011"
+    year: 2011
+
+audit:
+  total_motions: 1500
+  date_range: "2011-2025"

@@ -1,0 +1,48 @@
+state: bund
+display_name: "SPD Bundespartei"
+portal_url: "https://parteitag.spd.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "mit änderungen angenommen": "Annahme mit Änderungen"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+  "erledigt": "Erledigt"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://parteitag.spd.de/fileadmin/parteitag/Dokumente/Antraege_oBPT2025/SPD_Antragsbuch_oBPT_2025.pdf"
+    label: "oBPT 2025"
+    veranstaltung: "Ordentlicher Bundesparteitag 2025"
+    year: 2025
+  - url: "https://parteitag.spd.de/fileadmin/parteitag/Dokumente/Antraege_2025/aoBPT25_Antragsbuch.pdf"
+    label: "aoBPT 2025"
+    veranstaltung: "Außerordentlicher Bundesparteitag 2025"
+    year: 2025
+  - url: "https://parteitag.spd.de/fileadmin/parteitag/Dokumente/Antraege/2023_SPD_oBPT_Antragsbuch.pdf"
+    label: "oBPT 2023"
+    veranstaltung: "Ordentlicher Bundesparteitag 2023"
+    year: 2023
+  - url: "https://www.spd.de/fileadmin/Dokumente/Bundesparteitage/Bundesparteitag_2018_Wiesbaden/Antragsbuch_a.o._BPT_am_22April2018_in_Wiesbaden.pdf"
+    label: "aoBPT Wiesbaden 2018"
+    veranstaltung: "Außerordentlicher Bundesparteitag Wiesbaden 2018"
+    year: 2018
+  - url: "https://www.spd.de/fileadmin/Dokumente/Beschluesse/Bundesparteitag/antragsbuch_ao_bpt_2014.pdf"
+    label: "aoBPT 2014"
+    veranstaltung: "Außerordentlicher Bundesparteitag 2014"
+    year: 2014
+  - url: "https://www.spd.de/fileadmin/Dokumente/Beschluesse/Bundesparteitag/201300327_antragsbuch_aobpt_augsburg.pdf"
+    label: "aoBPT Augsburg 2013"
+    veranstaltung: "Außerordentlicher Bundesparteitag Augsburg 2013"
+    year: 2013
+  - url: "https://www.spd.de/fileadmin/Dokumente/Beschluesse/Bundesparteitag/20121129_antragsbuch_ao_bpt_2012.pdf"
+    label: "aoBPT Hannover 2012"
+    veranstaltung: "Außerordentlicher Bundesparteitag Hannover 2012"
+    year: 2012
+
+audit:
+  total_motions: 3000
+  date_range: "2012-2025"

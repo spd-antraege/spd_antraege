@@ -1,0 +1,17 @@
+[Unit]
+Description=SPD Antragskorpus — Gradio + API + MCP
+After=network.target docker.service
+Wants=docker.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/pis
+Environment=HOME=/root
+Environment=ES_HOST=http://localhost:9200
+ExecStart=/usr/bin/doppler run --project andx_main --config prd -- /opt/pis/.venv/bin/uvicorn spdbe.server:app --host 127.0.0.1 --port 7860
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

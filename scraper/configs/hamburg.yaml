@@ -1,0 +1,26 @@
+state: hamburg
+display_name: "SPD Hamburg"
+portal_url: "https://beschlossen.spd-hamburg.de"
+technology: cvtx
+
+# Kuerzel: Hamburg uses "2026/I/Woh/1" — year/session/category/number
+kuerzel_format: "{year}/{session}/{category}/{number}"
+kuerzel_prefix: ""
+
+status_map:
+  "annahme": "Annahme"
+  "ablehnung": "Ablehnung"
+  "überweisung": "Überweisung"
+  "erledigt": "Erledigt"
+  "zurückgezogen": "Zurückgezogen"
+  "nicht abgestimmt": "Nicht abgestimmt"
+
+scrape_delay: 1.0
+checkpoint_interval: 50
+
+audit:
+  total_motions: 918
+  events: 13
+  date_range: "2019-2026"
+  schema_compat: 0.95
+  status_compat: 0.83

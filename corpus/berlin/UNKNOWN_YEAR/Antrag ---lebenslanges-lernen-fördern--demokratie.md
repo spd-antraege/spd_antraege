@@ -1,0 +1,117 @@
+---
+kuerzel: Antrag /
+titel: Antrag / Lebenslanges Lernen fördern – Demokratie stärken
+status_in_tabelle: ''
+antragsteller: AfB Landesvorstand
+ueberwiesen_an: ''
+tagesordnungspunkt: Bildung
+veranstaltung: ''
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/lebenslanges-lernen-foerdern-demokratie-staerken/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf///Antrag__Lebenslanges_Lernen_foerdern__Demokratie_s.pdf
+publication_date: This Antrag was published on Sonntag, 21. März 2021 at 12:15.
+tags:
+- antifaschismus-und-extremismusbekämpfung
+- arbeitsmarkt-und-soziales
+- außen-und-europapolitik
+- bau-wohnen-stadtentwicklung
+- bildung-und-forschung
+- bundespolitik-und-bundesebene
+- demografischer-wandel
+- digitale-transformation
+- finanz-und-steuerpolitik
+- generationenpolitik
+- gesellschaftlicher-zusammenhalt
+- gesundheitspolitik
+- gleichstellung-und-genderpolitik
+- innen-und-gesellschaftspolitik
+- justiz-und-rechtspolitik
+- medien-und-meinungsfreiheit
+- soziale-gerechtigkeit-und-ungleichheit
+- umwelt-und-klimapolitik
+- verkehr-und-infrastruktur
+- verteidigung
+- wirtschafts-und-industriepolitik
+content_hash: ed465b4359d5
+---
+
+# Antragstext
+
+Ein Konzept für das Lebenslange Lernen der SPD Berlin
+
+Lebenslanges Lernen ist ein Schlüssel zu gesellschaftlicher Teilhabe und zur Stärkung des demokratischen Gemeinwesens. Wir stärken die Einrichtungen der Weiterbildung und fördern gezielt Orte und Strukturen, die freiwilliges Engagement und demokratische Beteiligung ermöglichen. Wir stellen uns damit in die sozialdemokratische Tradition der Arbeiterbildungsstätten, der Volkshochschulbewegung und progressiver Weiterbildungspolitik.
+
+Wir führen Demokratielernen und politische Bildung in Schulen, Kindertagesstätten und außerschulischen Lernorten fort. Der um sich greifenden gesellschaftlichen Polarisierung, der Verbreitung von Verschwörungstheorien und den systematischen Angriffen auf die Demokratie setzen wir unsere sozialdemokratische Initiative für Zusammenhalt, Aufklärung, gemeinsames Lernen, Gute Arbeit und eine Stärkung demokratischer Teilhabe entgegen.
+
+Wir vertreten ein inklusives Verständnis der Erwachsenenbildung, das die Teilhabe aller Bevölkerungsgruppen in den Mittelpunkt stellt. Die aufsuchende Bildungsarbeit, der Einsatz digitaler Medien und innovativer Formate sind für uns selbstverständlich. Ebenso die Einbeziehung von Personen, die aufgrund von Alter, Bildung, Sprache oder körperlichen Einschränkungen, die klassischen, kursförmigen Angebote der Erwachsenenbildung wenig oder gar nicht wahrnehmen.
+
+Dass Lebenslanges Lernen und Demokratieförderung zusammengehören, sollte sich auch im künftigen Ressortzuschnitt des Senats widerspiegeln. Wir möchten diesem für Berlin wichtigen gesellschaftlichen Handlungsfeld mehr Bedeutung zukommen lassen und setzen uns für eine bessere Koordination auf Senatsebene sowie zwischen Senat und Bezirken ein.
+
+Ein Modellprogramm „Demokratische und lernende Stadt“ starten
+
+Wir wollen Begegnung, lebenslanges Lernen und demokratische Beteiligung miteinander verbinden. Mit einem Modellprogramm „Demokratische und lernende Stadt“ schaffen wir koordiniert durch die Volkshochschulen „Orte des Lernens und der Demokratie“ in den Kiezen und entwickeln somit ein Netz von Orten der Begegnung und der Kommunikation, in denen neue Formen des Lernens, der Beteiligung und lokaler Demokratie erprobt und gelebt werden können. Die Einrichtung eines Demokratiefonds ermöglicht es, die Initiativen bei der Gestaltung ihrer Nachbarschaft zu unterstützen. Die Orte des Lernens und der Demokratie sind von Vielfalt geprägt. In ihnen arbeiten engagierte Menschen verschiedener Berufsgruppen zusammen. Sie sprechen unterschiedliche Bevölkerungsgruppen unabhängig von ihrer Herkunft an und schaffen Begegnungs- und Lernanlässe für alle.
+
+Eine wesentliche Aufgabe dieser Orte des Lernens und der Demokratie ist es, sich mit den zahlreichen Angeboten in den Bezirken und Kiezen zu vernetzen. Diese reichen von der Bibliothek über die Nachbarschaftshäuser, Stadtteilzentren und Freiwilligenagenturen bis zu den Quartiersmanagements, BENN-Standorten (Berlin Entwickelt Neue Nachbarschaften), Familienzentren und Partnerschaften für Demokratie sowie den bezirklichen Anlaufstellen für Bürgerbeteiligung. Zur Finanzierung der Orte des Lernens und der Demokratie werden 50% der Mittel den Bezirken zur, eigenen Schwerpunktsetzung zur Verfügung gestellt. Die anderen 50% werden durch ein vom Senat direkt getragenes Förderprogramm umgesetzt. Bei der Verortung sollen Quartiere zwischen Stadtgrenze und S-Bahn-Ring besondere Beachtung finden. Wir wollen zu Diskussionen über die Zukunft der Stadt und zum guten Zusammenleben in den Quartieren anregen, bspw. zu der Frage, wie wir das Wohnen, Lernen, Arbeiten, Beteiligen und Einkaufen in der Stadt nach der Corona-Epidemie gestalten wollen.
+
+Ein Haus der Demokratie und der digitalen Bildung errichten
+
+Neben dezentralen Orten errichten wir an der Urania Berlin ein zentrales „Berliner Haus der Bürgerbeteiligung, Demokratie und der digitalen Bildung“. Es enthält einen Veranstaltungsort für die bezirklichen Einrichtungen des lebenslangen Lernens sowie für die gesamtstädtisch agierenden freien Träger. Das Haus bietet neben einem Café als Treffpunkt Arbeits- und Begegnungsräume. Es vernetzt überdies die bereits existierenden und neu errichteten kieznahen Lern-, Beteiligungs- und Begegnungsorte und entwickelt überbezirkliche und gesamtstädtische Angebote. Im Berliner „Haus der Demokratie und digitalen Bildung“ wird ein Kompetenzzentrum Digitale Bildung eingerichtet. Das Kompetenzzentrum richtet Ideenwettbewerbe für digitale Innovation im Feld der Erwachsenenbildung aus und richtet sogenannte skills labs ein. Es kooperiert eng mit dem Servicezentrum der Berliner Volkshochschulen, der Landeszentrale für politische Bildung, der Landesbibliothek, den Berliner Einrichtungen der Engagement- und Demokratieförderung sowie mit dem CityLab. Das Land Berlin beteiligt sich an der durch den Bund beabsichtigten Ertüchtigung und dem Ausbau der Urania und übernimmt die Finanzierung des Betriebs der Einrichtung.
+
+Die Erwachsenenbildung in der Verfassung Berlins verankern
+
+Wir wollen die Erwachsenenbildung in der Berliner Verfassung verankern und damit das Lebenslange Lernen als vierte Säule des Bildungssystems stärken. Damit folgen wir dem Vorbild der Weimarer Reichsverfassung vor 100 Jahren sowie diverser Landesverfassungen z.B. von Brandenburg und Bremen. Allen Erwachsenen soll durch öffentliche Einrichtungen wie Volkshochschulen und andere mit öffentlichen Mitteln unterstützte Einrichtungen die Teilhabe an Weiterbildung ermöglicht werden. Aufgaben der Weiterbildung umfassen allgemeine, politische, berufliche und kulturelle Weiterbildung und schließen das Nachholen von Schulabschlüssen sowie Eltern-und Familienbildung ein.
+
+Soziale Sicherheit für die Beschäftigten in der Erwachsenenbildung stärken
+
+An den 12 Berliner Volkshochschulen werden jährlich mehr als 20.000 Kurse mit ca. 980.000 Unterrichtseinheiten für fast 240.000 Teilnehmende angeboten und das mit einem Personalbestand, der unter 50% der Personalausstattung aller großstädtischen VHS in Deutschland liegt. Wir werden den Personalausbau an den Berliner Volkshochschulen kontinuierlich vorantreiben, sowohl im Hinblick auf Verwaltungsmitarbeitende, festangestelltes pädagogisches Personal als auch auf Kursleitende. Dabei berücksichtigen wir den gestiegenen Personalbedarf an Medienwarten sowie Programmverantwortlichen im Feld der digitalen Bildung. Wir werden die Arbeitsbedingungen und die soziale Absicherung der freiberuflich Tätigen stärken und setzen uns für die Festanstellung von arbeitnehmerähnlich beschäftigten Dozierenden an Volkshochschulen ein.
+
+Die Chancen der digitalen Transformation in der Erwachsenenbildung nutzen
+
+Die Digitalisierung verändert wie wir leben, lernen und arbeiten. Beschleunigt wurde dieser Prozess durch die Corona-Krise. Um den enormen Herausforderungen zu begegnen, setzen wir an drei Punkten an: Wir stärken die Demokratie- und Medienbildung. Wir unterstützen die Einrichtung einer Taskforce Digitalisierung, die Vorschläge für neue digitale Lernformate und -inhalte erarbeiten wird. Wir legen einen Investitionsfonds Digitalisierung in der Erwachsenenbildung auf. Über diesen Fonds soll die Stärkung der digitalen Infrastruktur an Volkshochschulen und bei anerkannten Einrichtungen der Erwachsenenbildung des Landes Berlin finanziert werden.
+
+Beteiligung und Engagement ausbauen – das demokratische Gemeinwesen mit einem Gesetz stärken
+
+Unsere Vision für Berlin ist die einer demokratischen Metropole im 21. Jahrhundert. Sie versteht sich als Teil einer internationalen Allianz demokratischer und lernender Städte, die von lernfreudigen, kritischen und engagierten Bürgerinnen und Bürgern und von einer gelebten demokratischen Kultur getragen wird.
+
+Engagement und Beteiligung der Bürgerinnen und Bürger sind für eine Demokratie systemrelevant. Um für die Förderung von Engagement, Beteiligung und Demokratie ein stabiles Fundament zu schaffen, werden wir ein Gesetz zur Stärkung des demokratischen Gemeinwesens auf den Weg bringen.
+
+Wir werden das Landesprogramm für Demokratie. Vielfalt. Respekt weiterentwickeln. Damit stärken wir die Strukturen des Landes und der Bezirke sowie zivilgesellschaftliche Akteure, die Engagement fördern, Extremismus-Prävention betreiben, demokratische Werte gegen Hass im Netz verteidigen, Diskriminierung entgegentreten, Gruppen ohne Lobby eine Stimme geben, antidemokratische, rassistische und antisemitische Vorfälle registrieren und Opfern helfen.
+
+Wir werden in die demokratische Infrastruktur unserer Stadt investieren. Dazu zählt der Ausbau der historisch-politischen Bildung an den Volkshochschulen sowie die Stärkung der Landeszentrale für politische Bildung als zentraler Impulsgeber und Netzwerkknoten der politischen Bildungsarbeit. Die Landeszentrale soll darin unterstützt werden, neue Wege der aufsuchenden politischen Bildung in den Bezirken zu gehen – sei es im Rahmen von Stadtteildialogen oder Demokratiewerkstätten, mit Hilfe von mobilen Formaten auf Straßen und Plätzen oder im digitalen Raum. Damit wollen wir die Teilhabe von allen Bürgerinnen und Bürgern an der politischen Willensbildung und an Beteiligungsverfahren ermöglichen.
+
+Um Demokratie zu stärken, ergänzen wir etablierte repräsentative Formen der Demokratie durch neue Formen der Bürgerbeteiligung. Wir werden im Rahmen von Modellprojekten die Bezirke bei der Erprobung neuer Beteiligungsformate wie z.B. Stadtteilkonferenzen und Bürgerräten unterstützen und eine Übertragung auf weitere Bezirke prüfen. Bei der Entwicklung neuer Beteiligungsinstrumente, wie z.B. des gesamtstädtischen Bürgerhaushalts („Beteiligungshaushalt“), werden wir Zugänge erleichtern, aufsuchende Formen der Beteiligung in Nachbarschaften und Kiezen entwickeln und Maßnahmen der aufsuchenden politischen Bildung einbeziehen, um bislang unterrepräsentierte Bevölkerungsgruppen anzusprechen. Die Engagementstrategie und Leitlinien für Bürgerbeteiligung werden wir systematisch umsetzen und in einem gesamtstädtischen Ansatz guter Beteiligung verbinden.
+
+Ein besonderer Tag im Jahr, an dem die vielfältigen Aktivitäten für eine lebendige demokratische Kultur in allen Bereichen der Stadt sichtbar sind, soll der 15. September (Internationaler Tag der Demokratie) sein. Wir wollen ihn als Berliner Demokratietag etablieren und in Zukunft jährlich allen Einrichtungen, die Lernen, Engagement und Demokratie fördern, eine Plattform bieten, um sich auszutauschen, ihre Arbeit zu zeigen und Lust auf Beteiligung zu wecken.
+
+Die Möglichkeiten des Bildungsurlaubs werden in Berlin noch zu wenig genutzt und sind zu wenig bekannt. Mit einer Initiative wollen wir gemeinsam mit Trägern, Arbeitnehmer*innen und Arbeitgeber*innen für den Bildungsurlaub als einen wichtigen Zugang zur politischen Bildung und der beruflichen Weiterbildung werben.
+
+Mit kommunalpolitischer Bildung die lokale Demokratie stärken
+
+Ehrenamtlich aktive Kommunalpolitikerinnen und Kommunalpolitiker sind Stützen unserer Demokratie. Damit sich Bürgerinnen und Bürger wirksam politisch beteiligen können, bauen wir als Berliner SPD weiterhin kommunalpolitische Bildungsangebote durch Bildungswerke und Bildungsinitiativen aus, die Wissen darüber, wie man sich politisch engagieren kann, vermitteln.
+
+Wir werden die Entwicklung digitaler Angebote der kommunalpolitischen Bildung unterstützen. Ein Teil soll sich dem Erlernen digitaler Techniken selbst widmen, um breiten Zugang zur Digitalisierung zu schaffen, lebenslanges Lernen und demokratisches Engagement im Netz zu fördern.
+
+Teilhabe an Erwachsenenbildung erleichtern und Beteiligungsprozessen für alle öffnen
+
+Wir werden das Berliner Erwachsenenbildungsgesetz mit Leben füllen und die Förderung so ausstatten, dass innovative Vorhaben und neue Felder der Erwachsenenbildung gestärkt, erprobt und verstetigt werden können. Wir werden die Förderung in den kommenden Jahren schrittweise ausbauen. Wir wollen die Teilhabe aller Bürgerinnen und Bürger ermöglichen unabhängig vom Einkommen. Wir werden das Erwachsenenbildungsgesetz in seiner Wirksamkeit evaluieren und eine institutionelle Förderung freier Träger über das Gesetz prüfen.
+
+In Berlin können ca. 300.000 erwachsene Menschen nicht ausreichend lesen und schreiben, um am gesellschaftlichen Leben teilzuhaben. Das ist nicht akzeptabel. Wir wollen die Senatsstrategie Alphabetisierung und Grundbildung zu einer Landeskonzeption Alphabetisierung und Grundbildung weiterentwickeln, Lernangebote und innovative Lernzugänge ausbauen und die bezirklichen Alpha-Bündnisse stärken.
+
+Bildung geht hin, interessiert und bezieht ein. Wir wollen aufsuchende Bildungsangebote an Volkshochschulen, bei freien Trägern der Erwachsenenbildung und der Landeszentrale für politische Bildung stärken. Diese müssen außerhalb von den Einrichtungen dort stattfinden, wo die Menschen sind. Ein Schwerpunkt liegt hier neben ihrer fachlichen Expertise auf der Netzwerkarbeit im Stadtteil.
+
+Wir setzen uns im Sinne des Rechts auf Bildung dafür ein, Angebote für Seniorinnen und Senioren als feste Bestandteile der Erwachsenenbildung auszubauen. Sie gehen auf die Lebensbedürfnisse und die Lebenserfahrung älterer Menschen in Inhalt, Tempo und Methodik ein. Sie bieten einen möglichst kostengünstigen Zugang zu Bildung in allen Themenbereichen und wirken Vereinsamung entgegen. Intergenerationale Bildungsangebote sollen den Zusammenhalt der Generationen durch gemeinsames Lernen stärken.
+
+Die Einrichtungen der Erwachsenenbildung in Berlin sind im Hinblick auf ihr Personal und ihre Angebote noch nicht so divers, wie es die postmigrantische Berliner Stadtgesellschaft ist. Wir werden die diversitätssensible Öffnung der Einrichtungen vorantreiben, sie in der Auseinandersetzung mit Diskriminierung bestärken und die Kooperation von Einrichtungen der Erwachsenenbildung mit Migrantenselbstorganisationen fördern. Bei der Bürgerinnen- und Bürgerbeteiligung setzen wir auf niedrigschwellige und aufsuchende Dialogformate, um bisher unterrepräsentierte Bevölkerungsgruppen anzusprechen.
+
+Kulturelle Bildung und Demokratie
+
+Kulturelle Bildung ist demokratische und Persönlichkeitsbildung mit kulturellen und künstlerischen Ausdrucksformen. Sie hat allgemein das Ziel, durch Teilhabe und Rezeption Wahrnehmungsfähigkeiten zu stärken sowie Kreativität, Sensibilität und Urteilskraft zu entwickeln. Sie trägt als Kultur für alle zur gesellschaftlichen Selbstverständigung wesentlich bei.
+
+In digitalen Zeiten ist die Fähigkeit, Bilder kritisch einordnen, lesen und entschlüsseln zu können, zur politischen Notwendigkeit geworden. Kunst ist ein Mittel der politischen Bewusstseinsbildung. Sie kann eingefahrene Seh- und Denkweisen aufweichen, neue Erkenntnisse ermöglichen und politischen Forderungen Ausdruck verleihen. Kunst ist politisch und politisierend, weil sie die symbolische Gegenwart möglicher Welten aufruft und „Einbildungskraft“ fördert.
+
+Bildungsangebote durch Kunst und Kultur und ihre Vermittlung haben gerade bei der Aufnahme Schutzsuchender (2015) und in der Pandemie (2020) gezeigt, dass sie flexibel auf Veränderungen reagieren können und vielen Gruppen die kulturelle Teilhabe ermöglichen. Vor allem Theater, aber auch andere Einrichtungen der Stadt und der Freien Szene haben sich zu Orten einer demokratischen Kultur entwickelt.
+
+Mit einem breiten und integrativen Kulturbegriff greifen wir die unterschiedlichen Lebenswirklichkeiten der Menschen auf. Dazu sollen Künstlerinnen und Künstlern zusammen mit Expertinnen und Experten der Jugend- und Erwachsenenbildung Vorschläge entwickeln, um Erfahrungen der letzten Jahre zu sichern und in praktische Handlungsschritte umzusetzen.
+
+Wir sichern den Projektfonds Kulturelle Bildung des Senats, bauen ihn aus und verknüpfen ihn mit der Erwachsenenbildung. Wir wollen Multiplikatorinnen und Multiplikatoren als Kulturbeauftragte, Kunst- und Kulturagenturen in die Erwachsenenbildung einbeziehen. Im Rahmen lokaler Bildungsbündnisse kulturelle Bildung werden wir die Kooperation von Kultur- und Bildungsinstitutionen fördern und dabei an guten Erfahrungen vor allem zwischen Schulen, Jugendkunstschulen und Kultureinrichtungen ansetzen.

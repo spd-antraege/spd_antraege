@@ -1,0 +1,45 @@
+---
+kuerzel: Antrag 132/I/2022
+titel: Antrag 132/I/2022 Trans*feindlichen Akteur*innen keine Plattform bieten
+status_in_tabelle: Annahme mit Änderungen
+antragsteller: SPDqueer Berlin
+ueberwiesen_an: Bundesparteitag 2023, Landesvorstand
+tagesordnungspunkt: Gleichstellung / Teilhabe
+veranstaltung: I/2022 Landesparteitag 19.06.2022
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/transfeindlichen-akteurinnen-keine-plattform-bieten/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/I_2022//Antrag_132I2022_Transfeindlichen_Akteurinnen_keine.pdf
+publication_date: ''
+tags: []
+content_hash: c703c8922166
+---
+
+**AntragstellerInnen:** SPDqueer Berlin
+
+**Adressat:** Der Landesparteitag möge beschließen:Der Bundesparteitag möge beschließen:
+
+## Antragstext
+
+Als SPD stehen wir fest an der Seite der trans* Community. Versuchen, trans* Personen – besonders trans* Frauen – ihr Geschlecht abzusprechen und ihnen so das Grundrecht auf Selbstbestimmung hinsichtlich ihrer geschlechtlichen Identität zu verweigern, stellen wir uns entschieden entgegen. Für uns ist klar: trans* Frauen sind Frauen, trans* Männer sind Männer,nicht-binäre Menschen sind nicht-binäre Menschen.
+Diese Haltung ist die Grundlage für unser politisches Handeln. Akteur*innen, die trans* Menschen ihr Grundrecht auf Selbstbestimmung absprechen oder ihre geschlechtliche Identität pathologisieren, stellen sich gegen die Ziele der SPD. Sie sind unsere politischen Gegner*innen.
+Insbesondere lassen wir nicht zu, dass queere und feministische Überzeugungen gegeneinander ausgespielt werden. Als Sozialdemokrat*innen waren und sind wir immer Teil der Frauenbewegung und der queeren Community. Es ist notwendiger Bestandteil unseres Verständnisses von Feminismus, die Rechte von trans* Menschen – insbesondere von trans* Frauen – zu schützen und zu verteidigen. Deshalb war es ein gutes und richtiges Zeichen, dass der Antrag „Solidarität mit der trans* Community: Kein Platz für Trans*feindlichkeit“, der am 10. Januar 2022 vom Landesvorstand der SPD Berlin beschlossen wurde, durch die ASF, die SPDqueer und die Jusos gemeinsam eingebracht worden war.
+Als politische Partei ist es unser Auftrag, an der politischen Willensbildung in der Gesellschaft mitzuwirken. Mit unserem politischen Handeln nehmen wir Einfluss darauf, wie gesellschaftliche Debatten geführt werden. Daraus ergibt sich eine besondere Verantwortung – gerade wenn es darum geht, marginalisierten Gruppen gleiche Rechte und gleichen Schutz zuzugestehen oder abzusprechen. Wenn SPD-Mitglieder oder -Gliederungen durch Äußerungen oder Veranstaltungen den Eindruck erwecken, dass unsere Partei trans*feindliche Positionen teilt, billigt oder toleriert, dann untergräbt das unsere politische Arbeit und erschwert es, unsere Ziele zu erreichen. Es stößt auch gerade die Menschen vor den Kopf, für deren Rechte wir uns einsetzen wollen – sowohl innerhalb als auch außerhalb unserer Partei.
+Aus diesem Grund halten wir es für unvereinbar mit den Grundsätzen und der Ordnung der Partei, Akteur*innen eine öffentliche Plattform zu bieten, die trans* Menschen ihr Grundrecht auf Selbstbestimmung absprechen möchten oder ihre geschlechtliche Identität pathologisieren. Wenn SPD-Mitglieder oder -Gliederungen in Kooperation mit solchen Akteur*innen Veranstaltungen organisieren oder sie als Referent*innen zu SPD-eigenen Veranstaltungen zu betreffenden Themen einladen, fügt dies der Partei Schaden zu. Daher fordern wir den Landesvorstand auf, in solchen Fällen zu prüfen, ob parteiordnungsrechtliche Schritte einzuleiten sind.
+Als SPD stehen wir fest an der Seite der trans* Community. Versuchen, trans* Personen – besonders trans* Frauen – ihr Geschlecht abzusprechen und ihnen so das Grundrecht auf Selbstbestimmung hinsichtlich ihrer geschlechtlichen Identität zu verweigern, stellen wir uns entschieden entgegen. Für uns ist klar: trans* Frauen sind Frauen, trans* Männer sind Männer,nicht-binäre Menschen sind nicht-binäre Menschen.
+Diese Haltung ist die Grundlage für unser politisches Handeln. Akteur*innen, die trans* Menschen ihr Grundrecht auf Selbstbestimmung absprechen oder ihre geschlechtliche Identität pathologisieren, stellen sich gegen die Ziele der SPD. Sie sind unsere politischen Gegner*innen.
+Insbesondere lassen wir nicht zu, dass queere und feministische Überzeugungen gegeneinander ausgespielt werden. Als Sozialdemokrat*innen waren und sind wir immer Teil der Frauenbewegung und der queeren Community. Es ist notwendiger Bestandteil unseres Verständnisses von Feminismus, die Rechte von trans* Menschen – insbesondere von trans* Frauen – zu schützen und zu verteidigen. Deshalb war es ein gutes und richtiges Zeichen, dass der Antrag „Solidarität mit der trans* Community: Kein Platz für Trans*feindlichkeit“, der am 10. Januar 2022 vom Landesvorstand der SPD Berlin beschlossen wurde, durch die ASF, die SPDqueer und die Jusos gemeinsam eingebracht worden war.
+Als politische Partei ist es unser Auftrag, an der politischen Willensbildung in der Gesellschaft mitzuwirken. Mit unserem politischen Handeln nehmen wir Einfluss darauf, wie gesellschaftliche Debatten geführt werden. Daraus ergibt sich eine besondere Verantwortung – gerade wenn es darum geht, marginalisierten Gruppen gleiche Rechte und gleichen Schutz zuzugestehen oder abzusprechen. Wenn SPD-Mitglieder oder -Gliederungen durch Äußerungen oder Veranstaltungen den Eindruck erwecken, dass unsere Partei trans*feindliche Positionen teilt, billigt oder toleriert, dann untergräbt das unsere politische Arbeit und erschwert es, unsere Ziele zu erreichen. Es stößt auch gerade die Menschen vor den Kopf, für deren Rechte wir uns einsetzen wollen – sowohl innerhalb als auch außerhalb unserer Partei.
+Natürlich wollen wir über trans*-Rechte reden und dabei die Sichtbarkeit und das Recht zur Selbstbestimmung von trans* Menschen vorantreiben, aber wenn SPD-Mitglieder oder -Gliederungen in Kooperation mit transfeindlichen Akteur*innen Veranstaltungen organisieren oder sie als Referent*innen zu SPD-eigenen Veranstaltungen zu betreffenden Themen einladen, fügt dies der Partei Schaden zu.
+Daher fordern wir alle Parteigliederungen auf, in solchen Fällen konsequent parteiordnungsrechtliche Schritte zu prüfen.
+
+**Empfehlung der Antragskommission:** Annahme in der Fassung der AK(Konsens)
+
+## Beschluss
+
+Als SPD stehen wir fest an der Seite der trans* Community. Versuchen, trans* Personen – besonders trans* Frauen – ihr Geschlecht abzusprechen und ihnen so das Grundrecht auf Selbstbestimmung hinsichtlich ihrer geschlechtlichen Identität zu verweigern, stellen wir uns entschieden entgegen. Für uns ist klar: trans* Frauen sind Frauen, trans* Männer sind Männer,nicht-binäre Menschen sind nicht-binäre Menschen.
+Diese Haltung ist die Grundlage für unser politisches Handeln. Akteur*innen, die trans* Menschen ihr Grundrecht auf Selbstbestimmung absprechen oder ihre geschlechtliche Identität pathologisieren, stellen sich gegen die Ziele der SPD. Sie sind unsere politischen Gegner*innen.
+Insbesondere lassen wir nicht zu, dass queere und feministische Überzeugungen gegeneinander ausgespielt werden. Als Sozialdemokrat*innen waren und sind wir immer Teil der Frauenbewegung und der queeren Community. Es ist notwendiger Bestandteil unseres Verständnisses von Feminismus, die Rechte von trans* Menschen – insbesondere von trans* Frauen – zu schützen und zu verteidigen. Deshalb war es ein gutes und richtiges Zeichen, dass der Antrag „Solidarität mit der trans* Community: Kein Platz für Trans*feindlichkeit“, der am 10. Januar 2022 vom Landesvorstand der SPD Berlin beschlossen wurde, durch die ASF, die SPDqueer und die Jusos gemeinsam eingebracht worden war.
+Als politische Partei ist es unser Auftrag, an der politischen Willensbildung in der Gesellschaft mitzuwirken. Mit unserem politischen Handeln nehmen wir Einfluss darauf, wie gesellschaftliche Debatten geführt werden. Daraus ergibt sich eine besondere Verantwortung – gerade wenn es darum geht, marginalisierten Gruppen gleiche Rechte und gleichen Schutz zuzugestehen oder abzusprechen. Wenn SPD-Mitglieder oder -Gliederungen durch Äußerungen oder Veranstaltungen den Eindruck erwecken, dass unsere Partei trans*feindliche Positionen teilt, billigt oder toleriert, dann untergräbt das unsere politische Arbeit und erschwert es, unsere Ziele zu erreichen. Es stößt auch gerade die Menschen vor den Kopf, für deren Rechte wir uns einsetzen wollen – sowohl innerhalb als auch außerhalb unserer Partei.
+Natürlich wollen wir über trans*-Rechte reden und dabei die Sichtbarkeit und das Recht zur Selbstbestimmung von trans* Menschen vorantreiben, aber wenn SPD-Mitglieder oder -Gliederungen in Kooperation mit transfeindlichen Akteur*innen Veranstaltungen organisieren oder sie als Referent*innen zu SPD-eigenen Veranstaltungen zu betreffenden Themen einladen, fügt dies der Partei Schaden zu.
+Daher fordern wir alle Parteigliederungen auf, in solchen Fällen konsequent parteiordnungsrechtliche Schritte zu prüfen.

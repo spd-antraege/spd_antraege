@@ -1,0 +1,23 @@
+state: sachsen_anhalt
+display_name: "SPD Sachsen-Anhalt"
+portal_url: "https://spdsachsenanhalt.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://spdsachsenanhalt.de/wp-content/uploads/sites/63/2024/10/LPT-2024-Anlage-1-Antragsbuch.pdf"
+    label: "LPT 2024"
+    veranstaltung: "Landesparteitag 2024"
+    year: 2024
+# Old site (spd-sachsen-anhalt.de) PDFs return 404 — site migrated
+
+audit:
+  total_motions: 150
+  date_range: "2022-2025"

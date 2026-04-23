@@ -1,0 +1,33 @@
+---
+kuerzel: Antrag 48/I/2019
+titel: Antrag 48/I/2019 Tarifverträge bei Tochterunternehmen von Charité und Vivantes
+status_in_tabelle: Erledigt
+antragsteller: KDV Charlottenburg-Wilmersdorf
+ueberwiesen_an: ''
+tagesordnungspunkt: Arbeit / Wirtschaft
+veranstaltung: I/2019 Landesparteitag 30.03.2019
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/tarifvertraege-bei-tochterunternehmen-von-charite-und-vivantes/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/I_2019//Antrag-48I2019-Tarifvertraege-bei-Tochterunternehm.pdf
+publication_date: ''
+tags: []
+content_hash: 3c866b038bff
+---
+
+**AntragstellerInnen:** KDV Charlottenburg-Wilmersdorf
+
+**Adressat:** Der Landesparteitag möge beschließen:
+
+## Antragstext
+
+Der Landesparteitag begrüßt die Konkretisierung, die sein Beschluss vom 28.11.2018 im Auflagenbeschluss des Abgeordnetenhauses im Nachtragshaushaltsgesetz gefunden hat, als ersten Schritt in die richtige Richtung.
+Der Landesparteitag begrüßt auch den Beschluss der Klausurtagung der SPD Fraktion im Januar, der festhält:
+„Wir streben an, dass die Rückeingliederungen der Töchter Vivantes Therapeutische Dienste und Vivantes Ambulante Krankenpflege sowie der Charité-Tochter CPPZ bis Ende 2019 abgeschlossen sind.“
+Wir gehen davon aus, dass den Worten noch in diesem Jahr Taten folgen.
+Der SPD-Landesparteitag erwartet von der SPD Fraktion und den sozialdemokratischen Senatoren, dass sie entsprechende Konkretisierungen für die Charité-Tochter, CFM, die bisher ohne Tarifvertrag ist und deren vorläufige Entgeltvereinbarung zum 30.6.2019 ausläuft und der VSG Tochter, VSG, verabschieden.
+Der Landesparteitag erwartet vom Senat, dass er zur Umsetzung des Beschlusses des Landesparteitages die Initiative zu entsprechenden Verhandlungen und Gesprächen mit den Gewerkschaften, sowie den dafür gebildeten Kommissionen führen wird.
+Wir erinnern daran, dass es im Beschluss des Landesparteitages heißt:
+„Wir beenden endgültig den inakzeptablen Zustand tarifloser Beschäftigung in von uns maßgeblich beeinflussten Unternehmen. Kein landeseigenes Mutter- oder Tochterunternehmen und kein maßgeblich beeinflusstes Unternehmen beschäftigt zukünftig Mitarbeiterinnen oder Mitarbeiter ohne Tarifbindung. Wir werden in diesen Unternehmen unabhängig von ihrer Rechtsform gemeinsam mit den Gewerkschaften und Beschäftigtenvertretungen noch in dieser Legislaturperiode eine Tarifbindung auf dem jeweils vergleichbaren Bundesniveau erreichen. Dies bedeutet jedenfalls eine stufenweise Anwendung des TVöD oder TV-L zu erreichen.“
+
+**Empfehlung der Antragskommission:** Erledigt bei Annahme 47/I/2019(Konsens)

@@ -1,0 +1,28 @@
+[Unit]
+Description=PIS Antraege Sync
+Documentation=https://github.com/andxblink/spd_antraege
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=root
+WorkingDirectory=/opt/pis
+
+# Load environment from Doppler
+Environment="PATH=/root/.local/bin:/usr/local/bin:/usr/bin:/bin"
+
+# Run the sync job
+ExecStart=/root/.local/bin/doppler run --project andx_main --config prd -- python /opt/pis/tools/pis/sync_antraege.py --sync --all-events
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=pis-sync
+
+# Resource limits
+TimeoutStartSec=3600
+MemoryMax=2G
+
+[Install]
+WantedBy=multi-user.target

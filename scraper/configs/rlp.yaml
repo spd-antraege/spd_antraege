@@ -1,0 +1,26 @@
+state: rlp
+display_name: "SPD Rheinland-Pfalz"
+portal_url: "https://antraege.spd-rlp.de"
+technology: cvtx
+
+# Kuerzel: RLP uses "2018/I/03" or "2025/KL/4"
+kuerzel_format: "{year}/{session}/{number}"
+kuerzel_prefix: ""
+
+status_map:
+  "annahme": "Annahme"
+  "geändert angenommen": "Annahme mit Änderungen"
+  "ablehnung": "Ablehnung"
+  "überweisung": "Überweisung"
+  "erledigt": "Erledigt"
+  "zurückgezogen": "Zurückgezogen"
+
+scrape_delay: 1.0
+checkpoint_interval: 50
+
+audit:
+  total_motions: 610
+  events: 8
+  date_range: "2018-2026"
+  schema_compat: 1.0
+  status_compat: 0.86

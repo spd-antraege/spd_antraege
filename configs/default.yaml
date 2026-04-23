@@ -1,0 +1,38 @@
+# PIS corpus pipeline configuration
+
+# Date parsing patterns for veranstaltung field (tried in order)
+date_patterns:
+  - pattern: '(\d{1,2})\.(\d{1,2})\.(\d{4})'
+    format: "dmy_dots"
+  - pattern: '(\d{1,2})\.\s*(Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)\s+(\d{4})'
+    format: "d_month_y"
+
+# Submitter type classification rules (first match wins)
+submitter_rules:
+  - pattern: "^Landesvorstand"
+    type: "Landesvorstand"
+  - pattern: "^KDV\\b"
+    type: "KDV"
+  - pattern: "^(Abt\\.|Abteilung)\\s"
+    type: "Abteilung"
+  - pattern: "^(AfA|AfB|AG\\s|ASF|ASJ|Jusos|Forum\\s|Schwusos|AG Selbst|AGS\\b|60plus)"
+    type: "AG"
+  - pattern: "^FA\\s"
+    type: "FA"
+  - pattern: "^Bezirk"
+    type: "Bezirk"
+
+# Boilerplate detection
+boilerplate:
+  frequency_threshold: 0.05
+  known_phrases:
+    - "Der Landesparteitag möge beschließen"
+    - "Der Landesparteitag hat beschlossen"
+    - "Die Antragskommission empfiehlt"
+    - "Empfehlung der Antragskommission"
+
+# Quality flag thresholds
+quality:
+  tag_suspect_broad_percentile: 95
+  min_word_count_for_missing_text: 10
+  conversion_artifact_short_line_ratio: 0.5

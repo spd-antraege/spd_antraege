@@ -1,0 +1,58 @@
+---
+kuerzel: Antrag 168/I/2022
+titel: Antrag 168/I/2022 Mobilität von Menschen mit Beeinträchtigungen in Berlin verbessern
+status_in_tabelle: Annahme
+antragsteller: AG Selbst Aktiv Landesvorstand
+ueberwiesen_an: AG Sozialdemokratischer Bezirksbürgermeister, AH Fraktion, Senat
+tagesordnungspunkt: Mobilität
+veranstaltung: I/2022 Landesparteitag 19.06.2022
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/mobilitaet-von-menschen-mit-beeintraechtigungen-in-berlin-verbessern/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/I_2022//Antrag_168I2022_Mobilitat_von_Menschen_mit_Beeintr.pdf
+publication_date: ''
+tags: []
+content_hash: c35578d04cf3
+---
+
+**AntragstellerInnen:** AG Selbst Aktiv Landesvorstand
+
+**Adressat:** Der Landesparteitag möge beschließen:
+
+## Antragstext
+
+Laut Berliner Teilhabebericht 2019 lebten in Berlin Ende 2018 ca. 630.000 Menschen mit Behinderungen (mit und ohne gültigen Schwerbehindertenausweis) – und ihre Anzahl wächst aufgrund des demografischen Wandels stetig. Der Nahverkehrsplan Berlin 2019-2023 geht bereits davon aus, dass rund 35 Prozent der Menschen in ihrer Mobilität beeinträchtigt sind, wenn weitere Formen der Mobilitätsbeeinträchtigung, beispielsweise alters-, krankheits- oder verletzungsbedingt, sowie Nutzergruppen mit temporären Einschränkungen, wie Schwangere oder Fahrgäste mit Kleinkindern, Kinderwagen oder großem Gepäck“ hinzugezählt werden.
+Trotz verstärkter Anstrengungen, die Mobilitätsinfrastruktur barrierefrei auszubauen, sind Berliner*innen mit Behinderungen weiterhin mit zahlreichen Barrieren konfrontiert. Berlin ist es in der vergangenen Legislatur nicht gelungen, den öffentlichen Personennahverkehr gemäß Personenbeförderungsgesetz bis zum 1.1.2022 vollständig barrierefrei zu gestalten. Hinzukommt, dass Menschen mit und ohne Beeinträchtigungen im Alltag oft mehrere Verkehrsmittel miteinander kombinieren, die nicht unbedingt Teil des Nahverkehrs sind.
+Mobilität ist komplex und von vielen Faktoren abhängig, Für alle Berliner*innen ist eine optimale Planung und Gestaltung des öffentlichen Raums, des öffentlichen Verkehrs, des Individualverkehrs sowie besonderer Beförderungsdienste dringend erforderlich, um eine barrierefreie Reisekette von der Wohnungstür bis um Zielort zu ermöglichen. Eine Gesamtplanung, die die vorhandenen Verkehrsmittel barrierefrei aufeinander abstimmt, fehlt bislang in Berlin. Für diese Legislatur muss die Mobilitätssicherung von Menschen mit Behinderungen daher Priorität haben und bis spätestens 2023 vorliegen.
+Mindestens die mit Mobilität befassten Mitglieder der Berliner SPD und insbesondere alle sozialdemokratischen Mandats- und Amtsträger*innen werden dringendst aufgefordert:
+1. Im Rahmen der gewollten Verkehrswende die Mobilitätsinfrastruktur barrierefrei auszubauen.
+Selbstbestimmt mobil zu sein, ist auch für Menschen mit Behinderungen von zentraler Bedeutung. Mobilität ist eine Voraussetzung für Inklusion, Partizipation und gesellschaftliche Teilhabe. Es gilt zügig ein Gesamtkonzept für die Mobilitätssicherung von Menschen mit Behinderungen zu entwickeln. Erstellt werden soll eine Roadmap für eine integrierte Planung zum barrierefreien Ausbau der Mobilitätsinfrastruktur (u.a. auch barrierefreier Ausbau von Bürgersteigen, Fahrbahnen, Fahrradwegen, Parkraum, Halte-, Tank- und Ladestellen, etc.).
+2. Eine Strategie zur besseren Kompatibilität vorhandener Verkehrsmittel zu erstellen.
+Ziel ist die Kompatibilität aller Fortbewegungsarten und Verkehrsmittel im Sinne barrierefreier Mobilitätsketten: u.a. Abstimmung von Fahrplänen und Umsteigezeiten mit besonderem Augenmerk auf die Außenbezirke, übersichtliche Gestaltung der Beförderungs- und Begleitangebote für Menschen mit Behinderungen ohne lange Vorausplanungen und eingeschränkten Nutzungszeiten, etc.. Die Nahverkehrsangebote sind durch mindestens 250 Inklusionstaxis zu ergänzen.
+3. Die Digitalisierung von Anfang an mitzudenken.
+Geplant ist eine digitale Plattform, die „planungs-, buchungs- und auslastungsrelevante Daten“ aller Anbieter*innen von Mobilitätsleistungen auch für Menschen mit Behinderungen öffentlich zur Verfügung stellt. Bei der Erstellung dieser digitalen Plattform ist digitale Barrierefreiheit von Anfang an mitzudenken und entsprechend zu gestalten. Der Teilhabebericht 2019 hatte hinsichtlich der Mobilität große Lücken. Es braucht aber eine solide Datenbasis. Befragungen dürfen sich nicht nur an bisherige Nutzer*innen von Sonderfahrdiensten richten, sondern müssen auch Berliner*innen mit Behinderungen zu ihrer individuellen bedarfsgerechten Mobilität, u.a. auch hinsichtlich einer gebotenen Flexibilität, befragen.
+4. Lösungen im Einzelfall zu schaffen.
+Bis alle Mobilitätsketten in Berlin barrierefrei nutzbar sind müssen im Einzelfall angemessene Vorkehrungen bereitstehen, um Mobilität zu gewährleisten, dieses auch für den Fall von Störungen oder Ausfällen, beispielsweise von Fahrstühlen oder Beförderungsdiensten. Alle Berliner*innen haben das gleiche Recht auf Mobilität.
+5. Die Partizipation von Menschen mit Behinderungen in verwaltungs- und politikübergreifenden Prozessen ernst nehmen und zu sichern.
+Die Mobilität von Menschen mit Behinderungen ist in der Verkehrs- und Stadtentwicklungsplanung – insbesondere beim schnell fortschreitenden Ausbau von E-Mobilität und Sharing-Angeboten – konsequent einzubeziehen. Dazu müssen Menschen mit Behinderungen, sowohl als Einzelpersonen als auch durch Selbstvertretungsorganisationen, an allen sie betreffenden politischen Entscheidungsprozessen von Anfang an beteiligt werden. Die aktive Beteiligung der „Arbeitsgruppen Menschen mit Behinderungen“ in allen Senatsverwaltungen sowie die Beiräte auf Landes- und Bezirksebene müssen frühzeitig und umfassend partizipieren können.
+Wir dürfen die mit der Verkehrswende ohnehin einhergehenden Anstrengungen zur Veränderung des öffentlichen Raumes nicht verstreichen lassen. Die Verkehrswende darf an den Menschen mit Behinderungen nicht vorbeigehen, weil beispielsweise Ladesäulen nicht barrierefrei anzufahren sind, Radwege zulasten des sicheren Fußverkehrs gehen oder Menschen mit Behinderungen nicht von der Digitalisierung der Mobilität profitieren.
+
+**Empfehlung der Antragskommission:** Annahme(Konsens)
+
+## Beschluss
+
+Laut Berliner Teilhabebericht 2019 lebten in Berlin Ende 2018 ca. 630.000 Menschen mit Behinderungen (mit und ohne gültigen Schwerbehindertenausweis) – und ihre Anzahl wächst aufgrund des demografischen Wandels stetig. Der Nahverkehrsplan Berlin 2019-2023 geht bereits davon aus, dass rund 35 Prozent der Menschen in ihrer Mobilität beeinträchtigt sind, wenn weitere Formen der Mobilitätsbeeinträchtigung, beispielsweise alters-, krankheits- oder verletzungsbedingt, sowie Nutzergruppen mit temporären Einschränkungen, wie Schwangere oder Fahrgäste mit Kleinkindern, Kinderwagen oder großem Gepäck“ hinzugezählt werden.
+Trotz verstärkter Anstrengungen, die Mobilitätsinfrastruktur barrierefrei auszubauen, sind Berliner*innen mit Behinderungen weiterhin mit zahlreichen Barrieren konfrontiert. Berlin ist es in der vergangenen Legislatur nicht gelungen, den öffentlichen Personennahverkehr gemäß Personenbeförderungsgesetz bis zum 1.1.2022 vollständig barrierefrei zu gestalten. Hinzukommt, dass Menschen mit und ohne Beeinträchtigungen im Alltag oft mehrere Verkehrsmittel miteinander kombinieren, die nicht unbedingt Teil des Nahverkehrs sind.
+Mobilität ist komplex und von vielen Faktoren abhängig, Für alle Berliner*innen ist eine optimale Planung und Gestaltung des öffentlichen Raums, des öffentlichen Verkehrs, des Individualverkehrs sowie besonderer Beförderungsdienste dringend erforderlich, um eine barrierefreie Reisekette von der Wohnungstür bis um Zielort zu ermöglichen. Eine Gesamtplanung, die die vorhandenen Verkehrsmittel barrierefrei aufeinander abstimmt, fehlt bislang in Berlin. Für diese Legislatur muss die Mobilitätssicherung von Menschen mit Behinderungen daher Priorität haben und bis spätestens 2023 vorliegen.
+Mindestens die mit Mobilität befassten Mitglieder der Berliner SPD und insbesondere alle sozialdemokratischen Mandats- und Amtsträger*innen werden dringendst aufgefordert:
+1. Im Rahmen der gewollten Verkehrswende die Mobilitätsinfrastruktur barrierefrei auszubauen.
+Selbstbestimmt mobil zu sein, ist auch für Menschen mit Behinderungen von zentraler Bedeutung. Mobilität ist eine Voraussetzung für Inklusion, Partizipation und gesellschaftliche Teilhabe. Es gilt zügig ein Gesamtkonzept für die Mobilitätssicherung von Menschen mit Behinderungen zu entwickeln. Erstellt werden soll eine Roadmap für eine integrierte Planung zum barrierefreien Ausbau der Mobilitätsinfrastruktur (u.a. auch barrierefreier Ausbau von Bürgersteigen, Fahrbahnen, Fahrradwegen, Parkraum, Halte-, Tank- und Ladestellen, etc.).
+2. Eine Strategie zur besseren Kompatibilität vorhandener Verkehrsmittel zu erstellen.
+Ziel ist die Kompatibilität aller Fortbewegungsarten und Verkehrsmittel im Sinne barrierefreier Mobilitätsketten: u.a. Abstimmung von Fahrplänen und Umsteigezeiten mit besonderem Augenmerk auf die Außenbezirke, übersichtliche Gestaltung der Beförderungs- und Begleitangebote für Menschen mit Behinderungen ohne lange Vorausplanungen und eingeschränkten Nutzungszeiten, etc.. Die Nahverkehrsangebote sind durch mindestens 250 Inklusionstaxis zu ergänzen.
+3. Die Digitalisierung von Anfang an mitzudenken.
+Geplant ist eine digitale Plattform, die „planungs-, buchungs- und auslastungsrelevante Daten“ aller Anbieter*innen von Mobilitätsleistungen auch für Menschen mit Behinderungen öffentlich zur Verfügung stellt. Bei der Erstellung dieser digitalen Plattform ist digitale Barrierefreiheit von Anfang an mitzudenken und entsprechend zu gestalten. Der Teilhabebericht 2019 hatte hinsichtlich der Mobilität große Lücken. Es braucht aber eine solide Datenbasis. Befragungen dürfen sich nicht nur an bisherige Nutzer*innen von Sonderfahrdiensten richten, sondern müssen auch Berliner*innen mit Behinderungen zu ihrer individuellen bedarfsgerechten Mobilität, u.a. auch hinsichtlich einer gebotenen Flexibilität, befragen.
+4. Lösungen im Einzelfall zu schaffen.
+Bis alle Mobilitätsketten in Berlin barrierefrei nutzbar sind müssen im Einzelfall angemessene Vorkehrungen bereitstehen, um Mobilität zu gewährleisten, dieses auch für den Fall von Störungen oder Ausfällen, beispielsweise von Fahrstühlen oder Beförderungsdiensten. Alle Berliner*innen haben das gleiche Recht auf Mobilität.
+5. Die Partizipation von Menschen mit Behinderungen in verwaltungs- und politikübergreifenden Prozessen ernst nehmen und zu sichern.
+Die Mobilität von Menschen mit Behinderungen ist in der Verkehrs- und Stadtentwicklungsplanung – insbesondere beim schnell fortschreitenden Ausbau von E-Mobilität und Sharing-Angeboten – konsequent einzubeziehen. Dazu müssen Menschen mit Behinderungen, sowohl als Einzelpersonen als auch durch Selbstvertretungsorganisationen, an allen sie betreffenden politischen Entscheidungsprozessen von Anfang an beteiligt werden. Die aktive Beteiligung der „Arbeitsgruppen Menschen mit Behinderungen“ in allen Senatsverwaltungen sowie die Beiräte auf Landes- und Bezirksebene müssen frühzeitig und umfassend partizipieren können.
+Wir dürfen die mit der Verkehrswende ohnehin einhergehenden Anstrengungen zur Veränderung des öffentlichen Raumes nicht verstreichen lassen. Die Verkehrswende darf an den Menschen mit Behinderungen nicht vorbeigehen, weil beispielsweise Ladesäulen nicht barrierefrei anzufahren sind, Radwege zulasten des sicheren Fußverkehrs gehen oder Menschen mit Behinderungen nicht von der Digitalisierung der Mobilität profitieren.

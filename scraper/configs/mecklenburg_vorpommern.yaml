@@ -1,0 +1,46 @@
+state: mecklenburg_vorpommern
+display_name: "SPD Mecklenburg-Vorpommern"
+portal_url: "https://spd-mv.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://spd-mv.de/uploads/spdLandesverbandMecklenburgVorpommern/24_LPT_Beschlussbuch.pdf"
+    label: "LPT 2024 Beschlüsse"
+    veranstaltung: "Landesparteitag 2024"
+    year: 2024
+  - url: "https://spd-mv.de/uploads/spdLandesverbandMecklenburgVorpommern/Downloads/Beschlussbuch_LPT-2022-mit-A1.pdf"
+    label: "LPT 2022 Beschlüsse"
+    veranstaltung: "Landesparteitag 2022"
+    year: 2022
+  - url: "https://spd-mv.de/uploads/spdLandesverbandMecklenburgVorpommern/Downloads/Beschlussbuch-Landesparteitag-2019.pdf"
+    label: "LPT 2019 Beschlüsse"
+    veranstaltung: "Landesparteitag 2019"
+    year: 2019
+  - url: "https://spd-mv.de/uploads/spdLandesverbandMecklenburgVorpommern/Downloads/Beschlussbuch-zum-Landesparteitag-26.-Mai-2018.pdf"
+    label: "LPT 2018 Beschlüsse"
+    veranstaltung: "Landesparteitag 2018"
+    year: 2018
+  - url: "https://spd-mv.de/uploads/spdLandesverbandMecklenburgVorpommern/Downloads/Antragsbuch-Landesparteitag-13.-Mai-2017.pdf"
+    label: "LPT 2017"
+    veranstaltung: "Landesparteitag 2017"
+    year: 2017
+  - url: "https://spd-mv.de/uploads/spdLandesverbandMecklenburgVorpommern/Downloads/Beschlussbuch-Landesparteitag-26.-April2015.pdf"
+    label: "LPT 2015 Beschlüsse"
+    veranstaltung: "Landesparteitag 2015"
+    year: 2015
+  - url: "https://spd-mv.de/uploads/spdLandesverbandMecklenburgVorpommern/Downloads/Beschlussbuch-Landespartietag-17.-Maerz-2013.pdf"
+    label: "LPT 2013 Beschlüsse"
+    veranstaltung: "Landesparteitag 2013"
+    year: 2013
+
+audit:
+  total_motions: 150
+  date_range: "2018-2024"

@@ -1,0 +1,50 @@
+---
+kuerzel: Antrag 77/I/2023
+titel: Antrag 77/I/2023 Queer Refugees Welcome! Für eine Reform der Geflüchtetenpolitik
+status_in_tabelle: Annahme mit Änderungen
+antragsteller: SPDqueer Berlin Landesvorstand
+ueberwiesen_an: Bundesparteitag 2023
+tagesordnungspunkt: Geflüchteten-/ Asylpolitik
+veranstaltung: I/2023 Landesparteitag 26.05.2023
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/queer-refugees-welcome-fuer-eine-reform-der-gefluechtetenpolitik/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/I_2023//Antrag_77I2023_Queer_Refugees_Welcome_Fuer_eine_Re-2.pdf
+publication_date: ''
+tags: []
+content_hash: 7a3252db0cd9
+---
+
+**AntragstellerInnen:** SPDqueer Berlin Landesvorstand
+
+**Adressat:** Der Landesparteitag möge beschließen:Der Bundesparteitag möge beschließen:
+
+## Antragstext
+
+Wir fordern eine grundlegende Reform der Geflüchtetenpolitik besonders mit Blick auf LSBTQIA*-Geflüchtete. Hierzu sollen die SPD-Abgeordneten von Bund und Land sich für eine Reform der notwendigen Gesetze einsetzen, die folgende Maßnahmen enthält:
+Queer Refugees Welcome! – Für eine Reform der Geflüchtetenpolitik
+Wir fordern eine grundlegende Reform der Geflüchtetenpolitik besonders mit Blick auf LSBTQIA*-Geflüchtete. Hierzu sollen die SPD-Abgeordneten von Bund und Land sich für eine Reform der notwendigen Gesetze einsetzen, die folgende Maßnahmen enthält:
+In § 3 Absatz 1 Nummer 1 des Asylgesetzes soll klarstellend ergänzt werden, dass als eine bestimmte soziale Gruppe auch eine Gruppe gelten kann, die sich allein auf das gemeinsame Merkmal der sexuellen Orientierung oder der geschlechtlichen Identität gründet, sodass Ausländer*innen, die aus begründeter Furcht vor Verfolgung wegen ihrer Zugehörigkeit zu dieser Gruppe ihr Herkunftsland verlassen, die Flüchtlingseigenschaft haben.
+Für alle Mitarbeitenden von Ämtern, Behörden und Aufnahmeeinrichtungen sollen Sensibilisierungsprogramme zum Umgang mit LSBTQIA*-Geflüchteten angeboten werden. Diese Sensibilisierungsprogramme sollen in Zusammenarbeit mit entsprechenden zivilgesellschaftlichen Organisationen eingerichtet werden.
+Bundesweit soll ein behördenunabhängiges Asylberatungssystem eingerichtet und ausgebaut werden. Die Beratungen sollen hierbei u.a. als Einzelgespräche zur Verfügung stehen. Darüber hinaus müssen die Beratungsangebote frühzeitig, niedrigschwellig und flächendeckend angeboten werden und vor behördlichen Anhörungen wahrnehmbar sein. Geflüchtete sollten bei dieser Beratung u.a. über ihre Rechte und mögliche Rechtsberatungsstellen informiert werden. Dabei muss gewährleistet werden, dass queere Menschen nicht vor Dritten ein Zwangsouting erleben müssen.
+In allen Aufnahmeeinrichtungen soll ein niedrigschwelliger Zugang zu rechtlicher, gesundheitlicher und psychologischer Betreuung für LSBTQIA*- Geflüchtete gewährleistet werden. In allen Aufnahmeeinrichtungen sind LSBTQIA*-inklusive Schutzkonzepte umzusetzen, damit auch für Gruppen mit erhöhtem Diskriminierungsrisiko – insbesondere LSBTQIA*- Geflüchtete – ein gewalt- und diskriminierungsfreies Zusammenleben gewährleistet ist. Bei einer Gefährdungslage oder Gewaltvorfällen müssen Schutzräume zur Verfügung stehen und eine zügige Verlegung in Einzelzimmer oder andere Unterkünfte ermöglicht werden. Zudem sollten weitere Aufnahmeeinrichtungen speziell für vulnerable Gruppen, darunter auch LSBTQIA*-Geflüchtete, geschaffen werden.
+Alle Kommunen sollen gesetzlich verpflichtet und finanziell unterstützt werden, geschützten Wohnraum für LSBTQIA*-Geflüchtete bereitzustellen. Ausreichende Mittel werden zentral zweckgebunden zur Verfügung gestellt. Hierbei soll Gruppen- und Einzelunterbringung gewährleistet sein. Diese Wohnungen werden entweder von Fachträger*innen der queeren Wohnhilfe oder der Queerarbeit verwaltet oder von explizit hierfür zu schulendem Fachpersonal kommunaler Trägerschaften. Eine Einrichtung zu Lasten expliziten Wohnens bspw. für junge Geflüchtete oder flüchtende Frauen* findet nicht statt.
+- § 3 Absatz 1 Nummer 1 des Asylgesetzes soll klarstellend um die “sexuelle Orientierung” und “Geschlechtsidentität” als Gründe der Flucht vor Verfolgung ergänzt werden. Mit der Aufnahme der sexuellen Orientierung und Geschlechtsidentität ins Asylgesetz wird die nationale Gesetzgebung an die Richtlinie 2011/95/EU angepasst, die diese Verfolgungsgründe bereits anerkennt.
+- Für alle Mitarbeitenden von Ämtern, Behörden und Aufnahmeeinrichtungen sollen Sensibilisierungsprogramme zum Umgang mit LSBTQIA*-Geflüchteten verpflichtend angeboten werden. Diese Sensibilisierungsprogramme sollen in Zusammenarbeit mit entsprechenden zivilgesellschaftlichen Organisationen eingerichtet werden.
+- Bundesweit soll ein behördenunabhängiges Asylberatungssystem eingerichtet werden. Die Beratungen sollen hierbei u.a. als Einzelgespräche zur Verfügung stehen. Darüber hinaus müssen die Beratungsangebote niedrigschwellig und flächendeckend angeboten werden und vor behördlichen Anhörungen wahrnehmbar sein. Die Einrichtung eines behördenunabhängigen Asylberatungssystems kommt der in Richtlinie 2013/33/EU festgeschriebenen Verpflichtung nach, Geflüchtete im Asylprozess über ihre Rechte und mögliche Rechtsberatungsstellen zu informieren. Dabei gewährleistet das Angebot von Einzelgesprächen, dass queere Menschen nicht vor Dritten ein Zwangsouting erleben müssen. Frühzeitige Beratungsangebote gewährleisten zudem, dass die Asylsuchenden rechtzeitig über die eigenen Rechte aufgeklärt werden.
+- Sogenannte Ankerzentren werden abgeschafft und durch dezentrale Unterbringungen ersetzt.
+- In allen Aufnahmeeinrichtungen muss Zugang zu rechtlicher, gesundheitlicher und psychologischer Betreuung für LSBTQIA*- Geflüchtete gewährleistet werden. Zudem müssen weitere Aufnahmeeinrichtungen speziell für LSBTQIA*-Geflüchtete geschaffen werden.
+- Alle Kommunen werden insbesondere verpflichtet, Wohnraum für LSBTQIA*-Geflüchtete bereitzustellen. Ausreichende Mittel werden zentral zweckgebunden zur Verfügung gestellt. Hierbei soll in jedem Fall jeweils Gruppen- und Einzelunterbringung grundsätzlich gewährleistet sein. Diese Wohnungen werden entweder von Fachträger*innen der queeren Wohnhilfe oder der Queerarbeit verwaltet oder von explizit hierfür zu schulendem Fachpersonal kommunaler Trägerschaften. Der Gesetzgeber legt Fristen zur Einrichtung und ihrer Kontrolle fest, sodass die Nichterfüllung dieser Aufgabe durch die Kommunen verhindert werden kann. Eine Einrichtung zu Lasten expliziten Wohnens bspw. für junge Geflüchtete oder flüchtende Frauen* findet nicht statt.
+- Abschiebungen dürfen nicht weiter durchgeführt werden. Abschiebungen sind ein inhumanes Mittel der Geflüchtetenpolitik, wodurch Menschen häufig in lebensbedrohliche Situationen gebracht werden. Da ein Verfolgungsgrund aufgrund der sexuellen Orientierung oder Geschlechtsidentität niemals ausgeschlossen werden kann, sind alle Abschiebungen abzulehnen.
+
+**Empfehlung der Antragskommission:** Annahme in der Fassung der AK(Konsens)
+
+## Beschluss
+
+Wir fordern eine grundlegende Reform der Geflüchtetenpolitik besonders mit Blick auf LSBTQIA*-Geflüchtete. Hierzu sollen die SPD-Abgeordneten von Bund und Land sich für eine Reform der notwendigen Gesetze einsetzen, die folgende Maßnahmen enthält:
+In § 3 Absatz 1 Nummer 1 des Asylgesetzes soll klarstellend ergänzt werden, dass als eine bestimmte soziale Gruppe auch eine Gruppe gelten kann, die sich allein auf das gemeinsame Merkmal der sexuellen Orientierung oder der geschlechtlichen Identität gründet, sodass Ausländer*innen, die aus begründeter Furcht vor Verfolgung wegen ihrer Zugehörigkeit zu dieser Gruppe ihr Herkunftsland verlassen, die Flüchtlingseigenschaft haben.
+Für alle Mitarbeitenden von Ämtern, Behörden und Aufnahmeeinrichtungen sollen Sensibilisierungsprogramme zum Umgang mit LSBTQIA*-Geflüchteten angeboten werden. Diese Sensibilisierungsprogramme sollen in Zusammenarbeit mit entsprechenden zivilgesellschaftlichen Organisationen eingerichtet werden.
+Bundesweit soll ein behördenunabhängiges Asylberatungssystem eingerichtet und ausgebaut werden. Die Beratungen sollen hierbei u.a. als Einzelgespräche zur Verfügung stehen. Darüber hinaus müssen die Beratungsangebote frühzeitig, niedrigschwellig und flächendeckend angeboten werden und vor behördlichen Anhörungen wahrnehmbar sein. Geflüchtete sollten bei dieser Beratung u.a. über ihre Rechte und mögliche Rechtsberatungsstellen informiert werden. Dabei muss gewährleistet werden, dass queere Menschen nicht vor Dritten ein Zwangsouting erleben müssen.
+In allen Aufnahmeeinrichtungen soll ein niedrigschwelliger Zugang zu rechtlicher, gesundheitlicher und psychologischer Betreuung für LSBTQIA*- Geflüchtete gewährleistet werden. In allen Aufnahmeeinrichtungen sind LSBTQIA*-inklusive Schutzkonzepte umzusetzen, damit auch für Gruppen mit erhöhtem Diskriminierungsrisiko – insbesondere LSBTQIA*- Geflüchtete – ein gewalt- und diskriminierungsfreies Zusammenleben gewährleistet ist. Bei einer Gefährdungslage oder Gewaltvorfällen müssen Schutzräume zur Verfügung stehen und eine zügige Verlegung in Einzelzimmer oder andere Unterkünfte ermöglicht werden. Zudem sollten weitere Aufnahmeeinrichtungen speziell für vulnerable Gruppen, darunter auch LSBTQIA*-Geflüchtete, geschaffen werden.
+Alle Kommunen sollen gesetzlich verpflichtet und finanziell unterstützt werden, geschützten Wohnraum für LSBTQIA*-Geflüchtete bereitzustellen. Ausreichende Mittel werden zentral zweckgebunden zur Verfügung gestellt. Hierbei soll Gruppen- und Einzelunterbringung gewährleistet sein. Diese Wohnungen werden entweder von Fachträger*innen der queeren Wohnhilfe oder der Queerarbeit verwaltet oder von explizit hierfür zu schulendem Fachpersonal kommunaler Trägerschaften. Eine Einrichtung zu Lasten expliziten Wohnens bspw. für junge Geflüchtete oder flüchtende Frauen* findet nicht statt.
+Wir bekräftigen Ankerzentren abzulehnen. Abschiebungen von Menschen, die aufgrund ihrer sexuellen Orientierung oder Geschlechtsidentität in ihren HEimatländern in lebensbedrohliche Situationen gebracht werden, haben zu unterbleiben.

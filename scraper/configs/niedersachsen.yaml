@@ -1,0 +1,24 @@
+state: niedersachsen
+display_name: "SPD Niedersachsen"
+portal_url: "https://www.spdnds.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "mit änderungen angenommen": "Annahme mit Änderungen"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+  "erledigt": "Erledigt"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://www.spdnds.de/wp-content/uploads/sites/77/2025/05/2025-05-16-Antragsbuch-Website-final.pdf"
+    label: "LPT 2025"
+    veranstaltung: "Landesparteitag 2025 Wolfenbüttel"
+    year: 2025
+
+audit:
+  total_motions: 600
+  date_range: "2020-2025"

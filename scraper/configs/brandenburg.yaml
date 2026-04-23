@@ -1,0 +1,30 @@
+state: brandenburg
+display_name: "SPD Brandenburg"
+portal_url: "https://www.parteitag-spd-brandenburg.de"
+technology: cvtx
+
+# Kuerzel: Brandenburg uses "100/II/2018", Berlin uses "Antrag 100/II/2018"
+kuerzel_format: "{number}/{session}/{year}"
+kuerzel_prefix: ""
+# To make Berlin-compatible: prepend "Antrag " + keep as-is
+
+status_map:
+  "annahme": "Annahme"
+  "annahme mit änderungen": "Annahme mit Änderungen"
+  "ablehnung": "Ablehnung"
+  "überweisung": "Überweisung"
+  "erledigt": "Erledigt"
+  "nicht abgestimmt": "Nicht abgestimmt"
+  "offen": "offen"
+  "zurückgezogen": "Zurückgezogen"
+
+scrape_delay: 1.0
+checkpoint_interval: 50
+
+# From audit: 1,723 motions, 20 events, 2015-2026, 100% schema compat
+audit:
+  total_motions: 1723
+  events: 20
+  date_range: "2015-2026"
+  schema_compat: 1.0
+  status_compat: 1.0

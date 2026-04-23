@@ -1,0 +1,77 @@
+# Political Intelligence System infrastructure
+# Run: doppler run --project andx_main --config prd -- docker compose up -d
+
+name: pis
+
+services:
+  neo4j:
+    image: neo4j:5-community
+    container_name: pis-neo4j
+    restart: unless-stopped
+    environment:
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD}
+      HEALTH_PASSWORD: ${NEO4J_PASSWORD}
+      NEO4J_PLUGINS: '["apoc"]'
+      NEO4J_server_memory_heap_initial__size: 512m
+      NEO4J_server_memory_heap_max__size: 1g
+      NEO4J_server_memory_pagecache_size: 512m
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+    ports:
+      - "127.0.0.1:7687:7687"
+      - "127.0.0.1:7474:7474"
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p $$HEALTH_PASSWORD 'RETURN 1'"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    mem_limit: 2g
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: pis-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: pis
+      POSTGRES_USER: pis
+      POSTGRES_PASSWORD: ${PIS_DB_PASSWORD}
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./init-db.sql:/docker-entrypoint-initdb.d/01-init.sql:ro
+    ports:
+      - "127.0.0.1:5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U pis -d pis"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  elasticsearch:
+    image: elasticsearch:8.15.0
+    container_name: pis-elasticsearch
+    restart: unless-stopped
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g
+    volumes:
+      - es_data:/usr/share/elasticsearch/data
+    ports:
+      - "127.0.0.1:9200:9200"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    mem_limit: 2g
+
+volumes:
+  neo4j_data:
+  neo4j_logs:
+  pg_data:
+  es_data:
+
+networks:
+  default:
+    name: pis-network

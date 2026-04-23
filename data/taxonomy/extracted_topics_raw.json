@@ -1,0 +1,2954 @@
+[
+  {
+    "kuerzel": "Antrag 80/I/2015",
+    "hauptthema": "Digitalisierung an Schulen",
+    "unterthemen": [
+      "Interaktive Whiteboards",
+      "Kostenloses WLAN",
+      "Medienkompetenz-Unterricht"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 54/II/2014",
+    "hauptthema": "Europäische Bürgerinitiative",
+    "unterthemen": [
+      "CETA",
+      "TTIP-Abkommen"
+    ],
+    "politisches_feld": "Europa & Handelspolitik"
+  },
+  {
+    "kuerzel": "Antrag 27/I/2022",
+    "hauptthema": "Kündigungsschutz für ehrenamtliche Richter",
+    "unterthemen": [
+      "Kündigungsschutzgesetz",
+      "Ehrenamtliche Tätigkeit"
+    ],
+    "politisches_feld": "Arbeit & Recht"
+  },
+  {
+    "kuerzel": "Antrag 172/II/2019",
+    "hauptthema": "Zuckersteuer",
+    "unterthemen": [
+      "Verarbeitete Lebensmittel",
+      "Lebensmittelindustrie"
+    ],
+    "politisches_feld": "Gesundheit & Ernährung"
+  },
+  {
+    "kuerzel": "Antrag 68/II/2014",
+    "hauptthema": "Anerkennung von Pflegepersonal mit Migrationshintergrund",
+    "unterthemen": [
+      "Antidiskriminierung",
+      "Kranken- und Pflegeeinrichtungen"
+    ],
+    "politisches_feld": "Gesundheit & Integration"
+  },
+  {
+    "kuerzel": "Antrag 167/I/2015",
+    "hauptthema": "Vertrauliche Spurensicherung",
+    "unterthemen": [
+      "Opferschutz"
+    ],
+    "politisches_feld": "Innere Sicherheit & Justiz"
+  },
+  {
+    "kuerzel": "Antrag 103/I/2025",
+    "hauptthema": "Landeseigene Liegenschaften für Verwaltung",
+    "unterthemen": [
+      "Vermeidung externer Anmietungen",
+      "Liegenschaftspolitik"
+    ],
+    "politisches_feld": "Bauen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 94/II/2021",
+    "hauptthema": "Digitalisierung von Behördengängen",
+    "unterthemen": [
+      "Online-Zugangsgesetz",
+      "E-Government"
+    ],
+    "politisches_feld": "Digitalisierung & Verwaltung"
+  },
+  {
+    "kuerzel": "Antrag 98/I/2025",
+    "hauptthema": "Leistbarkeitsversprechen landeseigener Wohnungsunternehmen",
+    "unterthemen": [
+      "Mietbelastung",
+      "Bruttokaltmiete"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 283/I/2025",
+    "hauptthema": "Erhalt öffentlicher Kultureinrichtungen",
+    "unterthemen": [
+      "Verhinderung von Privatisierung",
+      "Theater und Spielstätten",
+      "Kunstfreiheit"
+    ],
+    "politisches_feld": "Kultur"
+  },
+  {
+    "kuerzel": "Antrag 135/II/2019",
+    "hauptthema": "Wissenschafts- und Forschungspolitik",
+    "unterthemen": [
+      "Grundfinanzierung statt Drittmittelabhängigkeit",
+      "Demokratisierung von Wissenschaft",
+      "Entprekarisierung"
+    ],
+    "politisches_feld": "Bildung & Wissenschaft"
+  },
+  {
+    "kuerzel": "Antrag 23/I/2015",
+    "hauptthema": "Vivantes Tochtergesellschaften",
+    "unterthemen": [
+      "Auflösung Tochtergesellschaft",
+      "Tarifvertrag öffentlicher Dienst",
+      "Therapeutische Dienste"
+    ],
+    "politisches_feld": "Arbeit & Gesundheitswirtschaft"
+  },
+  {
+    "kuerzel": "Antrag 144/I/2020",
+    "hauptthema": "Konsequenzen aus Hanau",
+    "unterthemen": [
+      "Rechter Terror",
+      "Waffenrecht",
+      "Rassismus und Stigmatisierung"
+    ],
+    "politisches_feld": "Innere Sicherheit & Antidiskriminierung"
+  },
+  {
+    "kuerzel": "Antrag 141/I/2025",
+    "hauptthema": "Azubi-Vergütung",
+    "unterthemen": [
+      "Kopplung an Mindestlohn",
+      "Unabhängigkeit vom Elternverdienst",
+      "Leben über Armutsgrenze"
+    ],
+    "politisches_feld": "Bildung & Ausbildung"
+  },
+  {
+    "kuerzel": "Antrag 23/II/2024",
+    "hauptthema": "Deutsches Technikmuseum",
+    "unterthemen": [
+      "Auflösung T&M GmbH",
+      "Integration in Stiftung",
+      "Mitarbeiterübernahme"
+    ],
+    "politisches_feld": "Arbeit & Kultur"
+  },
+  {
+    "kuerzel": "Antrag Ini06/II/2017",
+    "hauptthema": "Reformationstag als Feiertag",
+    "unterthemen": [
+      "31. Oktober",
+      "Feiertagsgesetz"
+    ],
+    "politisches_feld": "Gesellschaftspolitik"
+  },
+  {
+    "kuerzel": "Antrag 143/II/2014",
+    "hauptthema": "Olympia-Bewerbung Berlin",
+    "unterthemen": [
+      "Nachhaltigkeit",
+      "Bürgerbeteiligung",
+      "Olympische Spiele 2028"
+    ],
+    "politisches_feld": "Sport & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 31/II/2018",
+    "hauptthema": "Verfügbares Einkommen",
+    "unterthemen": [
+      "Mietenbelastung",
+      "Umverteilung",
+      "Stärkung Binnenkonsum"
+    ],
+    "politisches_feld": "Einkommenspolitik & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 04/III/2016",
+    "hauptthema": "Krankenversicherungsbeiträge",
+    "unterthemen": [
+      "Kapitalleistungen",
+      "Doppelverbeitragung",
+      "SGB V"
+    ],
+    "politisches_feld": "Gesundheit & Sozialversicherung"
+  },
+  {
+    "kuerzel": "Antrag 129/I/2023",
+    "hauptthema": "Erdbeben Türkei/Syrien - Aufnahmeprogramm",
+    "unterthemen": [
+      "Familiennachzug",
+      "Verpflichtungserklärungen",
+      "Humanitäre Hilfe"
+    ],
+    "politisches_feld": "Migration & Katastrophenhilfe"
+  },
+  {
+    "kuerzel": "Antrag 75/II/2014",
+    "hauptthema": "Krankenhausfinanzierung",
+    "unterthemen": [
+      "Investitionsquote",
+      "Krankenhausplan",
+      "Bundesdurchschnitt"
+    ],
+    "politisches_feld": "Gesundheit"
+  },
+  {
+    "kuerzel": "Antrag 305/II/2022",
+    "hauptthema": "Einlagensicherung für Genossenschaften",
+    "unterthemen": [
+      "Wohnungsbaugenossenschaften",
+      "Mietpreisdämpfung",
+      "Einlagensicherungsgesetz"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 26/II/2025",
+    "hauptthema": "Berufsberatung für Jugendliche",
+    "unterthemen": [
+      "Entkopplung von Sozialleistungen",
+      "Chancengerechtigkeit",
+      "Freiwilliges Beratungsangebot"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "Antrag WV04/I/2018",
+    "hauptthema": "SPD-Gewerkschafts-Bindung",
+    "unterthemen": [
+      "Gewerkschaftsrat",
+      "Betriebs- und Personalrätekonferenz",
+      "Gute Arbeit"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "Antrag 65/II/2022",
+    "hauptthema": "Schulgeld an Freien Schulen",
+    "unterthemen": [
+      "Einkommensabhängige Beiträge",
+      "Sonderungsverbot",
+      "Bildungsgerechtigkeit"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 55/II/2017",
+    "hauptthema": "Professionelle Pflege",
+    "unterthemen": [
+      "Arbeitsbedingungen in der Pflege",
+      "Ausbildungsqualität",
+      "Bessere Bezahlung"
+    ],
+    "politisches_feld": "Gesundheit"
+  },
+  {
+    "kuerzel": "Antrag 160/I/2020",
+    "hauptthema": "Partizipationsgesetz",
+    "unterthemen": [
+      "Migrationsgeschichte",
+      "Diversity-Kompetenz",
+      "Quote im öffentlichen Dienst"
+    ],
+    "politisches_feld": "Integration & Antidiskriminierung"
+  },
+  {
+    "kuerzel": "Antrag 08/I/2020",
+    "hauptthema": "Antifaschistische Erinnerungskultur",
+    "unterthemen": [
+      "Gedenktage",
+      "Holocaust-Gedenken",
+      "27. Januar"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 77/II/2015",
+    "hauptthema": "Polizeiliche Datenspeicherung",
+    "unterthemen": [
+      "Automatische Auskunft",
+      "ASOG-Änderung",
+      "Datenschutz"
+    ],
+    "politisches_feld": "Innere Sicherheit"
+  },
+  {
+    "kuerzel": "Antrag 107/II/2025",
+    "hauptthema": "Sexualstrafrecht Reform",
+    "unterthemen": [
+      "Nur Ja heißt Ja",
+      "Sexuelle Selbstbestimmung",
+      "Zustimmungsprinzip"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 197/II/2024",
+    "hauptthema": "Windenergie in Berlin",
+    "unterthemen": [
+      "Flächenausweisung für Windkraftanlagen",
+      "Gewerbe- und Industriegebiete",
+      "Stromnetzanbindung"
+    ],
+    "politisches_feld": "Umwelt / Energie"
+  },
+  {
+    "kuerzel": "Antrag 02.1/II/2018",
+    "hauptthema": "Sicherheit in der wachsenden Stadt",
+    "unterthemen": [
+      "Soziale Polarisierung",
+      "Kriminalitätsprävention",
+      "Stadtentwicklung"
+    ],
+    "politisches_feld": "Innere Sicherheit"
+  },
+  {
+    "kuerzel": "Antrag 131/I/2014",
+    "hauptthema": "Deutschkurse für Migrant*innen",
+    "unterthemen": [
+      "Deutsch als Fremdsprache",
+      "Kostenlose Sprachkurse",
+      "Asylbewerber*innen"
+    ],
+    "politisches_feld": "Migration / Integration"
+  },
+  {
+    "kuerzel": "Antrag 65/I/2021",
+    "hauptthema": "Catcalling als Straftatbestand",
+    "unterthemen": [
+      "Sexuelle Belästigung im öffentlichen Raum",
+      "FLINT-Schutz",
+      "Geschlechtergerechtigkeit"
+    ],
+    "politisches_feld": "Gleichstellung / Teilhabe"
+  },
+  {
+    "kuerzel": "Antrag Ini03/II/2018",
+    "hauptthema": "Geschlechtergerechte Fachkräftezuwanderung",
+    "unterthemen": [
+      "Erwerbsmigration",
+      "Geschlechterdifferenzierte Statistiken"
+    ],
+    "politisches_feld": "Migration / Gleichstellung"
+  },
+  {
+    "kuerzel": "Antrag 34/II/2017",
+    "hauptthema": "Mieterschutz und Vorkaufsrecht",
+    "unterthemen": [
+      "Grunderwerbsteuer",
+      "Milieuschutzgebiete",
+      "Modernisierungsumlage"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 84/I/2024",
+    "hauptthema": "Gleichstellung dual Studierender",
+    "unterthemen": [
+      "Berufsbildungsgesetz",
+      "Arbeitsrechtlicher Schutz",
+      "Übernahmeschutz"
+    ],
+    "politisches_feld": "Bildung / Arbeitsrecht"
+  },
+  {
+    "kuerzel": "Antrag 54/I/2022",
+    "hauptthema": "Betreuungsschlüssel an Grundschulen",
+    "unterthemen": [
+      "Ergänzende Förderung und Betreuung",
+      "Personalausstattung"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 157/II/2014",
+    "hauptthema": "Konsensliste Abstimmung",
+    "unterthemen": [
+      "En-bloc-Abstimmung"
+    ],
+    "politisches_feld": "Parteiinternes Verfahren"
+  },
+  {
+    "kuerzel": "Antrag 77/II/2021",
+    "hauptthema": "Mutterschutz bei Fehlgeburten",
+    "unterthemen": [
+      "Schutzfristen",
+      "Rechtliche Gleichstellung",
+      "Psychologische Belastung"
+    ],
+    "politisches_feld": "Gesundheit / Gleichstellung"
+  },
+  {
+    "kuerzel": "Antrag 30/I/2015",
+    "hauptthema": "Betriebliche Mitbestimmung",
+    "unterthemen": [
+      "Betriebsräte",
+      "Leiharbeit",
+      "Befristungen"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "Antrag 199/II/2019",
+    "hauptthema": "Wahlrecht ab 14",
+    "unterthemen": [
+      "Jugendpartizipation",
+      "Demokratische Grundrechte",
+      "Generationengerechtigkeit"
+    ],
+    "politisches_feld": "Inneres & Demokratie"
+  },
+  {
+    "kuerzel": "Antrag 66/II/2015",
+    "hauptthema": "Medizinische Versorgung Sans Papiers",
+    "unterthemen": [
+      "Krankenscheine",
+      "Schweigepflicht",
+      "Übermittlungspflicht"
+    ],
+    "politisches_feld": "Flüchtlings- & Asylpolitik"
+  },
+  {
+    "kuerzel": "Antrag 174/I/2018",
+    "hauptthema": "Abgeordneten-Kostenpauschale",
+    "unterthemen": [
+      "Bürokosten",
+      "Transparenz",
+      "Landesabgeordnetengesetz"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 55/I/2021",
+    "hauptthema": "Schuldenkrise Globaler Süden",
+    "unterthemen": [
+      "Private Gläubiger",
+      "Schuldenmoratorium",
+      "UN-Entschuldungsmechanismus"
+    ],
+    "politisches_feld": "Internationale Politik & Entwicklung"
+  },
+  {
+    "kuerzel": "Antrag 316/I/2025",
+    "hauptthema": "Ringbahnbrücke A100",
+    "unterthemen": [
+      "Baumaßnahmen",
+      "S-Bahn-Betrieb",
+      "Verkehrsvermeidung"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 45/II/2025",
+    "hauptthema": "Infrastruktur Straße des 17. Juni",
+    "unterthemen": [
+      "Mobilfunkausbau",
+      "ÖPNV-Erreichbarkeit",
+      "Großveranstaltungen"
+    ],
+    "politisches_feld": "Stadtentwicklung & Infrastruktur"
+  },
+  {
+    "kuerzel": "Antrag 119/I/2025",
+    "hauptthema": "Tempelhofer Feld",
+    "unterthemen": [
+      "Naherholung",
+      "Private Veranstaltungen",
+      "Lautstärkeregelung"
+    ],
+    "politisches_feld": "Stadtentwicklung & Freiraum"
+  },
+  {
+    "kuerzel": "Antrag 55/I/2014",
+    "hauptthema": "Stadtentwicklungskonzept 2030",
+    "unterthemen": [
+      "Öffentliche Stadtplätze",
+      "Soziale Stadtentwicklung",
+      "Gender Mainstreaming"
+    ],
+    "politisches_feld": "Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 52/II/2024",
+    "hauptthema": "Zertifizierung externer Bildungsanbieter",
+    "unterthemen": [
+      "Antidiskriminierung",
+      "Lehrinhaltsprüfung",
+      "Bundeseinheitliche Standards"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 79/II/2018",
+    "hauptthema": "Barrierefreier Wohnraum",
+    "unterthemen": [
+      "Erfassung barrierefreier Wohnungen",
+      "Rollstuhlgerechte Wohnungen",
+      "Öffentliche Datenbank"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 232/I/2019",
+    "hauptthema": "Ostbahn-Ausbau",
+    "unterthemen": [
+      "Elektrifizierung",
+      "Zweigleisiger Ausbau",
+      "Regionalverkehr"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 93/II/2018",
+    "hauptthema": "Verbeamtung von Lehrkräften",
+    "unterthemen": [
+      "Wettbewerbsfähigkeit",
+      "Laufbahnrecht"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 97/I/2024",
+    "hauptthema": "Elterngeld für Mehrlinge",
+    "unterthemen": [
+      "Partnerinnenmonate",
+      "Kinderbetreuung"
+    ],
+    "politisches_feld": "Familie & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 74/II/2018",
+    "hauptthema": "Milieuschutz-Reform",
+    "unterthemen": [
+      "Vorkaufsrecht",
+      "Umwandlungsverbot",
+      "Share Deals"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 75/I/2018",
+    "hauptthema": "Anti-Mobbing an Schulen",
+    "unterthemen": [
+      "Lehrkräfte-Fortbildung",
+      "Beratungsangebot",
+      "Schulgesetz-Ergänzung"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 111/II/2021",
+    "hauptthema": "Verkehrsüberwachung",
+    "unterthemen": [
+      "Bußgelder",
+      "Ordnungsämter-Aufstockung",
+      "Rad- und Fußverkehr"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag WV11/II/2017",
+    "hauptthema": "Kandidatenaufstellung",
+    "unterthemen": [
+      "Transparenz",
+      "Mitgliederbefragung",
+      "Parteivorsitz"
+    ],
+    "politisches_feld": "Organisationspolitik"
+  },
+  {
+    "kuerzel": "Antrag 300/II/2019",
+    "hauptthema": "Mercosur-Abkommen",
+    "unterthemen": [
+      "Waldbrände Amazonas",
+      "Urwaldschutz",
+      "Nachhaltige Landwirtschaft"
+    ],
+    "politisches_feld": "Europa & Umwelt"
+  },
+  {
+    "kuerzel": "Antrag 27/II/2022",
+    "hauptthema": "Mindestlohn-Kontrolle",
+    "unterthemen": [
+      "Aufstockende Leistungen",
+      "Jobcenter-Arbeitsrechtsberatung",
+      "Arbeitsvertragsprüfung"
+    ],
+    "politisches_feld": "Arbeit & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 29/II/2024",
+    "hauptthema": "Bestellerprinzip bei Immobilienplattformen",
+    "unterthemen": [
+      "Maklerkosten",
+      "Immobilienscout24 Plus-Mitgliedschaft",
+      "Ungleichbehandlung Wohnungssuchender"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 111/I/2023",
+    "hauptthema": "Geschlechterparität in Außen- und Sicherheitspolitik",
+    "unterthemen": [
+      "FINTA-Förderung",
+      "Feministische Außenpolitik",
+      "Paritätische Personalbesetzung"
+    ],
+    "politisches_feld": "Gleichstellung & Teilhabe"
+  },
+  {
+    "kuerzel": "Antrag 01/II/2023",
+    "hauptthema": "Klimaneutrales Berlin",
+    "unterthemen": [
+      "Sozial gerechte Energiewende",
+      "Klimaschutz und soziale Gerechtigkeit",
+      "Klimaresiliente Stadt"
+    ],
+    "politisches_feld": "Klimaschutz & Umwelt"
+  },
+  {
+    "kuerzel": "Antrag /I/2018",
+    "hauptthema": "Kostenfreier ÖPNV für Kinder und Jugendliche",
+    "unterthemen": [
+      "Ticketfreiheit bis 16 Jahre",
+      "Öffentlicher Personenverkehr"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 150/I/2022",
+    "hauptthema": "Datenschutz und Datensparsamkeit",
+    "unterthemen": [
+      "Missbrauch von Corona-App-Daten",
+      "Polizeiliche Datennutzung",
+      "Palantir-Software"
+    ],
+    "politisches_feld": "Digitalisierung & Datenschutz"
+  },
+  {
+    "kuerzel": "Antrag 08/II/2024",
+    "hauptthema": "Frauenquote bei Bundestagswahl",
+    "unterthemen": [
+      "Landesliste Platz 1",
+      "Direktkandidatinnen in Wahlkreisen"
+    ],
+    "politisches_feld": "Gleichstellung & Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 227/II/2019",
+    "hauptthema": "Abschaffung von Ankerzentren",
+    "unterthemen": [
+      "Kinderrechte in Geflüchtetenunterkünften",
+      "Dezentrale Unterbringung",
+      "Bildungszugang für geflüchtete Kinder"
+    ],
+    "politisches_feld": "Migration & Integration"
+  },
+  {
+    "kuerzel": "Antrag 82/I/2022",
+    "hauptthema": "Aufarbeitung der Russland-Politik",
+    "unterthemen": [
+      "Energieabhängigkeit von Russland",
+      "Wissenschaftliche Untersuchungskommission",
+      "Beschwichtigungspolitik"
+    ],
+    "politisches_feld": "Außen- & Sicherheitspolitik"
+  },
+  {
+    "kuerzel": "Antrag 307/I/2025",
+    "hauptthema": "FEX-Anbindung über Gesundbrunnen",
+    "unterthemen": [
+      "Flughafen-Express zum BER",
+      "Anbindung Berliner Norden",
+      "ÖPNV-Optimierung"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 132/I/2019",
+    "hauptthema": "Freiwillige Rückkehr von Geflüchteten",
+    "unterthemen": [
+      "Stopp öffentlicher Werbekampagnen",
+      "Kritik an StarthilfePlus",
+      "Ausländerfeindliche Rhetorik"
+    ],
+    "politisches_feld": "Migration & Flüchtlingspolitik"
+  },
+  {
+    "kuerzel": "Antrag 62/I/2017",
+    "hauptthema": "EU-Flüchtlingspolitik",
+    "unterthemen": [
+      "Sichere Zugangswege",
+      "Hot-Spots Verbesserung",
+      "Familiennachzug"
+    ],
+    "politisches_feld": "Flüchtlings- & Asylpolitik"
+  },
+  {
+    "kuerzel": "Antrag 45/I/2025",
+    "hauptthema": "Muslimische Partizipation",
+    "unterthemen": [
+      "Arbeitskreis MSD",
+      "Politische Teilhabe",
+      "Innerparteiliche Organisation"
+    ],
+    "politisches_feld": "Integration & Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 24/II/2014",
+    "hauptthema": "Soziale Infrastruktur beim Wohnungsneubau",
+    "unterthemen": [
+      "Schulische Infrastruktur",
+      "Kulturelle Infrastruktur",
+      "Kiezbezogene Entwicklung"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 07/II/2021",
+    "hauptthema": "Verhaltensregeln für Mandatsträger",
+    "unterthemen": [
+      "Interessenkonflikte",
+      "Nebeneinkünfte-Transparenz",
+      "Korruptionsprävention"
+    ],
+    "politisches_feld": "Parteiorganisation & Ethik"
+  },
+  {
+    "kuerzel": "Antrag 65/II/2015",
+    "hauptthema": "Einwanderungsgesetz",
+    "unterthemen": [
+      "Bundesgesetzgebung"
+    ],
+    "politisches_feld": "Flüchtlings- & Asylpolitik"
+  },
+  {
+    "kuerzel": "Antrag 115/II/2014",
+    "hauptthema": "Nahost-Friedensprozess",
+    "unterthemen": [
+      "Israel-Palästina-Konflikt",
+      "Gaza-Krieg",
+      "Stärkung Autonomiebehörde"
+    ],
+    "politisches_feld": "Internationale Politik"
+  },
+  {
+    "kuerzel": "Antrag 286/I/2024",
+    "hauptthema": "Ganzjährige Obdachlosenhilfe",
+    "unterthemen": [
+      "Notschlafplätze",
+      "Barrierefreie Unterkünfte",
+      "Erweiterung Kältehilfe"
+    ],
+    "politisches_feld": "Soziales"
+  },
+  {
+    "kuerzel": "Antrag 52/III/2016",
+    "hauptthema": "Blaue Plakette",
+    "unterthemen": [
+      "Umweltzonen",
+      "Diesel-Emissionen",
+      "Luftreinhaltung"
+    ],
+    "politisches_feld": "Mobilität & Umwelt"
+  },
+  {
+    "kuerzel": "Antrag 103/I/2021",
+    "hauptthema": "Erdüberlastungstag",
+    "unterthemen": [
+      "Ressourcenschonung",
+      "Parteiaktionen",
+      "Nachhaltigkeitskampagne"
+    ],
+    "politisches_feld": "Umwelt & Klimaschutz"
+  },
+  {
+    "kuerzel": "Antrag 214/I/2020",
+    "hauptthema": "Altenhilfestrukturgesetz",
+    "unterthemen": [
+      "Seniorenpolitik",
+      "Einsamkeitsbekämpfung",
+      "Bundesratsinitiative"
+    ],
+    "politisches_feld": "Soziales & Pflege"
+  },
+  {
+    "kuerzel": "Antrag 264/II/2019",
+    "hauptthema": "Freiwilligenagenturen",
+    "unterthemen": [
+      "Förderung bürgerschaftliches Engagement",
+      "Verstetigung Finanzierung",
+      "FEIN-Programm"
+    ],
+    "politisches_feld": "Soziales & Zivilgesellschaft"
+  },
+  {
+    "kuerzel": "Antrag 115/II/2024",
+    "hauptthema": "Barrierefreiheit für gehörlose Menschen",
+    "unterthemen": [
+      "Deutsche Gebärdensprache",
+      "Politische Teilhabe",
+      "UN-Behindertenrechtskonvention"
+    ],
+    "politisches_feld": "Gleichstellung & Inklusion"
+  },
+  {
+    "kuerzel": "Antrag 249/I/2024",
+    "hauptthema": "Nachtzüge",
+    "unterthemen": [
+      "Klimafreundliche Mobilität",
+      "Kostensenkung Bahntickets",
+      "Alternative zum Flugverkehr"
+    ],
+    "politisches_feld": "Mobilität & Klimaschutz"
+  },
+  {
+    "kuerzel": "Antrag 75/I/2022",
+    "hauptthema": "Ukraine-Krieg",
+    "unterthemen": [
+      "Solidarität mit Ukraine",
+      "Humanitäre Hilfe",
+      "Friedenspolitik"
+    ],
+    "politisches_feld": "Außen- & Friedenspolitik"
+  },
+  {
+    "kuerzel": "Antrag 291/I/2025",
+    "hauptthema": "Mikromobilität",
+    "unterthemen": [
+      "E-Scooter Abstellflächen",
+      "Geofencing",
+      "Sondernutzungsgebühren"
+    ],
+    "politisches_feld": "Mobilität & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 81/II/2019",
+    "hauptthema": "Genossenschaftlicher Wohnungsbau",
+    "unterthemen": [
+      "Gemeinwohlorientiertes Wohnen",
+      "Bestandserwerb",
+      "Bündnis für bezahlbares Wohnen"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 145/I/2023",
+    "hauptthema": "Digitale Anzeigetafeln S-Bahnhof",
+    "unterthemen": [
+      "S-Bahnhof Julius-Leber-Brücke",
+      "Fahrgastinformation",
+      "Netzpläne"
+    ],
+    "politisches_feld": "Mobilität & Infrastruktur"
+  },
+  {
+    "kuerzel": "Antrag 86/II/2017",
+    "hauptthema": "eSport-Anerkennung",
+    "unterthemen": [
+      "Gemeinnützigkeit",
+      "Gleichstellung mit klassischem Sport",
+      "Vereinsgründungen"
+    ],
+    "politisches_feld": "Sport & Digitalisierung"
+  },
+  {
+    "kuerzel": "Antrag 258/II/2019",
+    "hauptthema": "Sharing-Mobilität im öffentlichen Raum",
+    "unterthemen": [
+      "E-Tretroller",
+      "Gehwegnutzung",
+      "Barrierefreiheit"
+    ],
+    "politisches_feld": "Mobilität & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 311/I/2020",
+    "hauptthema": "Zweckentfremdungsverbot",
+    "unterthemen": [
+      "Wohnraumschutz",
+      "Ferienwohnungen",
+      "Bußgeldregelung"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 195/II/2022",
+    "hauptthema": "Energiepreisdeckelung",
+    "unterthemen": [
+      "Grundbedarf Heizenergie",
+      "Progressive Preisgestaltung",
+      "Anreize zum Energiesparen"
+    ],
+    "politisches_feld": "Energie & Umwelt"
+  },
+  {
+    "kuerzel": "Antrag 225/I/2015",
+    "hauptthema": "Geschlechterparität",
+    "unterthemen": [
+      "Wahlrecht",
+      "Paritätische Kandidaturen",
+      "Berliner Verfassungsänderung"
+    ],
+    "politisches_feld": "Demokratie & Wahlen"
+  },
+  {
+    "kuerzel": "Antrag 65/I/2019",
+    "hauptthema": "Mietpreisdeckelung",
+    "unterthemen": [
+      "Öffentliche Mietpreisbindung",
+      "Bestandsmieten",
+      "Neumieten"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 199/II/2018",
+    "hauptthema": "Reform Bedarfsgemeinschaft",
+    "unterthemen": [
+      "SGB II",
+      "Jugendliche bis 25 Jahre",
+      "Kürzungen bei gemeinsamen Haushalten"
+    ],
+    "politisches_feld": "Soziales & Arbeit"
+  },
+  {
+    "kuerzel": "Antrag WV152/I/2018",
+    "hauptthema": "Alternative Sicherheitspolitik",
+    "unterthemen": [
+      "Soziale Integration",
+      "Kriminalprävention",
+      "Kritik an repressiven Maßnahmen"
+    ],
+    "politisches_feld": "Innere Sicherheit"
+  },
+  {
+    "kuerzel": "Antrag 127/I/2019",
+    "hauptthema": "ElterngeldPlus",
+    "unterthemen": [
+      "Erhöhung für geringe Einkommen",
+      "Armutsgefährdungsschwelle",
+      "Familienförderung"
+    ],
+    "politisches_feld": "Familie & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 147/II/2019",
+    "hauptthema": "Familienservicestellen",
+    "unterthemen": [
+      "Wohnortnahe Beratung",
+      "Zusammenführung von Behördenleistungen",
+      "Vereinfachte Antragstellung"
+    ],
+    "politisches_feld": "Familie & Verwaltung"
+  },
+  {
+    "kuerzel": "Antrag 09/II/2017",
+    "hauptthema": "Grundsatzprogramm",
+    "unterthemen": [
+      "Programmentwicklung",
+      "Parteimodernisierung"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 170/I/2025",
+    "hauptthema": "Zivile Friedenssicherung",
+    "unterthemen": [
+      "Entwicklungszusammenarbeit",
+      "Krisenprävention",
+      "Stärkung der UN"
+    ],
+    "politisches_feld": "Außen- & Friedenspolitik"
+  },
+  {
+    "kuerzel": "Antrag 36/II/2014",
+    "hauptthema": "Hausmeister in Wohnanlagen",
+    "unterthemen": [
+      "Städtische Wohnungsbaugesellschaften",
+      "Rückkehr eigener Hausmeister",
+      "Betreuung von Liegenschaften"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "06/I/2014",
+    "hauptthema": "Mitgliedervotum",
+    "unterthemen": [
+      "Verfahrensregeln",
+      "Organisationsstatut",
+      "Parteiinterne Demokratie"
+    ],
+    "politisches_feld": "Parteiorganisation & Satzung"
+  },
+  {
+    "kuerzel": "98/I/2020",
+    "hauptthema": "EZB-Politik",
+    "unterthemen": [
+      "Negativzinsen",
+      "Helikoptergeld",
+      "Sparkassen und Genossenschaftsbanken"
+    ],
+    "politisches_feld": "Finanz- & Wirtschaftspolitik"
+  },
+  {
+    "kuerzel": "08/II/2018",
+    "hauptthema": "Nachhaltige Parteitage",
+    "unterthemen": [
+      "Digitalisierung",
+      "Papiereinsparung",
+      "ÖPNV-Anbindung"
+    ],
+    "politisches_feld": "Parteiorganisation & Nachhaltigkeit"
+  },
+  {
+    "kuerzel": "01-ÄA/II/2018",
+    "hauptthema": "Statutenänderungen",
+    "unterthemen": [
+      "Kandidatenaufstellung",
+      "Quotenregelungen",
+      "Parteitagsverfahren"
+    ],
+    "politisches_feld": "Parteiorganisation & Satzung"
+  },
+  {
+    "kuerzel": "82/I/2017",
+    "hauptthema": "Inklusion in der Partei",
+    "unterthemen": [
+      "Menschen mit Behinderung",
+      "Barrierefreiheit",
+      "UN-Behindertenrechtskonvention"
+    ],
+    "politisches_feld": "Gleichstellung & Teilhabe"
+  },
+  {
+    "kuerzel": "19/II/2023",
+    "hauptthema": "Mindestlohn",
+    "unterthemen": [
+      "Erhöhung auf 15 Euro",
+      "Inflationsanpassung",
+      "Mindestlohnkommission-Reform"
+    ],
+    "politisches_feld": "Arbeit & Soziales"
+  },
+  {
+    "kuerzel": "104/I/2015",
+    "hauptthema": "Schulsanierung",
+    "unterthemen": [
+      "Sanierungsbedarf",
+      "Infrastrukturmodernisierung",
+      "Hochschulsanierung"
+    ],
+    "politisches_feld": "Bildung & Infrastruktur"
+  },
+  {
+    "kuerzel": "29/II/2014",
+    "hauptthema": "Sozialer Wohnungsbau",
+    "unterthemen": [
+      "Richtsatzmiete",
+      "Sozialbindung",
+      "Anschlussförderung"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "66/I/2016",
+    "hauptthema": "Rentenbezug für Hinterbliebene",
+    "unterthemen": [
+      "Rentenzahlung nach Tod",
+      "Hinterbliebenenversorgung"
+    ],
+    "politisches_feld": "Renten- & Sozialpolitik"
+  },
+  {
+    "kuerzel": "117/II/2023",
+    "hauptthema": "Bahnhofszugang Mahlsdorf",
+    "unterthemen": [
+      "Zweiter Bahnsteigzugang",
+      "ÖPNV-Anbindung",
+      "Verkehrsentlastung"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 177/I/2025",
+    "hauptthema": "Anerkennung 'Trostfrauen'",
+    "unterthemen": [
+      "Sexualisierte Gewalt in Konflikten",
+      "Erinnerungspolitik",
+      "Bundestagsresolution"
+    ],
+    "politisches_feld": "Internationales & Erinnerungskultur"
+  },
+  {
+    "kuerzel": "Antrag 103/I/2017",
+    "hauptthema": "Bundespräsidenten-Ehrensold",
+    "unterthemen": [
+      "Anrechnung privatwirtschaftlicher Einkommen",
+      "Ruhestandsbezüge"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 187/I/2019",
+    "hauptthema": "EU-Urheberrechtsreform",
+    "unterthemen": [
+      "Uploadfilter",
+      "Leistungsschutzrecht",
+      "Urheberinnenvergütung"
+    ],
+    "politisches_feld": "Digitalisierung & Netzpolitik"
+  },
+  {
+    "kuerzel": "Antrag 64/I/2017",
+    "hauptthema": "Dublin-Verordnung Reform",
+    "unterthemen": [
+      "Asylverfahren",
+      "Sichere Herkunftsstaaten",
+      "Solidarisches Aufnahmesystem"
+    ],
+    "politisches_feld": "Flüchtlings- & Asylpolitik"
+  },
+  {
+    "kuerzel": "Antrag 193/I/2015",
+    "hauptthema": "Zentraler Omnibusbahnhof",
+    "unterthemen": [
+      "Standortplanung",
+      "Wohnungsneubau",
+      "Verkehrsinfrastruktur"
+    ],
+    "politisches_feld": "Mobilität & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 60/I/2021",
+    "hauptthema": "Corona-Bekämpfungsstrategie",
+    "unterthemen": [
+      "Lockdown-Strategie",
+      "Inzidenzwerte",
+      "Lokale Ausbruchskontrolle"
+    ],
+    "politisches_feld": "Gesundheit & Pandemiebekämpfung"
+  },
+  {
+    "kuerzel": "Antrag 142/I/2022",
+    "hauptthema": "Online-Verifizierung",
+    "unterthemen": [
+      "Ausweisdokumente",
+      "Digitale Teilhabe",
+      "Aufenthaltstitel"
+    ],
+    "politisches_feld": "Migration & Digitalisierung"
+  },
+  {
+    "kuerzel": "Antrag 88/I/2023",
+    "hauptthema": "Fehlgeburten",
+    "unterthemen": [
+      "Arbeitsfreistellung",
+      "Hebammenbetreuung",
+      "Medizinische Ausbildung"
+    ],
+    "politisches_feld": "Gesundheit & Familienpolitik"
+  },
+  {
+    "kuerzel": "Antrag 159/I/2020",
+    "hauptthema": "Migrantenselbstorganisationen",
+    "unterthemen": [
+      "Ausländervereinsgesetz",
+      "Struktureller Rassismus",
+      "LKA-Verfahren"
+    ],
+    "politisches_feld": "Inneres & Antidiskriminierung"
+  },
+  {
+    "kuerzel": "Antrag Ini03/I/2014",
+    "hauptthema": "Bahnverbindung Berlin-Breslau",
+    "unterthemen": [
+      "EC Wawel",
+      "Grenzüberschreitender Verkehr",
+      "Deutsche Bahn"
+    ],
+    "politisches_feld": "Mobilität & Internationale Verkehrspolitik"
+  },
+  {
+    "kuerzel": "Antrag 178/I/2022",
+    "hauptthema": "Energiewende und EU-Taxonomie",
+    "unterthemen": [
+      "Ablehnung von Erdgas als Brückentechnologie",
+      "Ablehnung von Atomenergie",
+      "Ausbau Erneuerbarer Energien"
+    ],
+    "politisches_feld": "Umwelt & Energie"
+  },
+  {
+    "kuerzel": "Antrag 55/II/2018",
+    "hauptthema": "Startup-Finanzierung",
+    "unterthemen": [
+      "Datenerhebung zur Startup-Ökonomie",
+      "Startup-Portal Berlin",
+      "Finanzierungskette"
+    ],
+    "politisches_feld": "Wirtschaft & Digitalisierung"
+  },
+  {
+    "kuerzel": "Antrag 34/II/2024",
+    "hauptthema": "Koordinierte Stadtquartiersentwicklung",
+    "unterthemen": [
+      "Wohnungsneubau",
+      "Verkehrliche Erschließung",
+      "Behördenübergreifende Projektgruppen"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 242/I/2019",
+    "hauptthema": "Rentensicherung",
+    "unterthemen": [
+      "Rentenniveau über 50%",
+      "Gleichbehandlung verschiedener Versicherungssysteme",
+      "Strukturreform Altersversorgung"
+    ],
+    "politisches_feld": "Soziales & Rente"
+  },
+  {
+    "kuerzel": "Antrag 112/II/2018",
+    "hauptthema": "Fraueninfrastruktur",
+    "unterthemen": [
+      "Ausbau bezirklicher Angebote",
+      "Finanzielle Sicherung",
+      "Personelle Ressourcen"
+    ],
+    "politisches_feld": "Gleichstellung & Frauen"
+  },
+  {
+    "kuerzel": "Antrag 15/I/2024",
+    "hauptthema": "Kostenlose Menstruationsartikel",
+    "unterthemen": [
+      "Parteibüros",
+      "Bürgerbüros",
+      "Kurt-Schumacher-Haus"
+    ],
+    "politisches_feld": "Gleichstellung & Organisation"
+  },
+  {
+    "kuerzel": "Antrag 402/II/2019",
+    "hauptthema": "Ablehnung Lehrerverbeamtung",
+    "unterthemen": [
+      "Gleichstellung angestellter Lehrkräfte",
+      "Verbesserung Arbeitsbedingungen",
+      "Gesundheitsschutz"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 146/I/2023",
+    "hauptthema": "Ausbau Stadtbahn-Kapazität",
+    "unterthemen": [
+      "Digitalisierung Zugsystem ETCS",
+      "Erhöhung Beförderungskapazität",
+      "EU-Förderung"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 106/II/2024",
+    "hauptthema": "Zuckersteuer",
+    "unterthemen": [
+      "Gesundheitsfördernde Maßnahmen",
+      "Zweckgebundene Verwendung"
+    ],
+    "politisches_feld": "Gesundheit"
+  },
+  {
+    "kuerzel": "Antrag 14/I/2021",
+    "hauptthema": "Feministische Stadtplanung",
+    "unterthemen": [
+      "Gender Planning",
+      "Sicherheit im öffentlichen Raum",
+      "Flächennutzungsplan"
+    ],
+    "politisches_feld": "Stadtentwicklung & Gleichstellung"
+  },
+  {
+    "kuerzel": "230/II/2022",
+    "hauptthema": "Verfahrensfrage",
+    "unterthemen": [
+      "Konsensabstimmung",
+      "Antragskommission"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "216/I/2020",
+    "hauptthema": "Wohnungslosigkeit von Frauen",
+    "unterthemen": [
+      "Housing First",
+      "Frauenplätze in Unterkünften",
+      "Mietvorfinanzierung"
+    ],
+    "politisches_feld": "Soziales & Wohnen"
+  },
+  {
+    "kuerzel": "83/I/2020",
+    "hauptthema": "Jugendbeirat",
+    "unterthemen": [
+      "Jugendpartizipation",
+      "Demokratieförderung",
+      "Bezirks- und Landesebene"
+    ],
+    "politisches_feld": "Familie & Jugend"
+  },
+  {
+    "kuerzel": "26/I/2019",
+    "hauptthema": "Parteineuausrichtung",
+    "unterthemen": [
+      "Unabhängigkeit von Staat und Industrie",
+      "Strategieentwicklung",
+      "Kampf gegen Rechtsextremismus"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "117/II/2022",
+    "hauptthema": "Abgeltungssteuer",
+    "unterthemen": [
+      "Kapitalertragsbesteuerung",
+      "Steuergerechtigkeit",
+      "Gleichheitsgrundsatz"
+    ],
+    "politisches_feld": "Finanzen & Steuern"
+  },
+  {
+    "kuerzel": "41/I/2019",
+    "hauptthema": "Tariftreuepflicht",
+    "unterthemen": [
+      "Öffentliche Gebäude",
+      "Arbeitsbedingungen",
+      "Mietverträge"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "87/I/2015",
+    "hauptthema": "Weiterbildungsgesetz",
+    "unterthemen": [
+      "Lebenslanges Lernen",
+      "Fachkräftemangel",
+      "Recht auf Weiterbildung"
+    ],
+    "politisches_feld": "Bildung & Arbeit"
+  },
+  {
+    "kuerzel": "114/II/2025",
+    "hauptthema": "Jugendschutz Social Media",
+    "unterthemen": [
+      "Plattformregulierung",
+      "Medienkompetenz",
+      "Ablehnung Altersverifikation"
+    ],
+    "politisches_feld": "Digitalisierung & Jugendschutz"
+  },
+  {
+    "kuerzel": "11/I/2021",
+    "hauptthema": "Energieversorgung",
+    "unterthemen": [
+      "Stromsperre-Verbot",
+      "Energiewirtschaftsgesetz",
+      "Verbraucherschutz"
+    ],
+    "politisches_feld": "Energie & Verbraucherschutz"
+  },
+  {
+    "kuerzel": "221/II/2019",
+    "hauptthema": "Syrien-Wiederaufbau",
+    "unterthemen": [
+      "Wiederaufbauhilfe",
+      "Geflüchtete",
+      "Keine Unterstützung für Assad-Regime"
+    ],
+    "politisches_feld": "Internationales & Außenpolitik"
+  },
+  {
+    "kuerzel": "Antrag 89/I/2018",
+    "hauptthema": "Schülervertretung",
+    "unterthemen": [
+      "Gesamtschülervertretung",
+      "Mitbestimmungsrechte",
+      "Geschäftsordnung"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 96/II/2021",
+    "hauptthema": "Kostenlose Behördentelefonnummern",
+    "unterthemen": [
+      "Bürgertelefon 115",
+      "Corona-Maßnahmen",
+      "Soziale Gerechtigkeit"
+    ],
+    "politisches_feld": "Inneres & Verwaltung"
+  },
+  {
+    "kuerzel": "Antrag 185/II/2019",
+    "hauptthema": "Homöopathie",
+    "unterthemen": [
+      "Krankenkassenfinanzierung",
+      "Wissenschaftlichkeit",
+      "Gesundheitspolitik"
+    ],
+    "politisches_feld": "Gesundheit"
+  },
+  {
+    "kuerzel": "Antrag 86/I/2025",
+    "hauptthema": "Karstadt Wedding",
+    "unterthemen": [
+      "Leerstandsvermeidung",
+      "Bezahlbarer Wohnraum",
+      "Zwischennutzung"
+    ],
+    "politisches_feld": "Stadtentwicklung & Wirtschaft"
+  },
+  {
+    "kuerzel": "Antrag 246/I/2025",
+    "hauptthema": "Gefängnisreform",
+    "unterthemen": [
+      "Resozialisierung",
+      "Rückfallquote",
+      "Bildung im Strafvollzug"
+    ],
+    "politisches_feld": "Inneres & Justiz"
+  },
+  {
+    "kuerzel": "Antrag 49/I/2020",
+    "hauptthema": "Queere Ampelpärchen",
+    "unterthemen": [
+      "LGBTQ+ Sichtbarkeit",
+      "Stadtbild",
+      "Gleichberechtigung"
+    ],
+    "politisches_feld": "Stadtentwicklung & Antidiskriminierung"
+  },
+  {
+    "kuerzel": "Antrag 36/II/2025",
+    "hauptthema": "Gleisdreieckpark",
+    "unterthemen": [
+      "Urbane Mitte",
+      "Grünflächenschutz",
+      "Flächenentsiegelung"
+    ],
+    "politisches_feld": "Stadtentwicklung & Umwelt"
+  },
+  {
+    "kuerzel": "Antrag 101/I/2024",
+    "hauptthema": "UNRWA-Finanzierung",
+    "unterthemen": [
+      "Humanitäre Hilfe Gaza",
+      "Transparenz",
+      "Reformbedarf"
+    ],
+    "politisches_feld": "Internationale Politik & Entwicklungszusammenarbeit"
+  },
+  {
+    "kuerzel": "Antrag 78/II/2014",
+    "hauptthema": "Organspende",
+    "unterthemen": [
+      "Widerspruchslösung",
+      "Aufklärung",
+      "Spenderbereitschaft"
+    ],
+    "politisches_feld": "Gesundheit"
+  },
+  {
+    "kuerzel": "Antrag 12/II/2019",
+    "hauptthema": "Awareness-Strukturen",
+    "unterthemen": [
+      "Vertrauenspersonen",
+      "Diskriminierungsschutz",
+      "Innerparteiliche Kultur"
+    ],
+    "politisches_feld": "Parteiorganisation & Antidiskriminierung"
+  },
+  {
+    "kuerzel": "Antrag 95.1/II/2019",
+    "hauptthema": "Kita-Qualität",
+    "unterthemen": [
+      "Betreuungsschlüssel",
+      "Arbeitsbedingungen Erzieher*innen",
+      "Kita-Leitungen"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 14/I/2025",
+    "hauptthema": "Delegiertenberechnung",
+    "unterthemen": [
+      "Kreisdelegiertenversammlung",
+      "Organisationsstatut"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 223/II/2019",
+    "hauptthema": "Humane Migrationspolitik",
+    "unterthemen": [
+      "Abschiebehaft",
+      "Ausführungsvorschriften",
+      "Staatsbürgerschaftsrecht"
+    ],
+    "politisches_feld": "Integration & Migration"
+  },
+  {
+    "kuerzel": "Antrag 43/I/2023",
+    "hauptthema": "Kündigungsschutz für Mieter*innen",
+    "unterthemen": [
+      "Eigenbedarfskündigung",
+      "BGB § 573",
+      "Ersatzwohnung"
+    ],
+    "politisches_feld": "Wohnen & Mietrecht"
+  },
+  {
+    "kuerzel": "Antrag 341/I/2025",
+    "hauptthema": "Bezirksbürgermeister-Wahl",
+    "unterthemen": [
+      "Bezirksverwaltungsgesetz",
+      "Wahlverfahren Bezirksamt",
+      "Fachliche Qualifikation"
+    ],
+    "politisches_feld": "Verwaltungsreform & Kommunalpolitik"
+  },
+  {
+    "kuerzel": "Antrag 175/II/2018",
+    "hauptthema": "Integration Geflüchteter",
+    "unterthemen": [
+      "Gesellschaftliche Teilhabe",
+      "Integrationspolitik",
+      "Zivilgesellschaftliches Engagement"
+    ],
+    "politisches_feld": "Integration & Migration"
+  },
+  {
+    "kuerzel": "Antrag 73/III/2016",
+    "hauptthema": "Vermögenssteuer",
+    "unterthemen": [
+      "Wiedereinführung",
+      "Bundesverfassungsgericht"
+    ],
+    "politisches_feld": "Finanzen & Steuern"
+  },
+  {
+    "kuerzel": "Antrag 133/I/2015",
+    "hauptthema": "Erbschaftsteuerreform",
+    "unterthemen": [
+      "Betriebsvermögen",
+      "Verteilungsgerechtigkeit",
+      "Sozialstaatsprinzip"
+    ],
+    "politisches_feld": "Finanzen & Steuern"
+  },
+  {
+    "kuerzel": "Antrag WV16/II/2017",
+    "hauptthema": "Personelle Neuaufstellung SPD",
+    "unterthemen": [
+      "Führungspersonal",
+      "Verjüngung",
+      "Beteiligungsstrukturen"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 144/I/2024",
+    "hauptthema": "SOS-Notfalldose",
+    "unterthemen": [
+      "Notfallversorgung",
+      "Öffentlichkeitsarbeit",
+      "Rettungsdienste"
+    ],
+    "politisches_feld": "Gesundheit & Soziales"
+  },
+  {
+    "kuerzel": "Ini10/II/2018",
+    "hauptthema": "Urheberrecht",
+    "unterthemen": [
+      "Europaweite Regelung",
+      "Keine Inhaltsfilter",
+      "Ausgleich zwischen Kreativen und Nutzern"
+    ],
+    "politisches_feld": "Digitalisierung & Netzpolitik"
+  },
+  {
+    "kuerzel": "305/I/2023",
+    "hauptthema": "Fußgängerzone Friedrichstraße",
+    "unterthemen": [
+      "Erhalt der Fußgängerzone",
+      "Bürgerbeteiligung",
+      "Gesamtkonzept historische Mitte"
+    ],
+    "politisches_feld": "Verkehr & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "14/I/2020",
+    "hauptthema": "Praktikumsvergütung",
+    "unterthemen": [
+      "Mindestlohn für Praktika",
+      "Öffentlicher Sektor",
+      "Politische Institutionen"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "258/I/2019",
+    "hauptthema": "Wahlumfragen",
+    "unterthemen": [
+      "Veröffentlichungsbeschränkung",
+      "2-Monats-Frist vor Wahlen"
+    ],
+    "politisches_feld": "Wahlen & Demokratie"
+  },
+  {
+    "kuerzel": "183/I/2022",
+    "hauptthema": "EU-Taxonomie-Verordnung",
+    "unterthemen": [
+      "Erneuerbare Energien",
+      "Nachhaltigkeitskriterien",
+      "Ausschluss von Atomkraft"
+    ],
+    "politisches_feld": "Umwelt & Energie"
+  },
+  {
+    "kuerzel": "102/I/2023",
+    "hauptthema": "Cannabis-Legalisierung",
+    "unterthemen": [
+      "Europarecht anpassen",
+      "Evidenzbasierte Drogenpolitik",
+      "Prävention für Jugendliche"
+    ],
+    "politisches_feld": "Gesundheit & Drogenpolitik"
+  },
+  {
+    "kuerzel": "08/I/2017",
+    "hauptthema": "Prekäre Arbeit im öffentlichen Dienst",
+    "unterthemen": [
+      "Charité und Vivantes-Töchter",
+      "Tarifliche Bezahlung",
+      "Festanstellungen in Musikschulen und VHS"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "160/II/2022",
+    "hauptthema": "Abschiebungen",
+    "unterthemen": [
+      "Keine Nachtabschiebungen",
+      "Zeitfenster 21-06 Uhr",
+      "Einhaltung Bundesrecht"
+    ],
+    "politisches_feld": "Asyl & Migration"
+  },
+  {
+    "kuerzel": "243/I/2018",
+    "hauptthema": "Starkregenmanagement",
+    "unterthemen": [
+      "Überflutungsvorsorge",
+      "Klimawandelanpassung",
+      "Zuständigkeiten regeln"
+    ],
+    "politisches_feld": "Umwelt & Klimaschutz"
+  },
+  {
+    "kuerzel": "272/I/2024",
+    "hauptthema": "Kommunale Wärmeplanung",
+    "unterthemen": [
+      "Wärmewende",
+      "Technologiemix",
+      "Bezahlbare Wärmeversorgung"
+    ],
+    "politisches_feld": "Energie & Klimaschutz"
+  },
+  {
+    "kuerzel": "Antrag 129/II/2019",
+    "hauptthema": "Quereinsteiger im Schuldienst",
+    "unterthemen": [
+      "Lehrkräftemangel",
+      "Unterstützung und Mentoring",
+      "Soziale Brennpunkte"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 35/I/2014",
+    "hauptthema": "Gute Arbeit",
+    "unterthemen": [
+      "Berichtspflicht",
+      "Arbeitsstandards"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "Antrag 151/I/2015",
+    "hauptthema": "Pflegeschlüssel",
+    "unterthemen": [
+      "Bundeseinheitliche Regelung",
+      "Stationäre Pflegeeinrichtungen",
+      "Qualitätssicherung"
+    ],
+    "politisches_feld": "Gesundheit & Pflege"
+  },
+  {
+    "kuerzel": "Antrag 122/I/2015",
+    "hauptthema": "CETA-Freihandelsabkommen",
+    "unterthemen": [
+      "Sozial- und Nachhaltigkeitsstandards",
+      "Daseinsvorsorge",
+      "Investitionsschutz"
+    ],
+    "politisches_feld": "Europa & Außenhandel"
+  },
+  {
+    "kuerzel": "Antrag 107/I/2020",
+    "hauptthema": "Sterbehilfe",
+    "unterthemen": [
+      "Bundesverfassungsgerichtsurteil",
+      "Einzelfallprüfung",
+      "Selbstbestimmung"
+    ],
+    "politisches_feld": "Gesundheit & Ethik"
+  },
+  {
+    "kuerzel": "Antrag 63/I/2019",
+    "hauptthema": "Bezahlbare Mieten bei Landeseigenen",
+    "unterthemen": [
+      "Mietspiegeluntergrenzen",
+      "Verzicht auf Mietzuschläge",
+      "Barrierefreiheit"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 40/I/2022",
+    "hauptthema": "Energetische Gebäudesanierung",
+    "unterthemen": [
+      "Fördervolumen erhöhen",
+      "Klimaneutralität",
+      "Sozialverträglichkeit"
+    ],
+    "politisches_feld": "Energie & Klimaschutz"
+  },
+  {
+    "kuerzel": "Antrag 182/II/2018",
+    "hauptthema": "Verkehrssicherheit für Kinder",
+    "unterthemen": [
+      "Schulwegsicherung",
+      "Kinderfreundliche Verkehrsplanung",
+      "Geschwindigkeitsreduzierung"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 87/I/2021",
+    "hauptthema": "China-Strategie",
+    "unterthemen": [
+      "Menschenrechte",
+      "Technologische Souveränität",
+      "China-Expertise ausbauen"
+    ],
+    "politisches_feld": "Internationale Politik"
+  },
+  {
+    "kuerzel": "Antrag 35/III/2016",
+    "hauptthema": "Allgemeines Gleichbehandlungsgesetz",
+    "unterthemen": [
+      "Antidiskriminierung in Behörden",
+      "Diversität in Gremien",
+      "Interkulturelle Öffnung"
+    ],
+    "politisches_feld": "Gleichstellung & Teilhabe"
+  },
+  {
+    "kuerzel": "28.1/II/2018",
+    "hauptthema": "Einkommenspolitik",
+    "unterthemen": [
+      "Verfügbares Einkommen",
+      "Mietbelastung",
+      "Umverteilung"
+    ],
+    "politisches_feld": "Soziales & Wirtschaft"
+  },
+  {
+    "kuerzel": "222/II/2022",
+    "hauptthema": "LSBTI-Beauftragte",
+    "unterthemen": [
+      "Senatsverwaltungen",
+      "Bezirksämter",
+      "Interessensvertretung"
+    ],
+    "politisches_feld": "Gleichstellung & Teilhabe"
+  },
+  {
+    "kuerzel": "75/I/2021",
+    "hauptthema": "Polizei Social Media",
+    "unterthemen": [
+      "Öffentlichkeitsarbeit",
+      "Falschmeldungen",
+      "Gesetzliche Regelungen"
+    ],
+    "politisches_feld": "Innere Sicherheit & Recht"
+  },
+  {
+    "kuerzel": "25/I/2023",
+    "hauptthema": "Mietpreisbremse",
+    "unterthemen": [
+      "Möblierungszuschlag",
+      "Transparenzpflicht",
+      "Umgehung verhindern"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "96/I/2015",
+    "hauptthema": "Funktionsstellen Schule",
+    "unterthemen": [
+      "Vergütung",
+      "Zeitliche Entlastung",
+      "Transparente Vergabe"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "46/II/2018",
+    "hauptthema": "Mutterschutz bei Befristung",
+    "unterthemen": [
+      "Arbeitsvertrag",
+      "Gleichstellung",
+      "Verlängerung der Befristung"
+    ],
+    "politisches_feld": "Arbeit & Soziales"
+  },
+  {
+    "kuerzel": "303/II/2022",
+    "hauptthema": "Energetische Sanierung",
+    "unterthemen": [
+      "Heizkosten",
+      "Eigentümerbeteiligung",
+      "Gebäudeenergiegesetz"
+    ],
+    "politisches_feld": "Wohnen & Klimaschutz"
+  },
+  {
+    "kuerzel": "146/II/2019",
+    "hauptthema": "Kindergrundsicherung",
+    "unterthemen": [
+      "Kinderarmut",
+      "Soziokulturelle Teilhabe",
+      "Bündelung familienpolitischer Leistungen"
+    ],
+    "politisches_feld": "Familie & Soziales"
+  },
+  {
+    "kuerzel": "46/II/2015",
+    "hauptthema": "Roma-Programme EU",
+    "unterthemen": [
+      "EU-Mittel",
+      "Hilfsprogramme",
+      "Transparenz"
+    ],
+    "politisches_feld": "Europa & Integration"
+  },
+  {
+    "kuerzel": "100/II/2025",
+    "hauptthema": "Queere Stiftungen",
+    "unterthemen": [
+      "Finanzielle Ausstattung",
+      "Projektförderung",
+      "Unabhängigkeit"
+    ],
+    "politisches_feld": "Gleichstellung & Teilhabe"
+  },
+  {
+    "kuerzel": "Antrag 120/II/2019",
+    "hauptthema": "Schulessen und Arbeitsbedingungen",
+    "unterthemen": [
+      "Tariftreueverpflichtung",
+      "Vergabemindestlohn",
+      "Mitbestimmung"
+    ],
+    "politisches_feld": "Bildung & Arbeit"
+  },
+  {
+    "kuerzel": "Antrag 28/I/2022",
+    "hauptthema": "Anerkennung ausländischer Berufsabschlüsse",
+    "unterthemen": [
+      "Gebührenfreiheit",
+      "Fachkräftegewinnung"
+    ],
+    "politisches_feld": "Arbeit & Integration"
+  },
+  {
+    "kuerzel": "Antrag 145/I/2013",
+    "hauptthema": "Riester-Rente für Selbstständige",
+    "unterthemen": [
+      "Altersvorsorge",
+      "Förderung Selbstständiger",
+      "Rürup-Rente"
+    ],
+    "politisches_feld": "Soziales & Rente"
+  },
+  {
+    "kuerzel": "Antrag 245/I/2025",
+    "hauptthema": "Strafverfolgung sexualisierter Gewalt",
+    "unterthemen": [
+      "Vergewaltigungsvideos",
+      "Gesetzeslücken",
+      "Opferschutz"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 234/I/2025",
+    "hauptthema": "Vermögensabschöpfung im Jugendstrafrecht",
+    "unterthemen": [
+      "Erziehung statt Strafe",
+      "Resozialisierung",
+      "Verhältnismäßigkeit"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 22/I/2018",
+    "hauptthema": "Antidiskriminierungsdaten",
+    "unterthemen": [
+      "Onlinebefragung",
+      "Rassismus",
+      "Gleichstellung"
+    ],
+    "politisches_feld": "Organisationspolitik & Gleichstellung"
+  },
+  {
+    "kuerzel": "Antrag 154/II/2022",
+    "hauptthema": "Disability Mainstreaming",
+    "unterthemen": [
+      "Inklusion",
+      "Disability Budgeting",
+      "Teilhabe"
+    ],
+    "politisches_feld": "Inklusion & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 232/I/2024",
+    "hauptthema": "Reform öffentlich-rechtlicher Rundfunk",
+    "unterthemen": [
+      "Transparenz",
+      "Kooperation ARD/ZDF",
+      "Gehaltsstrukturen"
+    ],
+    "politisches_feld": "Kultur & Medien"
+  },
+  {
+    "kuerzel": "Antrag WV79/II/2017",
+    "hauptthema": "Diesel-Skandal",
+    "unterthemen": [
+      "Technische Nachrüstung",
+      "Autoindustrie-Haftung",
+      "Emissionen"
+    ],
+    "politisches_feld": "Umwelt & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 301/I/2020",
+    "hauptthema": "Corona-Pandemie Bewältigung",
+    "unterthemen": [
+      "Soforthilfen",
+      "Kurzarbeitergeld",
+      "Solidarität"
+    ],
+    "politisches_feld": "Gesundheit & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 61/II/2018",
+    "hauptthema": "Wohnungsnot und Mietpreissteigerung",
+    "unterthemen": [
+      "Kapitalverwertung auf Wohnungsmarkt",
+      "Verdrängung von Mieter*innen",
+      "Fehlen bezahlbarer Wohnungen"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 72/II/2015",
+    "hauptthema": "Blutspenderegelungen",
+    "unterthemen": [
+      "Diskriminierung homosexueller Männer",
+      "Sexuelle Identität",
+      "Ausschlusskriterien bei Blutspende"
+    ],
+    "politisches_feld": "Gesundheit & Gleichstellung"
+  },
+  {
+    "kuerzel": "Antrag B28/IV/2017",
+    "hauptthema": "Europa im Bundestagswahlkampf",
+    "unterthemen": [
+      "Rechtspopulismus bekämpfen",
+      "Soziales Europa",
+      "Europäische Integration"
+    ],
+    "politisches_feld": "Europa & Außenpolitik"
+  },
+  {
+    "kuerzel": "Antrag 01/I/2019",
+    "hauptthema": "Geschlechterquote im Parteivorstand",
+    "unterthemen": [
+      "40%-Quote",
+      "Stellvertreter*innen",
+      "Organisationsstatut"
+    ],
+    "politisches_feld": "Parteiorganisation & Gleichstellung"
+  },
+  {
+    "kuerzel": "Antrag 184/I/2024",
+    "hauptthema": "§129 StGB (Kriminelle Vereinigungen)",
+    "unterthemen": [
+      "Gesinnungsparagraph",
+      "Überwachungsmaßnahmen",
+      "Letzte Generation"
+    ],
+    "politisches_feld": "Innere Sicherheit & Rechtspolitik"
+  },
+  {
+    "kuerzel": "Antrag 82/II/2023",
+    "hauptthema": "Reform des Allgemeinen Gleichbehandlungsgesetzes",
+    "unterthemen": [
+      "Verbandsklagerecht",
+      "Rechtshilfefonds",
+      "Prozessstandschaft"
+    ],
+    "politisches_feld": "Gleichstellung & Antidiskriminierung"
+  },
+  {
+    "kuerzel": "Antrag 22/II/2024",
+    "hauptthema": "Pop-Up-Heizungen für Wärmeplanung",
+    "unterthemen": [
+      "Fernwärmenetz",
+      "Übergangslösungen",
+      "Kommunale Wärmeplanung"
+    ],
+    "politisches_feld": "Energie & Klimaschutz"
+  },
+  {
+    "kuerzel": "Antrag 142/II/2014",
+    "hauptthema": "Bürgerversicherung",
+    "unterthemen": [
+      "Krankenversicherung",
+      "Pflegeversicherung",
+      "Rentenversicherung"
+    ],
+    "politisches_feld": "Soziales & Gesundheit"
+  },
+  {
+    "kuerzel": "Antrag 09/I/2025",
+    "hauptthema": "Landesparteitag beratende Stimmen",
+    "unterthemen": [
+      "Statutenänderung",
+      "Teilnahmeberechtigte",
+      "Arbeitsgemeinschaften"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 209/II/2022",
+    "hauptthema": "Wildtierkompetenzzentrum",
+    "unterthemen": [
+      "Wildtiere im urbanen Raum",
+      "Bildungsstätte",
+      "Wildtierstrategie"
+    ],
+    "politisches_feld": "Umwelt & Tierschutz"
+  },
+  {
+    "kuerzel": "Antrag 164/II/2024",
+    "hauptthema": "Stiftungen des öffentlichen Rechts",
+    "unterthemen": [
+      "Arbeitnehmerschutz",
+      "Mitbestimmung in Stiftungsräten",
+      "Verbot von Tochterfirmen"
+    ],
+    "politisches_feld": "Kultur & Arbeitsrecht"
+  },
+  {
+    "kuerzel": "Antrag 15/II/2015",
+    "hauptthema": "Bekämpfung krimineller Entmietungsstrategien",
+    "unterthemen": [
+      "Wohnungsaufsicht",
+      "Mieterschutz",
+      "Zwangsversteigerung"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 85/II/2023",
+    "hauptthema": "Geschlechtergerechte Sprache",
+    "unterthemen": [
+      "Verwaltungskommunikation",
+      "Inklusion nicht-binärer Personen",
+      "Geschäftsordnung"
+    ],
+    "politisches_feld": "Gleichstellung & Teilhabe"
+  },
+  {
+    "kuerzel": "Antrag 02/I/2014",
+    "hauptthema": "Reform der Antragskommission",
+    "unterthemen": [
+      "Zusammensetzung Antragskommission",
+      "Abstimmungsverfahren",
+      "Organisationsstatut"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 24/II/2019",
+    "hauptthema": "Trennung von Parteifunktion und Mandat",
+    "unterthemen": [
+      "Ämtertrennung",
+      "Selbstverpflichtung",
+      "Parteigremien"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 89/I/2015",
+    "hauptthema": "Lernförderung im Bildungs- und Teilhabepaket",
+    "unterthemen": [
+      "Entbürokratisierung",
+      "Sozial benachteiligte Schüler",
+      "Berlin-Pass BuT"
+    ],
+    "politisches_feld": "Bildung & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 48/I/2024",
+    "hauptthema": "Photovoltaik in Wohnungseigentümergemeinschaften",
+    "unterthemen": [
+      "WEG-Reform",
+      "Solarenergie auf Gemeinschaftsdächern",
+      "Blockade durch Miteigentümer"
+    ],
+    "politisches_feld": "Energie & Klimaschutz"
+  },
+  {
+    "kuerzel": "Antrag 223/I/2020",
+    "hauptthema": "Ladeinfrastruktur für Elektroautos",
+    "unterthemen": [
+      "Standortwahl Ladesäulen",
+      "Schnellladepunkte",
+      "Stadtentwicklung und öffentlicher Raum"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 02/I/2023",
+    "hauptthema": "Geschäftsordnung Parteitag",
+    "unterthemen": [
+      "Schluss der Debatte",
+      "Geschlechterquote bei Redelisten",
+      "Versammlungsregeln"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 68/I/2024",
+    "hauptthema": "Europaschulen",
+    "unterthemen": [
+      "Deutsch-französische Schulen",
+      "Deutsch-polnische Schulen",
+      "Fremdsprachenangebot"
+    ],
+    "politisches_feld": "Bildung & Internationale Beziehungen"
+  },
+  {
+    "kuerzel": "Antrag 205/II/2018",
+    "hauptthema": "Finanzierung der gesetzlichen Rente",
+    "unterthemen": [
+      "Versicherungsfremde Leistungen",
+      "Steuerfinanzierung",
+      "Lebensstandardsicherung"
+    ],
+    "politisches_feld": "Soziales & Rente"
+  },
+  {
+    "kuerzel": "Antrag 20/I/2017",
+    "hauptthema": "Industriekultur",
+    "unterthemen": [
+      "Wirtschaftsentwicklung",
+      "Tourismus",
+      "Nachnutzung von Industrieflächen"
+    ],
+    "politisches_feld": "Wirtschaft & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 121/I/2022",
+    "hauptthema": "Rechtliche Betreuung und Vorsorgevollmacht",
+    "unterthemen": [
+      "Betreuungsvereine",
+      "Selbstbestimmung",
+      "Aufklärungskampagne"
+    ],
+    "politisches_feld": "Soziales & Recht"
+  },
+  {
+    "kuerzel": "Antrag 205/I/2019",
+    "hauptthema": "Reisedokumente für subsidiär Schutzberechtigte",
+    "unterthemen": [
+      "Reiseausweis für Ausländer",
+      "Herkunftslandkontakt",
+      "Aufenthaltsverordnung"
+    ],
+    "politisches_feld": "Flüchtlings- & Asylpolitik"
+  },
+  {
+    "kuerzel": "Antrag 83/II/2019",
+    "hauptthema": "Mieterschutz",
+    "unterthemen": [
+      "Mietspiegelreform",
+      "Modernisierungsumlage",
+      "Mieterhöhungsstopp"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 340/I/2025",
+    "hauptthema": "Sportbootführerschein",
+    "unterthemen": [
+      "PS-Grenze",
+      "Fahrerlaubnis",
+      "Bundeswasserstraßen"
+    ],
+    "politisches_feld": "Sport & Umwelt"
+  },
+  {
+    "kuerzel": "Antrag 180/I/2014",
+    "hauptthema": "Altglassammlung",
+    "unterthemen": [
+      "Holsystem",
+      "Duale Systeme",
+      "Ressourcenschutz"
+    ],
+    "politisches_feld": "Umwelt & Verbraucherschutz"
+  },
+  {
+    "kuerzel": "Antrag 50/I/2017",
+    "hauptthema": "Vielfalt und Antidiskriminierung in Schulbüchern",
+    "unterthemen": [
+      "Schulgesetz",
+      "Unterrichtsmedien",
+      "Akzeptanzförderung"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 17/I/2024",
+    "hauptthema": "Organisationsstruktur SPDqueer",
+    "unterthemen": [
+      "Sprecherinnenrat",
+      "Richtlinienänderung",
+      "Vorstandsstruktur"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 81/I/2017",
+    "hauptthema": "HIV-Prävention und PrEP",
+    "unterthemen": [
+      "Fast-Track Cities Initiative",
+      "Kostenübernahme",
+      "Stigmatisierungsabbau"
+    ],
+    "politisches_feld": "Gesundheit"
+  },
+  {
+    "kuerzel": "02/I/2015",
+    "hauptthema": "Strategien gegen Rechtsextremismus",
+    "unterthemen": [
+      "Demokratieförderung",
+      "Menschenrechte",
+      "Bekämpfung von Rassismus und Diskriminierung"
+    ],
+    "politisches_feld": "Innere Sicherheit & Demokratieförderung"
+  },
+  {
+    "kuerzel": "158/II/2024",
+    "hauptthema": "Vorratsdatenspeicherung",
+    "unterthemen": [
+      "Datenschutz",
+      "Quick Freeze",
+      "Digitale Grundrechte"
+    ],
+    "politisches_feld": "Digitalisierung & Datenschutz"
+  },
+  {
+    "kuerzel": "03/I/2020",
+    "hauptthema": "Stimmrecht für Arbeitsgemeinschaften",
+    "unterthemen": [
+      "Antragskommission",
+      "Parteistruktur"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "80/II/2015",
+    "hauptthema": "Neutralitätsgesetz",
+    "unterthemen": [
+      "Religiöse Symbole",
+      "Staatliche Neutralität",
+      "Lehrkräfte"
+    ],
+    "politisches_feld": "Innere Sicherheit & Recht"
+  },
+  {
+    "kuerzel": "58/I/2019",
+    "hauptthema": "Mietpreispolitik",
+    "unterthemen": [
+      "Mietenmoratorium",
+      "Mietpreisdeckel",
+      "Neubau von bezahlbarem Wohnraum"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "167/I/2025",
+    "hauptthema": "Europäische Verteidigungspolitik",
+    "unterthemen": [
+      "NATO-Neuausrichtung",
+      "Strategische Autonomie",
+      "Vereinte Streitkräfte"
+    ],
+    "politisches_feld": "Außen- & Sicherheitspolitik"
+  },
+  {
+    "kuerzel": "65/I/2022",
+    "hauptthema": "Hochschulfinanzierung",
+    "unterthemen": [
+      "Hochschulverträge",
+      "Wissenschaftsentwicklung",
+      "Gute Arbeit an Hochschulen"
+    ],
+    "politisches_feld": "Bildung & Wissenschaft"
+  },
+  {
+    "kuerzel": "252/I/2019",
+    "hauptthema": "Gleichgeschlechtliche Ehe",
+    "unterthemen": [
+      "EU-weite Anerkennung",
+      "LGBTQ-Rechte"
+    ],
+    "politisches_feld": "Gleichstellung & Teilhabe"
+  },
+  {
+    "kuerzel": "62/I/2015",
+    "hauptthema": "Bürgerämter",
+    "unterthemen": [
+      "Personalausstattung",
+      "Terminvergabe",
+      "Bürgerservice"
+    ],
+    "politisches_feld": "Verwaltung & Öffentlicher Dienst"
+  },
+  {
+    "kuerzel": "45/II/2023",
+    "hauptthema": "Unterhaltsvollstreckung",
+    "unterthemen": [
+      "Kindesunterhalt",
+      "Zentralstelle",
+      "Unterhaltsverweigerer"
+    ],
+    "politisches_feld": "Familie & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 148/II/2018",
+    "hauptthema": "Cannabislegalisierung",
+    "unterthemen": [
+      "Entkriminalisierung von Konsumenten",
+      "Regulierte Abgabe",
+      "Gesundheitsschutz"
+    ],
+    "politisches_feld": "Gesundheit & Drogenpolitik"
+  },
+  {
+    "kuerzel": "Antrag 210/I/2018",
+    "hauptthema": "ÖPNV-Tarifgebiete",
+    "unterthemen": [
+      "Flughafen Schönefeld",
+      "Tarifbereich B",
+      "BER"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 32/I/2023",
+    "hauptthema": "Geruchsimmissionen",
+    "unterthemen": [
+      "Gewerbegebiet Flottenstraße",
+      "Abfallwirtschaft",
+      "Betriebsumsiedlung"
+    ],
+    "politisches_feld": "Umwelt & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 51/I/2022",
+    "hauptthema": "Anerkennung ukrainischer Bildungsabschlüsse",
+    "unterthemen": [
+      "Hochschulzugang",
+      "Studienkolleg",
+      "Geflüchtete"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 86/I/2022",
+    "hauptthema": "Freilassung Julian Assange",
+    "unterthemen": [
+      "Wikileaks",
+      "Auslieferungshaft",
+      "Pressefreiheit"
+    ],
+    "politisches_feld": "Internationales & Menschenrechte"
+  },
+  {
+    "kuerzel": "Antrag 37/II/2015",
+    "hauptthema": "Kita-Zugang für Geflüchtete",
+    "unterthemen": [
+      "Kindertagesstätten",
+      "Betreuungsrecht",
+      "Integration"
+    ],
+    "politisches_feld": "Bildung & Flüchtlingspolitik"
+  },
+  {
+    "kuerzel": "Antrag 256/I/2024",
+    "hauptthema": "ÖPNV Berlin-Brandenburg",
+    "unterthemen": [
+      "Länderübergreifender Verkehr",
+      "Bahnausbau",
+      "Park and Ride"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 93/I/2025",
+    "hauptthema": "Mietervertretung in Aufsichtsräten",
+    "unterthemen": [
+      "Wohnungsbaugesellschaften",
+      "Mitbestimmung",
+      "Vergütung"
+    ],
+    "politisches_feld": "Wohnen & Mieterrechte"
+  },
+  {
+    "kuerzel": "Antrag 70/I/2024",
+    "hauptthema": "Produktives Lernen",
+    "unterthemen": [
+      "Schulabbrecher",
+      "Praktikumsorientierung",
+      "Abschlussperspektiven"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "Antrag 42/I/2022",
+    "hauptthema": "Abriss-Stopp von Gebäuden",
+    "unterthemen": [
+      "Klimaschutz",
+      "Sanierung statt Neubau",
+      "CO2-Reduktion"
+    ],
+    "politisches_feld": "Wohnen & Klimaschutz"
+  },
+  {
+    "kuerzel": "Antrag 149/II/2014",
+    "hauptthema": "Abschaffung der Sommerzeit",
+    "unterthemen": [
+      "Einheitliche Normalzeit",
+      "Energieeinsparung",
+      "Gesundheitliche Auswirkungen"
+    ],
+    "politisches_feld": "Verbraucherschutz & Zeitpolitik"
+  },
+  {
+    "kuerzel": "Antrag 23/I/2016",
+    "hauptthema": "Bebauungsplanung Ostkreuz",
+    "unterthemen": [
+      "Wohnungsbau",
+      "Gemeinbedarfsflächen",
+      "Verkehrsstudie"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 137/I/2018",
+    "hauptthema": "Krankenversicherung für Beamte",
+    "unterthemen": [
+      "Wahlfreiheit GKV/PKV",
+      "Beihilfepauschale",
+      "Gleichstellung GKV-Versicherter"
+    ],
+    "politisches_feld": "Gesundheit & Beamtenrecht"
+  },
+  {
+    "kuerzel": "Antrag 94/I/2024",
+    "hauptthema": "Unterhaltseintreibung",
+    "unterthemen": [
+      "Häusliche Gewalt",
+      "Unterhaltsvorschuss",
+      "Zentralstelle"
+    ],
+    "politisches_feld": "Familie & Justiz"
+  },
+  {
+    "kuerzel": "Antrag 64/II/2023",
+    "hauptthema": "Rückführungsgesetz ablehnen",
+    "unterthemen": [
+      "Grundrechtsschutz",
+      "Ausweisungshaft",
+      "Clan-Begriff"
+    ],
+    "politisches_feld": "Geflüchteten- & Asylpolitik"
+  },
+  {
+    "kuerzel": "Antrag 214/I/2025",
+    "hauptthema": "Jugendpsychiatrische Versorgung",
+    "unterthemen": [
+      "Behandlungsplätze ausbauen",
+      "Platzvermittlung",
+      "Krankenhausplan"
+    ],
+    "politisches_feld": "Gesundheit & Jugend"
+  },
+  {
+    "kuerzel": "Antrag 35/II/2022",
+    "hauptthema": "Steuerfreier Mindestlohn",
+    "unterthemen": [
+      "Einkommensteuertarif",
+      "Entlastung Geringverdiener"
+    ],
+    "politisches_feld": "Arbeit & Steuerpolitik"
+  },
+  {
+    "kuerzel": "Antrag 54/I/2020",
+    "hauptthema": "Großflächenwerbung regulieren",
+    "unterthemen": [
+      "Gesundheitsschutz",
+      "Lichtverschmutzung",
+      "Genehmigungsverfahren"
+    ],
+    "politisches_feld": "Wohnen & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 113/I/2015",
+    "hauptthema": "TTIP ablehnen",
+    "unterthemen": [
+      "Soziale Standards",
+      "Transparenz",
+      "Demokratisches Verfahren"
+    ],
+    "politisches_feld": "Europa & Handelspolitik"
+  },
+  {
+    "kuerzel": "Antrag 109/II/2021",
+    "hauptthema": "S-Bahnhof Westend Südausgang",
+    "unterthemen": [
+      "Zweiter Ausgang",
+      "Sicherheit",
+      "Erreichbarkeit"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 01.1/I/2021",
+    "hauptthema": "Wahlprogramm",
+    "unterthemen": [
+      "Leitantrag"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 193/I/2024",
+    "hauptthema": "Schutz des Bundesverfassungsgerichts",
+    "unterthemen": [
+      "Verfassungsrang für BVerfG-Arbeitsgrundlagen",
+      "Richterwahl",
+      "Demokratiesicherung"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 222/I/2018",
+    "hauptthema": "Leitplanken auf Autobahnen",
+    "unterthemen": [
+      "Stahl statt Beton",
+      "Verkehrssicherheit"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 16/I/2016",
+    "hauptthema": "Entgeltfortzahlung",
+    "unterthemen": [
+      "Überstunden-Berücksichtigung",
+      "Arbeitnehmerschutz",
+      "Variables Arbeitsentgelt"
+    ],
+    "politisches_feld": "Arbeit & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 08/II/2014",
+    "hauptthema": "Migrantische Unternehmer",
+    "unterthemen": [
+      "Gründungsberatung",
+      "Wirtschaftsförderung",
+      "Anerkennung"
+    ],
+    "politisches_feld": "Wirtschaft & Integration"
+  },
+  {
+    "kuerzel": "Antrag 54/I/2016",
+    "hauptthema": "Ehe für alle",
+    "unterthemen": [
+      "Gleichgeschlechtliche Ehe",
+      "Volladoptionsrecht"
+    ],
+    "politisches_feld": "Gleichstellung & Teilhabe"
+  },
+  {
+    "kuerzel": "Antrag 163/II/2018",
+    "hauptthema": "Regulierung marktbeherrschender Plattformen",
+    "unterthemen": [
+      "Kartellrecht",
+      "Interoperabilität",
+      "Datenzugang"
+    ],
+    "politisches_feld": "Digitalisierung & Wettbewerb"
+  },
+  {
+    "kuerzel": "Antrag 97/I/2022",
+    "hauptthema": "Asylantragstellung in EU-Auslandsvertretungen",
+    "unterthemen": [
+      "Legale Fluchtwege",
+      "Bekämpfung von Schleuserkriminalität",
+      "Humanitäre Asylpolitik"
+    ],
+    "politisches_feld": "Geflüchteten- & Asylpolitik"
+  },
+  {
+    "kuerzel": "Antrag 51/I/2015",
+    "hauptthema": "Standort Zentral- und Landesbibliothek",
+    "unterthemen": [
+      "ICC-Alternative",
+      "Neubau"
+    ],
+    "politisches_feld": "Kultur & Bildung"
+  },
+  {
+    "kuerzel": "Antrag 100/II/2024",
+    "hauptthema": "Krankenhausvergütung",
+    "unterthemen": [
+      "Abschaffung Fallpauschalen",
+      "Bedarfsorientierte Finanzierung"
+    ],
+    "politisches_feld": "Gesundheit"
+  },
+  {
+    "kuerzel": "Antrag 152/II/2018",
+    "hauptthema": "Internationaler Frauentag als Feiertag",
+    "unterthemen": [
+      "Gesetzlicher Feiertag",
+      "Frauenrechte"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 82/III/2016",
+    "hauptthema": "Trennung von Senatorenamt und Abgeordnetenmandat",
+    "unterthemen": [
+      "Verfassungsänderung",
+      "Inkompatibilität",
+      "Gewaltenteilung"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 20/II/2024",
+    "hauptthema": "Finanzierung von Berufssprachkursen",
+    "unterthemen": [
+      "Integration",
+      "Jobturbo",
+      "BAMF"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "Antrag 307/II/2023",
+    "hauptthema": "Strukturreform Landesamt für Einwanderung",
+    "unterthemen": [
+      "Bearbeitungsstau",
+      "Fachkräfteeinwanderung",
+      "Behördenmodernisierung"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 104/II/2014",
+    "hauptthema": "Gleichbehandlung von Ausländern und Flüchtlingen",
+    "unterthemen": [
+      "Rechtsgleichheit",
+      "Ausländerrecht"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "Antrag 17/II/2018",
+    "hauptthema": "Beirat Digitalisierung und Arbeitsgesellschaft",
+    "unterthemen": [
+      "Gute Arbeit",
+      "Sozialstaat",
+      "Digitaler Wandel"
+    ],
+    "politisches_feld": "Arbeit & Digitalisierung"
+  },
+  {
+    "kuerzel": "Antrag 293/I/2024",
+    "hauptthema": "Konsensliste Antragskommission",
+    "unterthemen": [
+      "Verfahrensfrage"
+    ],
+    "politisches_feld": "Organisationspolitik"
+  },
+  {
+    "kuerzel": "Antrag 186/I/2020",
+    "hauptthema": "VBB-Abo für Rentner*innen",
+    "unterthemen": [
+      "Seniorenticket",
+      "ÖPNV-Tarife"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 25/I/2025",
+    "hauptthema": "Änderung Organisationsstatut Abteilungsvorstände",
+    "unterthemen": [
+      "Satzungsänderung",
+      "Vorstandsstruktur"
+    ],
+    "politisches_feld": "Organisationspolitik"
+  },
+  {
+    "kuerzel": "Antrag 31/II/2019",
+    "hauptthema": "Regulierung von Mietwagen",
+    "unterthemen": [
+      "Konzessionspflicht",
+      "Kontrollen",
+      "Gewerberecht"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "Antrag 61/I/2025",
+    "hauptthema": "Schutz vor Gewalt im Wahlkampf",
+    "unterthemen": [
+      "Handreichungen und Workshops",
+      "Unterstützungsstrukturen",
+      "Security Operations Center"
+    ],
+    "politisches_feld": "Parteiorganisation & Innere Sicherheit"
+  },
+  {
+    "kuerzel": "Antrag 108/II/2023",
+    "hauptthema": "Clubkultur für Einheimische bezahlbar halten",
+    "unterthemen": [
+      "Differenzierte Preisgestaltung",
+      "Vergünstigungen für BerlinCard",
+      "Soziale Teilhabe"
+    ],
+    "politisches_feld": "Kultur & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 64/I/2016",
+    "hauptthema": "Notrufknöpfe in öffentlichen Verkehrsmitteln",
+    "unterthemen": [
+      "Bessere Sichtbarkeit",
+      "Fahrgastsicherheit",
+      "BVG und S-Bahn"
+    ],
+    "politisches_feld": "Mobilität & Innere Sicherheit"
+  },
+  {
+    "kuerzel": "Antrag 51/III/2016",
+    "hauptthema": "Vergünstigung von VBB-Umweltkarten",
+    "unterthemen": [
+      "Abo-Verträge",
+      "Verkehrswende",
+      "Umwelt- und Klimaschutz"
+    ],
+    "politisches_feld": "Mobilität & Umwelt"
+  },
+  {
+    "kuerzel": "Antrag 05/I/2021",
+    "hauptthema": "Tarifliche Angleichung bei CFM",
+    "unterthemen": [
+      "TVöD-Angleichung",
+      "Berliner Mindestlohn",
+      "Beteiligungsunternehmen"
+    ],
+    "politisches_feld": "Arbeit & Wirtschaft"
+  },
+  {
+    "kuerzel": "Antrag 133/II/2021",
+    "hauptthema": "Konsensliste Abstimmung",
+    "unterthemen": [
+      "Verfahrensfrage"
+    ],
+    "politisches_feld": "Parteiorganisation"
+  },
+  {
+    "kuerzel": "Antrag 25/I/2024",
+    "hauptthema": "Menschenrechtsbasierte Sexarbeit",
+    "unterthemen": [
+      "Ablehnung Nordisches Modell",
+      "Opferschutz bei Menschenhandel",
+      "Rechtliche Stärkung von Sexarbeitenden"
+    ],
+    "politisches_feld": "Soziales & Menschenrechte"
+  },
+  {
+    "kuerzel": "Antrag 39/II/2021",
+    "hauptthema": "Attraktivierung von Freiwilligendiensten",
+    "unterthemen": [
+      "Einheitliches Taschengeld",
+      "ÖPNV-Zuschuss",
+      "Rechtsanspruch auf Sozialleistungen"
+    ],
+    "politisches_feld": "Bildung & Soziales"
+  },
+  {
+    "kuerzel": "Antrag 255/II/2019",
+    "hauptthema": "Massiver ÖPNV-Ausbau",
+    "unterthemen": [
+      "Berlin-Brandenburg-Kooperation",
+      "Metropolregion",
+      "ÖPNV-Gesamtkonzept"
+    ],
+    "politisches_feld": "Mobilität & Stadtentwicklung"
+  },
+  {
+    "kuerzel": "Antrag 30/I/2017",
+    "hauptthema": "Betriebskostenumlage bei Modernisierung",
+    "unterthemen": [
+      "Mietrecht",
+      "Doppelbelastung verhindern"
+    ],
+    "politisches_feld": "Wohnen & Mieterschutz"
+  },
+  {
+    "kuerzel": "26/II/2015",
+    "hauptthema": "Gleichstellung Grundschullehrkräfte",
+    "unterthemen": [
+      "Gerechte Bezahlung",
+      "Tarifliche Gleichstellung",
+      "Qualifizierte Einstellungspolitik"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "51/II/2022",
+    "hauptthema": "Handwerkliche Bildung",
+    "unterthemen": [
+      "Duales Lernen",
+      "Berufsorientierung",
+      "Praxisorientierte Angebote"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "07/II/2024",
+    "hauptthema": "Messengerdienste-Sicherheit",
+    "unterthemen": [
+      "Datenschutz",
+      "Ende-zu-Ende-Verschlüsselung",
+      "Sicherheitsüberprüfung"
+    ],
+    "politisches_feld": "Digitalisierung & Datenschutz"
+  },
+  {
+    "kuerzel": "91/I/2015",
+    "hauptthema": "Inklusion gehörloser Kinder",
+    "unterthemen": [
+      "Gebärdensprache",
+      "Gemeinsamer Unterricht",
+      "Förderschwerpunkt Hören"
+    ],
+    "politisches_feld": "Bildung"
+  },
+  {
+    "kuerzel": "155/I/2020",
+    "hauptthema": "Altersdiskriminierung",
+    "unterthemen": [
+      "Verfassungsänderung",
+      "Benachteiligungsverbot",
+      "Lebensalter"
+    ],
+    "politisches_feld": "Inneres & Recht"
+  },
+  {
+    "kuerzel": "312/II/2024",
+    "hauptthema": "Polizeiabschnitt 44 Neubau",
+    "unterthemen": [
+      "Finanzierung",
+      "EU-Fördermittel",
+      "Nachhaltige Infrastruktur"
+    ],
+    "politisches_feld": "Innere Sicherheit"
+  },
+  {
+    "kuerzel": "175/I/2022",
+    "hauptthema": "A100 Ausbaustopp",
+    "unterthemen": [
+      "17. Bauabschnitt",
+      "Bundesverkehrswegeplan",
+      "Alternative Flächennutzung"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "154/II/2025",
+    "hauptthema": "Günstigerer Führerschein",
+    "unterthemen": [
+      "Soziale Gerechtigkeit",
+      "Digitalisierung der Ausbildung",
+      "Fahrsimulatoren"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "266/I/2024",
+    "hauptthema": "E-Roller-Sharing Regulierung",
+    "unterthemen": [
+      "Geofencing",
+      "Definierte Abstellpunkte",
+      "Barrierefreiheit"
+    ],
+    "politisches_feld": "Mobilität & Verkehr"
+  },
+  {
+    "kuerzel": "52/II/2019",
+    "hauptthema": "Grundsteuerreform",
+    "unterthemen": [
+      "Grundsteuer C",
+      "Bodenwertzuwachssteuer",
+      "Bundesgesetzgebung"
+    ],
+    "politisches_feld": "Bauen, Wohnen & Stadtentwicklung"
+  }
+]

@@ -1,0 +1,32 @@
+---
+kuerzel: Antrag 166/II/2022
+titel: Antrag 166/II/2022 Predictive Policing in Europa verbieten
+status_in_tabelle: Annahme
+antragsteller: Jusos LDK
+ueberwiesen_an: Bundesparteitag 2023
+tagesordnungspunkt: Inneres / Recht
+veranstaltung: II/2022 Landesparteitag 12.11.2022
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/predictive-policing-in-europa-verbieten/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/II_2022//Antrag_166II2022_Predictive_Policing_in_Europa_ver.pdf
+publication_date: ''
+tags: []
+content_hash: ca27ab18ad59
+---
+
+**AntragstellerInnen:** Jusos LDK
+
+**Adressat:** Der Landesparteitag möge beschließen:Der Bundesparteitag möge beschließen:
+
+## Antragstext
+
+Systeme Künstlicher Intelligenz (KI) finden nicht nur auf Plattformen wie Facebook oder TikTok Anwendung, sondern werden auch vermehrt von staatlichen Institutionen eingesetzt. Dabei werden sich oftmals mehr Effizienz und schnellere Verwaltungsabläufe erhofft. Die vergangenen Jahre haben aber gezeigt, dass der Einsatz von KI-Systemen mit großen Risiken verbunden ist. Damit KI-Systeme Vorhersagen treffen können, müssen sie mithilfe von Daten trainiert werden. Diese Daten entstammen aber einer bereits verzerrten und ungerechten Realität, in der Diskriminierung und Rassismus alltäglich sind. KI-Systeme, die dann auf Basis verzerrter und diskriminierender Datensätze trainiert werden, reproduzieren diese Verhaltensweisen dann auch in ihrer Anwendung. Auch gibt es kaum nachträgliche Überprüfungen solcher Systeme, noch werden Systeme derzeit in Hinblick auf mögliche Diskriminierungspotenziale entwickelt.
+Zwei aktuelle Beispiele verdeutlichen diese Probleme. So wurde unter anderem in den Niederlanden ein KI-System von Behörden eingesetzt, um zu ermitteln, welche Empfänger*innen von Kindergeldzahlungen diese veruntreuten. Auf Basis dieser Einschätzungen wurden dann Rückzahlungsforderungen an die ermittelten Personen übermittelt, ohne dass diese Einschätzung noch einmal von einem Menschen überprüft wurde. Nach einigen Jahren stellte sich dabei aber heraus, dass viele Rückzahlungsforderungen ungerechtfertigt gestellt wurden, da das System nicht funktionierte. Auch traf das eingesetzte System vor allem diskriminierende Entscheidungen gegenüber Kindergeldempfänger*innen mit Migrationshintergrund und Empfänger*innen aus finanziell schwächeren Haushalten. Diese Gruppen wurden deutlich häufiger beschuldigt, Kindergeld veruntreut zu haben. Durch die falschen Rückzahlungsforderungen wurden diese Gruppen in starke finanzielle Not getrieben. Als weiteres Beispiel dient ein KI-System, welches durch die spanische Polizei seit 2007 eingesetzt wird. Dieses System erstellt eine Einschätzung darüber, wie gefährdet Frauen in ihrem eigenen privaten Umfeld sind, wenn sie eine Anzeige wegen häuslicher Gewalt bei der Polizei aufgeben. Die Idee dahinter war, dass die Polizei bei sehr schlimmen Fällen schneller eingreifen kann. Jedoch war auch dieses System zutiefst diskriminierend und hat die Gefährdungslage von Frauen systematisch als zu niedrig eingeschätzt, um direkt aktiv zu werden. Dadurch konnte vielen Frauen nicht adäquat geholfen werden. In beiden Fällen führte der Einsatz von fehlerhaften KI-Systemen durch öffentliche Behörden zu massiven negativen Auswirkungen auf Bürger*innen, insbesondere benachteiligter Gruppen.
+Wie das Beispiel der spanischen Polizei zeigt, ist der Einsatz von KI-Systemen durch Polizei- und Justizbehörden besonders riskant. In diesem Bereich werden derzeit vor allem Systeme entwickelt, die Vorhersagen über mögliche Straftaten oder besonders kriminalitätsbehaftete Orte erstellen. Solche Systeme werden auch als “Predictive Policing” Systeme bezeichnet. Neben dem spanischen KI-System werden solche Systeme bereits im Vereinigten Königreich, den Niederlanden, den USA und auch in Deutschland eingesetzt. So setzt die Polizei NRW ein KI-System ein, um zu beurteilen, an welchen Orten in naher Zukunft Straftaten begangen werden könnten. Die Polizeipräsenz wird dann an diesen Orten erhöht. Auch die Bundespolizei setzt ein KI-System ein, um das individuelle Gewaltrisiko von Gefährder*innen einzuschätzen und dadurch mögliche terroristische Anschläge vorherzusagen. Auswertungen zeigten dabei bereits, dass diese Systeme nahezu wirkungslos sind und es keinen nachweisbaren Effekt auf die Sicherheit oder die Vereitelung von Straftaten gibt. Dennoch werden diese Systeme weiterverwendet.
+Neben der Wirkungslosigkeit solcher Systeme kommt es auch zu einem schweren Eingriff in die individuellen Freiheitsrechte. Wie bereits gezeigt, sind KI-Systeme häufig fehleranfällig und diskriminieren Personen aufgrund ihres Aussehens, ihres Migrationsstatus oder ihrer sozioökonomischen Herkunft. Wenn dann falsche polizeiliche oder juristische Entscheidungen aufgrund von falschen KI-gestützten Entscheidungen getroffen werden, könnte dies für die Betroffenen sehr schwerwiegende Folgen haben. Darüber hinaus besteht ein Unterschied zwischen einer statistischen Vorhersage darüber, ob oder wo eine Straftat stattfinden könnte, und dem Ausüben einer Straftat. Es wird lediglich eine Vermutung aufgestellt. Insbesondere bei Systemen, welche das Risiko von Individuen beurteilen, können solche Systeme zu einem Einschnitt der Unschuldsvermutung führen.
+Da der Einsatz von KI-Systemen mit Risiken verbunden ist, wird auf europäischer Ebene derzeit die weltweit erste Regulierung von KI-Systemen verhandelt. Bis Ende des Jahres soll der Verordnungsentwurf in die allgemeine Ausrichtung gehen und nächstes Jahr finalisiert werden. Im Rahmen der KI-Verordnung werden bestimmte KI-Systeme aufgrund ihres unannehmbaren Risikos verboten und andere aufgrund eines hohen Risikos stark reguliert. Bisher sind “Predictive Policing”-Systeme lediglich als Hochrisikosysteme definiert. Somit wäre der Einsatz solcher Systeme auch weiterhin in der EU erlaubt. Dies steht im starken Kontrast mit den aufgezeigten Risiken sowie Fehleranfälligkeit solcher Systeme.
+Daher fordern wir:
+“Predictive Policing”-Systeme sollen im Rahmen der Verhandlungen zur KI-Verordnung europarechtlich verboten werden. Der Einsatz solcher Systeme durch deutsche Behörden oder im Auftrag dieser muss unverzüglich eingestellt werden. Auch der Verkauf oder die Verfügbarmachung von Predictive Policing Software muss verboten werden.
+
+**Empfehlung der Antragskommission:** Annahme(Konsens)

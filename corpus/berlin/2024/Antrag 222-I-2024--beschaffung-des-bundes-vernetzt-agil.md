@@ -1,0 +1,38 @@
+---
+kuerzel: Antrag 222/I/2024
+titel: 'Antrag 222/I/2024 Beschaffung des Bundes vernetzt, agil und offen gestalten: Investitionen in Open-Source-Plattformen als Schlüssel für eine moderne Verwaltung'
+status_in_tabelle: Überweisung
+antragsteller: Forum Netzpolitik
+ueberwiesen_an: Landesgruppe
+tagesordnungspunkt: Digital / Medien / Datenschutz
+veranstaltung: I/2024 Landesparteitag 25.05.2024
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/beschaffung-des-bundes-vernetzt-agil-und-offen-gestalten-investitionen-in-open-source-plattformen-als-schluessel-fuer-eine-moderne-verwaltung/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/I_2024//Antrag_222I2024_Beschaffung_des_Bundes_vernetzt_ag.pdf
+publication_date: ''
+tags: []
+content_hash: 2081a863b782
+---
+
+**AntragstellerInnen:** Forum Netzpolitik
+
+**Adressat:** Der Landesparteitag möge beschließen:Der Bundesparteitag möge beschließen:
+
+## Antragstext
+
+In Zeiten umfassender Digitalisierung von Gesellschaft, Wirtschaft und Arbeitswelt steht die öffentliche Verwaltung an einem Wendepunkt und braucht dringend einen Digitalisierungsschub. Doch aktuell dominiert die Abhängigkeit von Software-Monopolisten, trotz der fortschrittlichen Vereinbarungen der Ampel im Koalitionsvertrag, die digitale Souveränität zu sichern, unter anderem durch das Recht auf Interoperabilität und Portabilität, das Setzen auf offene Standards, Open Source und europäische Ökosysteme, sowie für öffentliche IT-Projekte offene Standards sowie die Beauftragung und öffentliche Bereitstellung von Software als Open Source als Regel festzuschreiben. Die Regierung investiert stattdessen hauptsächlich in proprietäre Lösungen und konterkariert damit ihre eigenen Ziele. Open Source, d. h. Software deren Quellcode unter einer freien Lizenz verfügbar ist,  bietet für die großen Herausforderungen der Zeit Lösungen, da es Agilität, Transparenz und Unabhängigkeit fördert, benutzerorientierte Innovationen und stärkt die digitale Souveränität unterstützt .
+Wir fordern daher eine generelle Priorisierung von Open-Source-Software in IT-Beschaffungsprozessen der öffentlichen Verwaltung, um in den Vergabegrundsätzen und entsprechenden Gesetzen eine produkt- und anbieterneutrale Auswahl zu gewährleisten, Lock-In-Effekte proprietärer Software zu vermeiden und die digitale Souveränität durch interoperable, nachhaltige und frei zugängliche Technologien zu stärken.
+Im Einzelnen:
+- Wir fordern einegenerelle Priorisierung von Open-Source im Vergabeverfahren in Bundes- und Landesgesetzen, insbesondere durch entsprechende rechtssichere Klarstellung in den Grundsätzen der Vergabe imGesetz gegen Wettbewerbsbeschränkungen(GWB), flankiert durch Klarstellungen inOnlinezugangsgesetzundE-Government-Gesetz. Derzeit erfolgen öffentliche Beschaffungen in der Regel nicht produkt- und anbieterneutral, so dass eine Vorfestlegung auf übliche Anbieter stattfindet. Wegen des Systemcharakters von Software mit dem besonderen Aspekt der offenen Standards, der Kompatibilität und den Gesichtspunkten von Kooperation und Nachhaltigkeit ist eine generelle Bevorzugung daher zwingend, um insbesondere Lock-In-Effekten bei Einsatz proprietärer Software entgegenzuwirken und eine langfristige Umstellung der Verwaltung zu bewirken, die für die Erreichung des Ziels der Herstellung digitaler Souveränität der Verwaltung am effektivsten erscheint.
+- Wir werden für IT-Beschaffungen des Bundes gesetzlich verankern, dass neue Anwendungen und Technologien mitoffenen Schnittstellen sowie offenen Standardsausgestattet werden müssen, um eine weitreichendeInteroperabilitätzu gewährleisten und diese hierüber nutzbar zu machen, wobei neue Anwendungen und Technologien möglichst abwärtskompatibel sein sollen. Der Einsatz von Open-Source-Software soll danach vorrangig vor solcher Software erfolgen, deren Quellcode nicht öffentlich zugänglich ist und deren Lizenz die Verwendung, Weitergabe und Veränderung einschränkt sowie Anwendungen und Technologien eingesetzt werden, die über ihren gesamten Lebenszyklus nachhaltig sind. Ausnahmen sind zu begründen und die Begründung von der jeweiligen Behördenleitung zu prüfen. Bei neuer Software, die von der öffentlichen Verwaltung oder speziell für diese entwickelt wird, ist der Quellcode unter geeignete Open-Source-Lizenzen (wie z.B. EU-PL und GPL) zu stellen und zu veröffentlichen, soweit keine zwingenden Gründen (beispielsweise sicherheitsbezogene Risiken) dem entgegen stehen. Auch in diesem Fall muss zugleich der Quellcode zumindest intern zugänglich sein und selbst weiterentwickelt werden können, um die digitale Souveränität zu stärken.
+- Wir setzen uns dafür ein, dass Bund, Länder und Kommunen in Deutschland ihreMarktmacht als „Big Buyers“strategisch nutzen, um die Entwicklung und Beschaffung von innovativer und nachhaltiger Software durch gemeinsame Initiativen und Crowdfunding-Modelle voranzutreiben. Insbesondere sollen sie ihre Ressourcen bündeln, um Produkt- und Anbietervielfalt im Open-Source-Bereich zu fördern und durch koordinierte gemeinsame Beschaffungsvorhaben qualitativ hochwertige, interoperable und kosteneffiziente Softwarelösungen zu schaffen, die die digitale Souveränität und Innovationsfähigkeit der öffentlichen Verwaltung stärken.
+- Wir werden BeschaffungsprozesseKMU– (kleine und mittlere Unternehmen) und damit innovationsfreundlicher gestalten, insbesondere durch proaktive Marktansprache, Reduzierung des Verwaltungsaufwands, Anpassung der Auswahlkriterien an die Bedürfnisse von Innovatoren, stärkere Aufteilung von Aufträgen in Lose und Priorisierung von Open-Source, mit dem Ziel, den Zugang zur Auftragsvergabe zu erleichtern und ein innovationsförderndes Ökosystem zu schaffen. Es ist zudem zu prüfen, wie das Eignungskriterium, Referenzprojekte vorzuweisen nicht mehr zur unüberwindbaren Einstiegshürde für innovative KMUs und Start-Ups werden kann. Der regionale, nationale und europäische Mittelstand profitiert mit diesen Maßnahmen in besonderer Weise von einem aktiven Open Source Ökosystem.
+
+**Empfehlung der Antragskommission:** Überweisen an: Landesgruppe(Konsens)
+
+## Beschluss
+
+In Zeiten umfassender Digitalisierung von Gesellschaft, Wirtschaft und Arbeitswelt steht die öffentliche Verwaltung an einem Wendepunkt und braucht dringend einen Digitalisierungsschub. Doch aktuell dominiert die Abhängigkeit von Software-Monopolisten, trotz der fortschrittlichen Vereinbarungen der Ampel im Koalitionsvertrag, die digitale Souveränität zu sichern, unter anderem durch das Recht auf Interoperabilität und Portabilität, das Setzen auf offene Standards, Open Source und europäische Ökosysteme, sowie für öffentliche IT-Projekte offene Standards sowie die Beauftragung und öffentliche Bereitstellung von Software als Open Source als Regel festzuschreiben. Die Regierung investiert stattdessen hauptsächlich in proprietäre Lösungen und konterkariert damit ihre eigenen Ziele. Open Source, d. h. Software deren Quellcode unter einer freien Lizenz verfügbar ist,  bietet für die großen Herausforderungen der Zeit Lösungen, da es Agilität, Transparenz und Unabhängigkeit fördert, benutzerorientierte Innovationen und stärkt die digitale Souveränität unterstützt .
+Wir fordern daher eine generelle Priorisierung von Open-Source-Software in IT-Beschaffungsprozessen der öffentlichen Verwaltung, um in den Vergabegrundsätzen und entsprechenden Gesetzen eine produkt- und anbieterneutrale Auswahl zu gewährleisten, Lock-In-Effekte proprietärer Software zu vermeiden und die digitale Souveränität durch interoperable, nachhaltige und frei zugängliche Technologien zu stärken.
+Im Einzelnen:

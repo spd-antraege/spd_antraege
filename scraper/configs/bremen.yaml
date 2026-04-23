@@ -1,0 +1,25 @@
+state: bremen
+display_name: "SPD Bremen"
+portal_url: "https://www.spd-land-bremen.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+  "erledigt": "Erledigt"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://spd-land-bremen.de/Binaries/Binary9259/Antragsbuch-Landesparteitag-27.9.2025.pdf"
+    label: "LPT 2025"
+    veranstaltung: "Landesparteitag 2025"
+    year: 2025
+# 437 online Beschlüsse at spd-land-bremen.de — HTML scraping needed
+
+audit:
+  total_motions: 737
+  date_range: "2004-2026"
+  note: "437 online HTML Beschlüsse + PDF archive"

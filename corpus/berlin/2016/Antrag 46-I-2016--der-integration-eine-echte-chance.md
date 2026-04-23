@@ -1,0 +1,36 @@
+---
+kuerzel: Antrag 46/I/2016
+titel: "Antrag 46/I/2016 \nDer Integration eine echte Chance geben: Gesetz zur erleichterten Ausweisung entschärfen"
+status_in_tabelle: Annahme
+antragsteller: ''
+ueberwiesen_an: Bundesparteitag 2017, Landesgruppe
+tagesordnungspunkt: Flüchtlings- / Asylpolitik
+veranstaltung: "I/2016 \n30.04.2016"
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/keine-weitere-verschaerfung-des-aufenthaltsgesetzes/
+pdf_url: ''
+publication_date: ''
+tags: []
+content_hash: 724cc8c621a7
+---
+
+**Adressat:** Der Landesparteitag möge beschließen:Der Bundesparteitag möge beschließen:
+
+## Antragstext
+
+Wir fordern die SPD Bundestagsabgeordneten dazu auf, sich gegen Verschärfungen im Aufenthaltsgesetz einzusetzen. Gleichzeitig lehnen wir die von den Bundestagsfraktionen CDU/CSU und SPD auf den Weg gebrachten Maßnahmen entschieden ab!
+Das von der Bundesregierung – unter federführender Leitung der SPD – beschlossene „Gesetz zur erleichterten Ausweisung von straffälligen Ausländern und zum erweiterten Ausschluss der Flüchtlingsanerkennung bei straffälligen Asylbewerbern“ in seiner vorliegenden Form kann so nicht akzeptiert werden. Wir sind überzeugt, dass durch dieses Gesetz nicht nur das individuelle Grundrecht auf Asyl weiter eingeengt bzw. weiter ausgehöhlt, sondern zudem rechtspopulistischen Forderungen nachgekommen wird. Vor allem aber bedient diese reaktionäre Politik rassistische Parolen und hetzerische Forderungen im Stile „Abschiebung krimineller Ausländer“ und macht sich schlussendlich zum Sprachrohr rechtspopulistischen Gedankengutes. Die Bundesregierung geht mit der Verschärfung des Gesetzes auf Stimmenfang am rechten Rand und betreibt populistische Symbolpolitik auf dem Rücken Schutzsuchender. So etwas können und wollen wir nicht akzeptieren!
+Nein zur Doppelbestrafung!
+Schon die Grundintention des Gesetzes zeigt die ganze Ungerechtigkeit auf: nämlich, dass wenn Migrant*innen rechtskräftig zu einer Freiheits-oder Jugendstrafe von mindestens einem Jahr verurteilt wurden, ab sofort ein „besonders schwerwiegendes Ausweisungsinteresse“ gelten soll – unabhängig davon, ob die Strafe zur Bewährung ausgesetzt ist oder nicht. Ein „besonders schwerwiegendes Ausweisungsinteresse“ bezieht sich in dem von Justizminister Heiko Maas und Innenminister Thomas de Maiziére vorgelegten Gesetz ausdrücklich auf Migrant*innen, ergo fallen unter diese Kategorie auch langjährig hier lebende Menschen. Eine Bewährungsstrafe würde künftig die Ausweisung aus Deutschland bedeuten. So kann, wer mehrere Diebstähle begangen habe oder sich gegen seine Verhaftung wehre, mit sofortiger Wirkung seinen Anspruch auf ein Leben in Deutschland verlieren. Dass jemand straffällig wird, ist aber kein Beweis dafür, dass die Integration nicht erfolgreich war. Die zusätzliche Ausweisung stellt somit eine Art „zweite Bestrafung“ für Migrant*innen dar. Eine verschärfte, auf Grundlage der Herkunft einer Person vollzogene Bestrafung darf es nicht geben! Eine diskriminierende und rassistische Doppelbestrafung ist weder sozial, noch gerecht oder demokratisch vertretbar!
+Keine Stärkung rechtspopulistischer Ressentiments gegenüber Geflüchteten und Asylsuchenden
+Die Diskussion um „straffällige Ausländer“ bzw. deren „kriminelle Einstellung“ konstruiert ein bestimmt pauschalisierendes Bild von Geflüchteten, die bei uns Schutz vor Verfolgung, Krieg und Tod suchen. Durch die Verschärfung des Aufenthaltsgesetzes wird nicht zuletzt suggeriert, dass mitunter eine Vielzahl von Asylsuchenden potentiell kriminell bzw. gefährlich seien. Dass dabei lediglich Vorurteile und Ressentiments bedient werden zeugt von einer Symbolpolitik, die in ihrem Kern nicht an strafrechtlicher Aufklärung, sondern Abschreckung interessiert zu sein scheint. Dieser politische Aktionismus dient nur dem Schein zur Wiederherstellung der „öffentlichen Sicherheit“ zu Lasten der Leidtragenden, nämlich der Schutzbedürftigen. Hier müssen wir uns entschieden dagegenstellen! Es darf kein Extrarecht in Abhängigkeit der Herkunft einer Person geben! Gleiches Recht für alle Menschen!
+Keine Überreaktion der Politik
+Durch die geplanten Änderungen wird sich die Zahl aufenthaltsbeendender Maßnahmen immens erhöhen. Gleichzeitig stellt für viele Menschen die Abschiebung aus Deutschland eine immens lebensbedrohliche Situation dar, werden sie genau in die Länder zurückgeschickt, die aus Furcht vor Terror, Krieg, Verfolgung und Tod verlassen hatten. Die Bundesregierung hat aber grundlegend eine Pflicht, für die Unversehrtheit der körperlichen Integrität der hier lebenden Menschen zu sorgen und dies zu garantieren. Das Menschenrecht liegt nicht im Ermessen der Herkunft eines Menschen, sondern gilt stellvertretend für alle Menschen. Wir müssen verhindern, dass es zu erneuten Verschärfungen des Ausweisungsrechtes kommt und die Menschen gegeneinander ausgespielt werden!
+Der Integration eine echte Chance geben: das „Gesetz zur erleichterten Ausweisung“ entschärfen
+Der Landesparteitag möge beschließen:
+Im Rahmen des „Asylpakets II“ trat das „Gesetzes zur erleichterten Ausweisung von straffälligen Ausländern und zum erweiterten Ausschluss der Flüchtlingsanerkennung bei straffälligen Asylbewerbern“ am 11. März 2016 in Kraft. Dieses Gesetz besagt, dass Ausländer*innen bereits bei einer Verurteilung zu einer Freiheits- oder Jugendstrafte von einem Jahr, auch wenn diese Strafe zur Bewährung ausgesetzt ist, einem „besonders erschwerten Ausweisungsinteresse“ unterliegen. Dieses Gesetz gilt für alle Menschen ohne deutsche Staatsbürger*innenschaft, unabhängig von ihren sonstigen Lebensumständen oder der Dauer ihres bisherigen Aufenthaltes.
+Selbstverständlich verurteilt die SPD Straftaten jeglicher Art, unabhängig davon, von wem diese begangen werden. Rechtsstaatliche Verfahren müssen für alle Menschen gleichermaßen gelten. Die mit dem genannten Gesetz eingeführten Maßnahmen bewerten wir jedoch als verfehlt. Diese neue Regelung schafft eine prekäre Lebenssituation für Menschen ohne deutsche Staatsbürger*innenschaft, da sie schon bei geringen Straftaten von einer Ausweisung bedroht sind, selbst wenn sie schon seit vielen Jahren in Deutschland leben. Für eine erfolgreiche Integration ist eine solche Regelung hinderlich. Zudem kann das neue Gesetz zwar eine Ausreisepflicht begründen, jedoch heißt dies noch nicht, dass die betroffene Person das Land verlassen muss. Dies kann dazu führen, dass Menschen wegen kleinerer Delikte jegliche Integrationsperspektive abgesprochen wird und sie trotzdem weiterhin hier leben. Damit wird ihnen jedoch der Anreiz für eine Integration genommen. Dies widerspricht insbesondere dem Grundgedanken des Jugendstrafrechts, dessen Grundsätze auf eine künftige positive Entwicklung straffälliger Jugendlicher gerichtet sind. Wir sprechen uns dafür aus, dass für Menschen ohne deutsche Staatsbürger*innenschaft das gleiche Strafmaß wie für Staatsbürger*innen angelegt wird. Eine zusätzliche Bestrafung für Ausländer*innen durch die Verhängung einer Ausreisepflicht lehnen wir hingegen ab.
+Daher fordern wir die SPD Bundestagsabgeordneten sowie den zuständigen SPD-Bundesminister Heiko Maas dazu auf, sich für eine Entschärfung des beschlossenen Gesetzes einzusetzen.
+
+**Empfehlung der Antragskommission:** Annahme in der Fassung der AK(Konsens)

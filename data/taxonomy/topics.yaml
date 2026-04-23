@@ -1,0 +1,424 @@
+version: "1.0"
+last_updated: "2026-03-16"
+source_docs: 300
+extracted_topics: 300
+domains:
+  wohnen_stadtentwicklung:
+    label_de: "Wohnen & Stadtentwicklung"
+    subtopics:
+      mietenpolitik:
+        label_de: "Mietenpolitik & Mieterschutz"
+      sozialer_wohnungsbau:
+        label_de: "Sozialer Wohnungsbau & Landeseigene"
+      milieuschutz_vorkaufsrecht:
+        label_de: "Milieuschutz & Vorkaufsrecht"
+      stadtplanung:
+        label_de: "Stadtplanung & Quartiersentwicklung"
+      barrierefreies_wohnen:
+        label_de: "Barrierefreies Wohnen"
+      liegenschaften:
+        label_de: "Liegenschaftspolitik"
+      zweckentfremdung:
+        label_de: "Zweckentfremdungsverbot"
+      genossenschaften:
+        label_de: "Genossenschaftlicher Wohnungsbau"
+
+  mobilitaet_verkehr:
+    label_de: "Mobilität & Verkehr"
+    subtopics:
+      oepnv_ausbau:
+        label_de: "ÖPNV-Ausbau & Schienenverkehr"
+      verkehrssicherheit:
+        label_de: "Verkehrssicherheit & Überwachung"
+      sharing_mobilitaet:
+        label_de: "Sharing-Mobilität & Mikromobilität"
+      autobahn_strassenbau:
+        label_de: "Autobahn & Straßenbau"
+      radverkehr_fussverkehr:
+        label_de: "Rad- & Fußverkehr"
+      elektromobilitaet:
+        label_de: "Elektromobilität & Ladeinfrastruktur"
+      oepnv_tarife:
+        label_de: "ÖPNV-Tarife & Tickets"
+
+  bildung:
+    label_de: "Bildung"
+    subtopics:
+      schulinfrastruktur:
+        label_de: "Schulinfrastruktur & Sanierung"
+      digitalisierung_schulen:
+        label_de: "Digitalisierung an Schulen"
+      lehrkraefte:
+        label_de: "Lehrkräfte & Arbeitsbedingungen"
+      schulqualitaet:
+        label_de: "Schulqualität & Betreuungsschlüssel"
+      bildungsgerechtigkeit:
+        label_de: "Bildungsgerechtigkeit & Teilhabe"
+      kita:
+        label_de: "Kita & Frühe Bildung"
+      berufliche_bildung:
+        label_de: "Berufliche Bildung & Ausbildung"
+      inklusion_bildung:
+        label_de: "Inklusion in der Bildung"
+
+  wissenschaft_hochschule:
+    label_de: "Wissenschaft & Hochschule"
+    subtopics:
+      hochschulfinanzierung:
+        label_de: "Hochschulfinanzierung"
+      wissenschaftspolitik:
+        label_de: "Wissenschafts- & Forschungspolitik"
+      arbeitsbedingungen_wissenschaft:
+        label_de: "Arbeitsbedingungen in der Wissenschaft"
+      hochschulzugang:
+        label_de: "Hochschulzugang & Anerkennung"
+
+  arbeit_wirtschaft:
+    label_de: "Arbeit & Wirtschaft"
+    subtopics:
+      mindestlohn_loehne:
+        label_de: "Mindestlohn & Löhne"
+      gute_arbeit:
+        label_de: "Gute Arbeit & Arbeitsbedingungen"
+      mitbestimmung:
+        label_de: "Betriebliche Mitbestimmung"
+      prekaerisierung:
+        label_de: "Bekämpfung prekärer Arbeit"
+      berufsberatung:
+        label_de: "Berufsberatung & Fachkräfte"
+      tariftreue:
+        label_de: "Tariftreue & Vergabe"
+      weiterbildung:
+        label_de: "Weiterbildung & Lebenslanges Lernen"
+      startup_wirtschaft:
+        label_de: "Startup-Förderung & Digitale Wirtschaft"
+
+  gesundheit_pflege:
+    label_de: "Gesundheit & Pflege"
+    subtopics:
+      krankenhausfinanzierung:
+        label_de: "Krankenhausfinanzierung & -versorgung"
+      pflege:
+        label_de: "Pflege & Pflegepersonal"
+      gesundheitspraevention:
+        label_de: "Gesundheitsprävention & Ernährung"
+      krankenversicherung:
+        label_de: "Krankenversicherung"
+      pandemiebekaempfung:
+        label_de: "Pandemiebekämpfung"
+      psychische_gesundheit:
+        label_de: "Psychische Gesundheit"
+      medizinische_versorgung:
+        label_de: "Medizinische Versorgung"
+      drogenpolitik:
+        label_de: "Drogenpolitik"
+
+  soziales:
+    label_de: "Soziales"
+    subtopics:
+      rente:
+        label_de: "Rente & Altersversorgung"
+      grundsicherung:
+        label_de: "Grundsicherung & Sozialleistungen"
+      obdachlosigkeit:
+        label_de: "Obdachlosigkeit & Wohnungslosigkeit"
+      seniorenpolitik:
+        label_de: "Seniorenpolitik & Alter"
+      armut:
+        label_de: "Armutsbekämpfung"
+      ehrenamt:
+        label_de: "Ehrenamt & Zivilgesellschaft"
+      sozialversicherung:
+        label_de: "Sozialversicherung"
+
+  familie_jugend:
+    label_de: "Familie & Jugend"
+    subtopics:
+      elterngeld:
+        label_de: "Elterngeld & Elternzeit"
+      mutterschutz:
+        label_de: "Mutterschutz & Fehlgeburten"
+      kindergrundsicherung:
+        label_de: "Kindergrundsicherung & Kinderarmut"
+      familienberatung:
+        label_de: "Familienberatung & -service"
+      unterhalt:
+        label_de: "Unterhalt & Unterhaltsvorschuss"
+      jugendpartizipation:
+        label_de: "Jugendpartizipation"
+      jugendschutz:
+        label_de: "Jugendschutz"
+
+  innere_sicherheit:
+    label_de: "Innere Sicherheit"
+    subtopics:
+      polizeirecht_asog:
+        label_de: "Polizeirecht / ASOG"
+      kriminalpraevention:
+        label_de: "Kriminalprävention"
+      rechter_terror:
+        label_de: "Rechter Terror & Extremismus"
+      opferschutz:
+        label_de: "Opferschutz"
+      polizeiarbeit:
+        label_de: "Polizeiarbeit & Ausstattung"
+      demokratiefoerderung:
+        label_de: "Demokratieförderung"
+
+  justiz_recht:
+    label_de: "Justiz & Recht"
+    subtopics:
+      strafrecht:
+        label_de: "Strafrecht & Strafverfolgung"
+      strafvollzug:
+        label_de: "Strafvollzug & Resozialisierung"
+      sexualstrafrecht:
+        label_de: "Sexualstrafrecht"
+      verfassungsrecht:
+        label_de: "Verfassungsrecht"
+      justizorganisation:
+        label_de: "Justizorganisation"
+      rechtliche_betreuung:
+        label_de: "Rechtliche Betreuung"
+
+  gleichstellung_teilhabe:
+    label_de: "Gleichstellung & Teilhabe"
+    subtopics:
+      geschlechtergleichstellung:
+        label_de: "Geschlechtergleichstellung"
+      frauenpolitik:
+        label_de: "Frauenpolitik & Fraueninfrastruktur"
+      lgbtiq:
+        label_de: "LGBTIQ-Rechte"
+      geschlechterparitaet:
+        label_de: "Geschlechterparität in Politik"
+      geschlechtergerechte_sprache:
+        label_de: "Geschlechtergerechte Sprache"
+      catcalling:
+        label_de: "Sexuelle Belästigung im öffentlichen Raum"
+
+  antidiskriminierung:
+    label_de: "Antidiskriminierung"
+    subtopics:
+      antidiskriminierungsgesetz:
+        label_de: "Allgemeines Gleichbehandlungsgesetz"
+      rassismus:
+        label_de: "Rassismus & Struktureller Rassismus"
+      awareness:
+        label_de: "Awareness-Strukturen"
+      barrieren_diskriminierung:
+        label_de: "Barrierefreiheit & Diskriminierung"
+      altersdiskriminierung:
+        label_de: "Altersdiskriminierung"
+
+  integration_migration:
+    label_de: "Integration & Migration"
+    subtopics:
+      partizipation:
+        label_de: "Partizipation & Teilhabe"
+      deutschkurse:
+        label_de: "Deutschkurse & Sprachförderung"
+      anerkennung_abschluesse:
+        label_de: "Anerkennung von Abschlüssen"
+      migrationspolitik:
+        label_de: "Migrationspolitik"
+      migrantische_oekonomie:
+        label_de: "Migrantische Ökonomie"
+      einwanderungsgesetz:
+        label_de: "Einwanderungsgesetz"
+
+  fluechtlinge_asyl:
+    label_de: "Flüchtlinge & Asyl"
+    subtopics:
+      unterbringung:
+        label_de: "Unterbringung & Unterkünfte"
+      asylverfahren:
+        label_de: "Asylverfahren & Dublin"
+      aufnahmeprogramme:
+        label_de: "Aufnahmeprogramme"
+      medizinische_versorgung_gefluechtete:
+        label_de: "Medizinische Versorgung für Geflüchtete"
+      abschiebungen:
+        label_de: "Abschiebungen & Rückführungen"
+      eu_fluechtlingspolitik:
+        label_de: "EU-Flüchtlingspolitik"
+
+  inklusion:
+    label_de: "Inklusion"
+    subtopics:
+      behindertenrechte:
+        label_de: "Behindertenrechte & UN-BRK"
+      barrierefreiheit_teilhabe:
+        label_de: "Barrierefreiheit & Teilhabe"
+      gebaerdensprache:
+        label_de: "Gebärdensprache"
+      disability_mainstreaming:
+        label_de: "Disability Mainstreaming"
+      inklusion_partei:
+        label_de: "Inklusion in der Partei"
+
+  digitalisierung:
+    label_de: "Digitalisierung"
+    subtopics:
+      e_government:
+        label_de: "E-Government & Verwaltungsdigitalisierung"
+      datenschutz:
+        label_de: "Datenschutz & Datensparsamkeit"
+      netzpolitik:
+        label_de: "Netzpolitik & Urheberrecht"
+      digitale_teilhabe:
+        label_de: "Digitale Teilhabe"
+      plattformregulierung:
+        label_de: "Plattformregulierung"
+      messengerdienste:
+        label_de: "Messengerdienste & Verschlüsselung"
+
+  klimaschutz_umwelt:
+    label_de: "Klimaschutz & Umwelt"
+    subtopics:
+      klimaneutralitaet:
+        label_de: "Klimaneutralität & Klimaziele"
+      klimaanpassung:
+        label_de: "Klimaanpassung & Starkregen"
+      umweltschutz:
+        label_de: "Umweltschutz & Ressourcenschonung"
+      tierschutz:
+        label_de: "Tierschutz & Wildtiere"
+      luftreinhaltung:
+        label_de: "Luftreinhaltung"
+      abfallwirtschaft:
+        label_de: "Abfallwirtschaft & Recycling"
+
+  energie:
+    label_de: "Energie"
+    subtopics:
+      erneuerbare_energien:
+        label_de: "Erneuerbare Energien"
+      energiewende:
+        label_de: "Energiewende & Energiepolitik"
+      waermeplanung:
+        label_de: "Kommunale Wärmeplanung"
+      energetische_sanierung:
+        label_de: "Energetische Sanierung"
+      energieversorgung:
+        label_de: "Energieversorgung & Verbraucherschutz"
+      energiepreise:
+        label_de: "Energiepreise"
+
+  kultur:
+    label_de: "Kultur"
+    subtopics:
+      kultureinrichtungen:
+        label_de: "Kultureinrichtungen & Theater"
+      erinnerungskultur:
+        label_de: "Erinnerungskultur & Gedenken"
+      clubkultur:
+        label_de: "Clubkultur & Nachtleben"
+      bibliotheken_museen:
+        label_de: "Bibliotheken & Museen"
+      medien_rundfunk:
+        label_de: "Medien & Öffentlich-rechtlicher Rundfunk"
+      industriekultur:
+        label_de: "Industriekultur"
+
+  sport:
+    label_de: "Sport"
+    subtopics:
+      sportfoerderung:
+        label_de: "Sportförderung"
+      esport:
+        label_de: "eSport"
+      sportveranstaltungen:
+        label_de: "Sportveranstaltungen"
+      sportinfrastruktur:
+        label_de: "Sportinfrastruktur"
+
+  europa_aussenpolitik:
+    label_de: "Europa & Außenpolitik"
+    subtopics:
+      eu_politik:
+        label_de: "EU-Politik & Integration"
+      handelspolitik:
+        label_de: "Handelspolitik & Freihandelsabkommen"
+      auswaertige_politik:
+        label_de: "Auswärtige Politik"
+      friedenspolitik:
+        label_de: "Friedenspolitik"
+      sicherheitspolitik:
+        label_de: "Sicherheitspolitik & Verteidigung"
+      entwicklungspolitik:
+        label_de: "Entwicklungspolitik & Humanitäre Hilfe"
+      menschenrechte_international:
+        label_de: "Internationale Menschenrechte"
+
+  finanzen_steuern:
+    label_de: "Finanzen & Steuern"
+    subtopics:
+      steuergerechtigkeit:
+        label_de: "Steuergerechtigkeit"
+      vermoegenssteuer:
+        label_de: "Vermögenssteuer"
+      erbschaftsteuer:
+        label_de: "Erbschaftsteuer"
+      abgeltungssteuer:
+        label_de: "Abgeltungssteuer & Kapitalbesteuerung"
+      grundsteuer:
+        label_de: "Grundsteuer"
+      ezb_finanzpolitik:
+        label_de: "EZB & Geldpolitik"
+
+  verwaltung_oeffentlicher_dienst:
+    label_de: "Verwaltung & Öffentlicher Dienst"
+    subtopics:
+      verwaltungsmodernisierung:
+        label_de: "Verwaltungsmodernisierung"
+      buergerservice:
+        label_de: "Bürgerservice & Bürgerämter"
+      beamtenrecht:
+        label_de: "Beamtenrecht"
+      bezirksverwaltung:
+        label_de: "Bezirksverwaltung"
+      landesamt_einwanderung:
+        label_de: "Landesamt für Einwanderung"
+
+  demokratie_wahlen:
+    label_de: "Demokratie & Wahlen"
+    subtopics:
+      wahlrecht:
+        label_de: "Wahlrecht & Wahlalter"
+      paritaetsgesetz:
+        label_de: "Paritätsgesetz"
+      buergerinnenbeteiligung:
+        label_de: "Bürger*innenbeteiligung"
+      wahlumfragen:
+        label_de: "Wahlumfragen"
+      abgeordnetenrecht:
+        label_de: "Abgeordnetenrecht & Transparenz"
+
+  parteiorganisation:
+    label_de: "Parteiorganisation"
+    subtopics:
+      satzung_statut:
+        label_de: "Satzung & Organisationsstatut"
+      kandidatenaufstellung:
+        label_de: "Kandidat*innenaufstellung"
+      parteitagsverfahren:
+        label_de: "Parteitagsverfahren"
+      parteistruktur:
+        label_de: "Parteistruktur & Gremien"
+      ethik_korruption:
+        label_de: "Ethik & Korruptionsprävention"
+      quoten:
+        label_de: "Quoten & Geschlechterparität"
+      gewerkschaftsbindung:
+        label_de: "Gewerkschaftsbindung"
+      nachhaltigkeit_organisation:
+        label_de: "Nachhaltigkeit in der Organisation"
+
+  verbraucherschutz:
+    label_de: "Verbraucherschutz"
+    subtopics:
+      verbraucherschutz_allgemein:
+        label_de: "Verbraucherschutz allgemein"
+      zeitpolitik:
+        label_de: "Zeitpolitik & Sommerzeit"

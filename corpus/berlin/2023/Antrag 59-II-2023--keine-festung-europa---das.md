@@ -1,0 +1,41 @@
+---
+kuerzel: Antrag 59/II/2023
+titel: Antrag 59/II/2023 Keine Festung Europa - Das EU-Asylrecht darf nicht zum Nachteil der Schutzsuchenden geschwächt werden!
+status_in_tabelle: Erledigt
+antragsteller: ASJ Landesvorstand
+ueberwiesen_an: ''
+tagesordnungspunkt: Geflüchteten-/ Asylpolitik
+veranstaltung: II/2023 Landesparteitag 23.09.2023
+verantwortlich: SPD Berlin
+herkunft: parteitag.spd.berlin
+source_url: https://parteitag.spd.berlin/cvtx_antrag/keine-festung-europa-das-eu-asylrecht-darf-nicht-zum-nachteil-der-schutzsuchenden-geschwaecht-werden-2/
+pdf_url: https://parteitag.spd.berlin/app/uploads/pdf/II_2023//Antrag_59II2023_Keine_Festung_Europa_-_Das_EU-Asyl.pdf
+publication_date: ''
+tags: []
+content_hash: 0c4a1e8d7d32
+---
+
+**AntragstellerInnen:** ASJ Landesvorstand
+
+**Adressat:** Der Landesparteitag möge beschließen:Der Bundesparteitag möge beschließen:
+
+## Antragstext
+
+Die Mitglieder der S&D-Fraktion im EU-Parlament sowie die Bundesregierung werden darüber hinaus aufgefordert, der GEAS-Reform nicht zuzustimmen, wenn die folgenden Bedingungen nicht gegeben sind:
+- Die Innenminister*innen der Mitgliedstaaten der Europäischen Union haben sich am 08.06.2023 auf eine Verhandlungsposition zur Asylverfahrensverordnung (AsylVerf-VO) und zur Verordnung über Asyl- und Migrationsmanagement (AMM-VO) geeinigt. Sie wird die Grundlage für die Verhandlungen des Ratsvorsitzes mit dem Europäischen Parlament und der EU-Kommission (Trilog) bilden, um das Gemeinsame Europäische Asylsystem (GEAS) zu reformieren.
+- Die Verhandlungen des Rats der Europäischen Union für die Verordnung im Fall von Krisen, höherer Gewalt und Instrumentalisierung („Krisenverordnung“) finden darüber hinaus derzeit noch statt und sollen in den kommenden Wochen abgeschlossen werden.
+- Die Bundesregierung wird aufgefordert, der „Verordnung im Fall von Krisen, höherer Gewalt und Instrumentalisierung“ im Rat nicht zuzustimmen, sollten die im aktuellen Verordnungstext enthaltenen Abschwächungen der derzeitigen Standards für die Registrierung, Unterbringung und rechtliche Verfahren unter Berufung auf „Instrumentalisierung“, Krisen und „force majeure“ zum Zeitpunkt der Abstimmung nicht vollständig entfernt worden sein.
+- Die SPD-Mitglieder der S&D-Fraktion im EU-Parlament werden aufgefordert, sich bei den Verhandlungen mit dem Rat für die Rechte schutzsuchender Menschen einzusetzen und jegliche Einigung abzulehnen, die diese Grundstandards missachtet. Dies muss insbesondere auch in Fällen von Krisen, höherer Gewalt (,force majeure‘‘) und Instrumentalisierung gelten.
+- Einführung eines echten und effektiven Solidaritäts- und Verteilungsmechanismus füralleAsylsuchenden (nicht nur 30.000, wie aktuell vorgesehen) in der Europäischen Union als Nachfolge des Dublin-III-Verfahrens, welcher die Staaten an den EU-Außengrenzen, insb. die Mittelmeeranrainerstaaten, im Registrierungs- und Entscheidungsprozess nachhaltig finanziell und personell entlastet. Sollten einzelne Mitgliedsstaaten diesen Solidaritätsmechanismus nicht mittragen wollen, muss die Bundesregierung gemeinsam mit gewillten EU-Partnerstaaten vorangehen und ein „Europa der zwei Geschwindigkeiten“ für die Registrierung, Aufnahme und Integration von Flüchtlingen anführen;
+- Einführung eines echten Anreizsystems für die Aufnahme und Integration von Flüchtlingen in Form eines EU-Fonds aller Mitgliedsstaaten, welcher aufnahmewillige Staaten und Kommunen ausreichend finanziell unterstützt;
+- Ein Ablassen von der derzeit geplanten Verwendung der Fiktion der Nicht-Einreise, welche die Rechtsposition der betroffenen weitere verschlechtert und die Schaffung von Haftlagern und Abschiebungen ohne rechtsstaatlich angemessene Verfahren unterstützt.
+- Eine Ablehnung von Grenzverfahren ohne rechtstaatliche Einzelfallprüfung im Sinne der Genfer Flüchtlingskonvention, welche durch die Anerkennungsquote bezüglich eines bestimmten Herkunftslandes oder die auf der Flucht durchquerten Drittstaaten ausgelöst würden. Diese Kriterien dürfen nicht zu einem Maßstab erhoben werden, der über die faktische Inhaftierung von Betroffenen in streng kontrollierten Aufnahmeeinrichtungen entscheidet. Dieser willkürliche Maßstab verstößt gegen die Genfer Flüchtlingskonvention und ist vor dem Hintergrund der Menschenrechtsbetroffenheit bei haftähnlicher Behandlung ohne verpflichtenden Rechtsbeistand völlig ungeeignet;
+- Eine Ausnahme von Familien mit minderjährigen Kindern von jeglicher Form von Grenzverfahren, wobei die Definition „Kind“ entsprechend der UN-Kinderrechtskonvention alle Minderjährigen unter 18 meint;
+- Eine Garantie, dass Menschen mit besonderen Verfahrens- und Unterbringungsbedürfnissen (unter anderem Opfer von Folter, Betroffene von sexualisierter und geschlechtsspezifischer Gewalt sowie des Menschenhandels, LGBTIQ+ und Schwangere) ebenfalls aus den Grenzverfahren ausgenommen werden sowie, dass alle EU-Mitgliedsstaaten kollektiv in den Ausbau adäquater psychologischer, medizinischer und rechtlicher Betreuungskapazitäten dieser Personengruppen investieren;
+- Eine Garantie, dass die Zuständigkeit für die Prüfung eines Asylantrages von unbegleiteten Minderjährigen bei fehlenden Familienangehörigen, die sich rechtmäßig in einem EU-Mitgliedstaat aufhalten, bei dem Mitgliedsstaat liegt, in welchem dieser sich aufhält und seinen Antrag gestellt hat ;
+- Eine Garantie, dass Zivilgesellschafts- und Menschenrechtsorganisationen, medizinisches, psychologisches und juristisches Personal vollumfänglichen Zugang zu Registrierungs- und Aufnahmezentren in allen EU-Mitgliedsstaaten haben. Auch Seenotrettungsorganisationen müssen ohne jegliche Behinderung in EU-Gewässern operieren können, ohne kriminalisiert zu werden. Darüber hinaus ist eine europäisch koordinierte und finanzierte Seenotrettung dringend erforderlich und geboten, um weiteres Sterben an den EU-Außengrenzen zu verhindern;
+- Die tatsächliche verpflichtende Einleitung von Vertragsverletzungsverfahren durch die EU-Kommission ohne jegliche „Übergangsphase“ nach Einführung der GEAS-Reform, um einen Rückstau an Verfahren zu verhindern;
+- Ein Ablassen von den Versuchen, Rückführungsabkommen mit Drittstaaten zu schließen, welche die europäischen Abhängigkeiten von Autokratien befördern und somit dem Ziel der europäischen Souveränität entgegenlaufen. Eine Bestimmung eines ,,sicheren Drittstaates‘‘ durch einzelne Mitgliedstaaten darf nicht stattfinden.
+- Eine völkerrechtskonforme und in Übereinstimmung mit dem Koalitionsvertrag von SPD, Bündnis90/Die Grünen und FDP ausgestaltete GEAS-Reform.
+
+**Empfehlung der Antragskommission:** Erledigt durch 60/II/2023(Konsens)

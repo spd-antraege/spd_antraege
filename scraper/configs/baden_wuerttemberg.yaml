@@ -1,0 +1,39 @@
+state: baden_wuerttemberg
+display_name: "SPD Baden-Württemberg"
+portal_url: "https://www.spd-bw.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "mit änderungen angenommen": "Annahme mit Änderungen"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://www.spd-bw.de/dl/Antragsbuch_mit_Begruendungen_web.pdf"
+    label: "LPT 2024"
+    veranstaltung: "Landesparteitag 2024"
+    year: 2024
+  - url: "https://www.spd-bw.de/dl/2023_LPT_Antragsbuch.pdf"
+    label: "LPT 2023"
+    veranstaltung: "Landesparteitag 2023"
+    year: 2023
+  - url: "https://www.spd-bw.de/dl/Antragsbuch.pdf"
+    label: "LPT 2022"
+    veranstaltung: "Landesparteitag 2022"
+    year: 2022
+  - url: "https://www.spd-bw.de/dl/Antragsbuch-001bis208.pdf"
+    label: "LPT 2011"
+    veranstaltung: "Landesparteitag 2011"
+    year: 2011
+  - url: "https://www.spd-bw.de/dl/Antragsbuch_lpt_ulm_2010.pdf"
+    label: "LPT 2010"
+    veranstaltung: "Landesparteitag 2010"
+    year: 2010
+
+audit:
+  total_motions: 800
+  date_range: "2011-2025"

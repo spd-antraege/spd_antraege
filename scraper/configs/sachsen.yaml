@@ -1,0 +1,29 @@
+state: sachsen
+display_name: "SPD Sachsen"
+portal_url: "https://sachsenspd.de"
+technology: pdf
+
+status_map:
+  "angenommen": "Annahme"
+  "abgelehnt": "Ablehnung"
+  "überwiesen": "Überweisung"
+
+scrape_delay: 2.0
+checkpoint_interval: 50
+
+pdf_sources:
+  - url: "https://sachsenspd.de/wp-content/uploads/sites/86/2025/06/250605-Antragsbuch-003.pdf"
+    label: "LPT 2025"
+    veranstaltung: "Landesparteitag 2025"
+    year: 2025
+  - url: "https://sachsenspd.de/wp-content/uploads/sites/86/2026/01/Beschlussbuch-LPT-2025.pdf"
+    label: "LPT 2025 Beschlüsse"
+    veranstaltung: "Landesparteitag 2025"
+    year: 2025
+# Old URLs on spd-sachsen.de return 500 (site migrated to sachsenspd.de)
+# Also: antraege.spd-sachsen.de web portal (not PDF)
+
+audit:
+  total_motions: 400
+  date_range: "2015-2025"
+  note: "cvtx portal defunct, PDF only"

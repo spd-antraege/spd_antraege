@@ -1,0 +1,20 @@
+[Unit]
+Description=Daily PIS Antraege Sync
+Documentation=https://github.com/andxblink/spd_antraege
+
+[Timer]
+# Run daily at 06:00 Berlin time
+OnCalendar=*-*-* 06:00:00
+Timezone=Europe/Berlin
+
+# If the system was off during the scheduled time, run as soon as possible
+Persistent=true
+
+# Random delay up to 15 minutes to avoid thundering herd
+RandomizedDelaySec=900
+
+# Accuracy is within 1 minute
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target
