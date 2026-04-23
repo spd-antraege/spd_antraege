@@ -1,5 +1,5 @@
 [Unit]
-Description=SPD Antragskorpus — Gradio + API + MCP
+Description=SPD Antragskorpus — Astro + API + MCP
 After=network.target docker.service
 Wants=docker.service
 

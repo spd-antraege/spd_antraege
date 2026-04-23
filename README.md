@@ -9,7 +9,7 @@ Search and analyze SPD Parteitagsanträge (motions/proposals) across all 16 Germ
 - **48,000+ documents** indexed across **16 Landesverbände** — all German SPD state associations
 - **Haystack v2 pipelines** (indexing, search, RAG, extraction) with Elasticsearch
 - **Hybrid search** (BM25 with title boosting + vector + reciprocal rank fusion)
-- **Three public interfaces** at spd-antraege.de: Gradio frontend, REST API (`/api/`), MCP server (`/mcp/`)
+- **Three public interfaces** at spd-antraege.de: Astro frontend, REST API (`/api/`), MCP server (`/mcp/`)
 - **MCP server** with 15 tools — public Streamable HTTP, works with any MCP-compatible AI assistant
 
 ## Architecture
@@ -39,8 +39,25 @@ Search and analyze SPD Parteitagsanträge (motions/proposals) across all 16 Germ
            │                 │                    │
            ▼                 ▼                    ▼
       spd-antraege.de    /api/ (REST)       /mcp/ (MCP)
-       Gradio UI          FastAPI         Streamable HTTP
+     Astro + shadcn/ui    FastAPI         Streamable HTTP
 ```
+
+## Frontend
+
+Astro static site with React + Tailwind CSS + shadcn/ui components. Three tabs:
+
+- **Suche** — hybrid search with collapsible filters (Landesverband, year range, mode), results table, click-to-view motion detail
+- **Fragen (RAG)** — ask questions answered by Claude with source citations from the corpus
+- **Info** — project overview and stats
+
+```bash
+cd frontend
+npm install
+npx astro dev        # dev server
+npx astro build      # static build → dist/
+```
+
+The backend serves `frontend/dist/` as static files — no separate frontend server needed in production.
 
 ## The Corpus
 
@@ -84,6 +101,7 @@ The project went through several iterations: RAGFlow, then Dify (with custom Pyt
 
 ```
 spd_antraege/
+├── frontend/            # Astro + React + shadcn/ui (static build)
 ├── corpus/berlin/       # 4,200+ Berlin source markdown files
 ├── src/spdbe/           # Python package (search, API, MCP, extraction)
 │   └── haystack/        # Haystack v2 components + pipelines
@@ -139,7 +157,7 @@ Three interfaces served by a single uvicorn process:
 
 | Interface | URL | Description |
 |-----------|-----|-------------|
-| **Frontend** | `https://spd-antraege.de/` | Gradio search UI with filters, RAG, CSV export |
+| **Frontend** | `https://spd-antraege.de/` | Astro + shadcn/ui search interface |
 | **REST API** | `https://spd-antraege.de/api/` | FastAPI — search, motion detail, RAG, states, health |
 | **MCP Server** | `https://spd-antraege.de/mcp/` | Streamable HTTP — any MCP-compatible client |
 

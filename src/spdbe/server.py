@@ -1,7 +1,7 @@
-"""Combined ASGI server: Gradio + REST API + MCP Streamable HTTP.
+"""Combined ASGI server: Astro static frontend + REST API + MCP Streamable HTTP.
 
 Routes:
-    /           → Gradio frontend
+    /           → Astro static frontend (from frontend/dist/)
     /api/...    → FastAPI REST API
     /mcp/       → MCP Streamable HTTP (public, for any Claude Code)
 
@@ -12,30 +12,33 @@ Usage:
 from __future__ import annotations
 
 import logging
+from pathlib import Path
+
+from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
 
 logger = logging.getLogger(__name__)
 
+# Static frontend build directory
+FRONTEND_DIST = Path(__file__).resolve().parent.parent.parent / "frontend" / "dist"
 
-def create_app():
-    """Build the combined ASGI application.
 
-    Mount API and MCP onto Gradio's FastAPI app so Gradio handles
-    its own lifecycle properly.
-    """
-    from spdbe.api import api as fastapi_app
-    from spdbe.app import build_app as build_gradio
+def create_app() -> FastAPI:
+    """Build the combined ASGI application."""
+    from spdbe.api import api as api_app
     from spdbe.mcp_http import mcp_asgi
 
-    gradio_blocks = build_gradio()
-    # Gradio v6 requires queue() before using as ASGI app
-    gradio_blocks.queue()
-    gradio_fastapi = gradio_blocks.app
+    main_app = FastAPI(title="SPD Antragskorpus", docs_url=None, openapi_url=None)
 
-    gradio_fastapi.mount("/api", fastapi_app)
-    gradio_fastapi.mount("/mcp", mcp_asgi)
+    main_app.mount("/api", api_app)
+    main_app.mount("/mcp", mcp_asgi)
 
-    return gradio_blocks
+    if FRONTEND_DIST.is_dir():
+        main_app.mount("/", StaticFiles(directory=str(FRONTEND_DIST), html=True))
+    else:
+        logger.warning("Frontend dist not found at %s — serving API only", FRONTEND_DIST)
+
+    return main_app
 
 
-blocks = create_app()
-app = blocks.app
+app = create_app()

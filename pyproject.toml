@@ -32,7 +32,6 @@ haystack = [
     "nltk>=3.9",
 ]
 frontend = [
-    "gradio>=5.0",
     "fastapi>=0.100",
 ]
 

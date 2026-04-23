@@ -290,70 +290,84 @@ def export_csv() -> str | None:
     return tmp.name
 
 
+_CUSTOM_CSS = """
+.gradio-container { max-width: 960px !important; margin: 0 auto !important; }
+.header-block { text-align: center; padding: 1.5rem 0 0.5rem; }
+.header-block h1 { color: #e3000f; font-size: 2rem; margin-bottom: 0.25rem; }
+.header-block p { color: #666; font-size: 0.95rem; margin: 0; }
+.search-bar textarea { font-size: 1.1rem !important; }
+.filter-row { gap: 0.5rem !important; }
+.result-table { font-size: 0.9rem; }
+.detail-panel { border-left: 3px solid #e3000f; padding-left: 1rem; margin-top: 1rem; }
+"""
+
+
 def build_app() -> gr.Blocks:
     """Build the Gradio Blocks app."""
     with gr.Blocks(
         title="SPD Antragskorpus",
+        fill_width=False,
     ) as app:
-        # Set theme directly — Gradio v6 moved it from constructor to launch(),
-        # but ASGI usage (no launch) still needs it for body_css in template
         app.theme = gr.themes.Soft(primary_hue="red")
-        gr.Markdown(
-            "# SPD Antragskorpus\n"
-            "Durchsuche tausende SPD-Parteitagsanträge aus Berlin und weiteren "
-            "Landesverbänden. Hybride Suche: BM25 + Embedding + Reciprocal Rank Fusion.\n\n"
-            "*Datenquelle: [parteitag.spd.berlin](https://parteitag.spd.berlin/antragsverfolgung/)*"
+
+        gr.HTML(f"<style>{_CUSTOM_CSS}</style>")
+
+        gr.HTML(
+            '<div class="header-block">'
+            "<h1>SPD Antragskorpus</h1>"
+            "<p>48.000+ Parteitagsantraege aus 16 Landesverbaenden durchsuchen</p>"
+            "</div>"
         )
 
         # --- Tab 1: Suche ---
         with gr.Tab("Suche"):
-            with gr.Row():
-                query_input = gr.Textbox(
-                    label="Suchbegriff",
-                    placeholder="z.B. Mietpreisbremse, Digitalisierung, Klimaschutz...",
-                    scale=3,
-                )
-                search_btn = gr.Button("Suchen", variant="primary", scale=1)
+            with gr.Group():
+                with gr.Row():
+                    query_input = gr.Textbox(
+                        label="Suchbegriff",
+                        placeholder="z.B. Mietpreisbremse, Digitalisierung, Klimaschutz...",
+                        scale=4,
+                        elem_classes=["search-bar"],
+                    )
+                    search_btn = gr.Button(
+                        "Suchen", variant="primary", scale=1, min_width=120,
+                    )
 
-            with gr.Row():
-                lv_dropdown = gr.Dropdown(
-                    choices=LANDESVERBAND_CHOICES,
-                    value="",
-                    label="Landesverband",
-                )
-                year_min_input = gr.Number(
-                    label="Jahr von",
-                    value=None,
-                    precision=0,
-                )
-                year_max_input = gr.Number(
-                    label="Jahr bis",
-                    value=None,
-                    precision=0,
-                )
-                mode_dropdown = gr.Dropdown(
-                    choices=["hybrid", "bm25", "vector"],
-                    value="hybrid",
-                    label="Suchmodus",
-                )
-                topk_slider = gr.Slider(
-                    minimum=5,
-                    maximum=50,
-                    value=20,
-                    step=5,
-                    label="Ergebnisse",
-                )
+                with gr.Accordion("Filter", open=False):
+                    with gr.Row(elem_classes=["filter-row"]):
+                        lv_dropdown = gr.Dropdown(
+                            choices=LANDESVERBAND_CHOICES,
+                            value="",
+                            label="Landesverband",
+                            scale=2,
+                        )
+                        year_min_input = gr.Number(
+                            label="Von", value=None, precision=0, scale=1,
+                        )
+                        year_max_input = gr.Number(
+                            label="Bis", value=None, precision=0, scale=1,
+                        )
+                        mode_dropdown = gr.Dropdown(
+                            choices=["hybrid", "bm25", "vector"],
+                            value="hybrid",
+                            label="Modus",
+                            scale=1,
+                        )
+                        topk_slider = gr.Slider(
+                            minimum=5, maximum=50, value=20, step=5,
+                            label="Max. Ergebnisse", scale=1,
+                        )
 
             results_table = gr.Dataframe(
-                headers=["Score", "Kürzel", "Jahr", "Titel", "Land", "Status", "Auszug"],
+                headers=["Score", "Kuerzel", "Jahr", "Titel", "Land", "Status", "Auszug"],
                 datatype=["number", "str", "str", "str", "str", "str", "str"],
                 label="Ergebnisse",
                 wrap=True,
+                elem_classes=["result-table"],
             )
 
-            with gr.Row():
-                csv_btn = gr.Button("CSV herunterladen", size="sm")
-                csv_output = gr.File(label="Download", visible=False)
+            csv_btn = gr.Button("CSV herunterladen", size="sm", variant="secondary")
+            csv_output = gr.File(label="Download", visible=False)
 
             search_inputs = [
                 query_input, lv_dropdown, year_min_input,
@@ -365,24 +379,25 @@ def build_app() -> gr.Blocks:
                 fn=lambda: gr.update(visible=True), outputs=csv_output,
             )
 
-            # --- Document detail view ---
-            gr.Markdown("---")
-            with gr.Row():
-                detail_kuerzel = gr.Textbox(
-                    label="Antrag anzeigen",
-                    placeholder="Kürzel aus den Ergebnissen eingeben, z.B. Antrag 134/I/2017",
-                    scale=3,
-                )
-                detail_btn = gr.Button("Anzeigen", scale=1)
+            # --- Document detail ---
+            with gr.Group():
+                gr.Markdown("#### Antrag anzeigen")
+                with gr.Row():
+                    detail_kuerzel = gr.Textbox(
+                        label="Kuerzel",
+                        placeholder="z.B. Antrag 134/I/2017",
+                        scale=4,
+                        show_label=False,
+                    )
+                    detail_btn = gr.Button("Anzeigen", scale=1, min_width=120)
 
             detail_output = gr.Markdown(
-                value="*Kürzel eingeben und klicken, um den vollständigen Antragstext zu sehen.*",
+                value="*Klicke auf eine Zeile in den Ergebnissen oder gib ein Kuerzel ein.*",
+                elem_classes=["detail-panel"],
             )
 
             def on_row_select(evt: gr.SelectData):
-                """When a row is clicked, extract kuerzel and show document."""
                 if evt.index is not None and evt.value is not None:
-                    # Column 1 is Kürzel
                     row_idx = evt.index[0] if isinstance(evt.index, (list, tuple)) else evt.index
                     if _last_results and row_idx < len(_last_results):
                         return _last_results[row_idx]["kuerzel"]
@@ -397,25 +412,25 @@ def build_app() -> gr.Blocks:
         # --- Tab 2: Fragen (RAG) ---
         with gr.Tab("Fragen (RAG)"):
             gr.Markdown(
-                "### Fragen an den Antragskorpus\n\n"
-                "Stelle eine Frage und erhalte eine Antwort basierend auf den "
-                "relevantesten Parteitagsanträgen. Jede Aussage wird mit dem "
-                "Kürzel des Quell-Antrags belegt."
+                "Stelle eine Frage und erhalte eine KI-gestuetzte Antwort "
+                "mit Quellenbelegen aus dem Antragskorpus."
             )
 
-            with gr.Row():
-                rag_query = gr.Textbox(
-                    label="Frage",
-                    placeholder="z.B. Was hat die SPD Berlin zu Mieten beschlossen?",
-                    scale=3,
+            with gr.Group():
+                with gr.Row():
+                    rag_query = gr.Textbox(
+                        label="Frage",
+                        placeholder="z.B. Was hat die SPD Berlin zu Mieten beschlossen?",
+                        scale=4,
+                        elem_classes=["search-bar"],
+                    )
+                    rag_btn = gr.Button("Fragen", variant="primary", scale=1, min_width=120)
+
+                rag_lv = gr.Dropdown(
+                    choices=LANDESVERBAND_CHOICES,
+                    value="",
+                    label="Landesverband (optional)",
                 )
-                rag_btn = gr.Button("Fragen", variant="primary", scale=1)
-
-            rag_lv = gr.Dropdown(
-                choices=LANDESVERBAND_CHOICES,
-                value="",
-                label="Landesverband (optional)",
-            )
 
             rag_answer = gr.Markdown(label="Antwort")
             rag_sources = gr.Markdown(label="Quellen")
@@ -434,26 +449,17 @@ def build_app() -> gr.Blocks:
         # --- Tab 3: Info ---
         with gr.Tab("Info"):
             gr.Markdown(
-                "## Über dieses Tool\n\n"
-                "Dieses Tool durchsucht den SPD-Antragskorpus mit einer hybriden Suchpipeline:\n\n"
-                "1. **BM25** (Schlüsselwortsuche) mit deutschem politischem Analyzer\n"
-                "2. **Embedding-Suche** (semantisch) mit multilingual MiniLM\n"
-                "3. **Reciprocal Rank Fusion** kombiniert beide Ergebnislisten\n\n"
-                "### Datenumfang\n\n"
-                "- 32.000+ Dokumente aus 5 Landesverbänden\n"
-                "- Berlin, Brandenburg, Hamburg, Bayern, Rheinland-Pfalz\n"
-                "- Weitere Landesverbände werden laufend ergänzt\n\n"
-                "### Funktionen\n\n"
-                "- **Suche**: Hybride Suche mit Filtern (Landesverband, Jahr, Modus)\n"
-                "- **Dokumentansicht**: Vollständiger Antragstext per Kürzel\n"
-                "- **Fragen (RAG)**: KI-gestützte Antworten mit Quellenbelegen\n"
-                "- **CSV-Export**: Suchergebnisse herunterladen\n\n"
-                "### Suchmodi\n\n"
-                "- **hybrid**: Kombiniert BM25 + Embedding (empfohlen)\n"
-                "- **bm25**: Nur Schlüsselwortsuche\n"
-                "- **vector**: Nur semantische Ähnlichkeit\n\n"
-                "---\n\n"
-                "*Quellcode: [github.com/spd-antraege](https://github.com/spd-antraege/spd_antraege)*"
+                "## Ueber dieses Tool\n\n"
+                "Hybride Suchpipeline: **BM25** (Schluesselwort) + "
+                "**Embedding** (semantisch) + **Reciprocal Rank Fusion**.\n\n"
+                "| | |\n|---|---|\n"
+                "| Dokumente | 48.000+ |\n"
+                "| Landesverbaende | 16 |\n"
+                "| Zeitraum | 2010 -- 2025 |\n"
+                "| Suchmodi | hybrid, bm25, vector |\n\n"
+                "**Funktionen:** Volltextsuche, Dokumentansicht, "
+                "RAG-Fragen mit Quellenbelegen, CSV-Export.\n\n"
+                "*[Quellcode auf GitHub](https://github.com/spd-antraege/spd_antraege)*"
             )
 
     return app
@@ -476,7 +482,6 @@ def main():
         server_name=args.host,
         server_port=args.port,
         share=args.share,
-        theme=gr.themes.Soft(primary_hue="red"),
         css=".gradio-container { max-width: 1100px; margin: auto; }",
     )
 

@@ -7,6 +7,9 @@ build/
 # Data directories — raw input only
 data/raw/*
 !data/raw/.gitkeep
+data/derived/
+data/pdf_cache/
+data/vectors/
 develop-eggs/
 dist/
 downloads/
@@ -60,6 +63,14 @@ venv/
 # Virtual environments
 .vscode/
 wheels/
+
+# Frontend build artifacts
+frontend/dist/
+frontend/node_modules/
+frontend/.astro/
+
+# Eval backups
+*.bak
 
 # Log files
 scripts/*.txt
