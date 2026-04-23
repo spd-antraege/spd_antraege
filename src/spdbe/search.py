@@ -3,10 +3,13 @@
 from __future__ import annotations
 
 import json
+import logging
 import re
 from pathlib import Path
 
 import numpy as np
+
+logger = logging.getLogger(__name__)
 import pandas as pd
 
 
@@ -85,13 +88,13 @@ def build_vector_index(
 
     df = pd.read_parquet(parquet_path)
 
-    print(f"Loading embedding model: {model_name}")
+    logger.info(f"Loading embedding model: {model_name}")
     model = SentenceTransformer(model_name, device="cpu")
 
     texts = df["text_clean"].fillna("").tolist()
     doc_ids = df["id"].tolist()
 
-    print(f"Computing embeddings for {len(texts)} documents...")
+    logger.info(f"Computing embeddings for {len(texts)} documents...")
     embeddings = model.encode(
         [t[:8000] for t in texts],
         batch_size=batch_size,
@@ -118,7 +121,7 @@ def build_vector_index(
     if "documents" in db.table_names():
         db.drop_table("documents")
     db.create_table("documents", data)
-    print(f"Vector index built: {len(data)} documents → {lance_dir}")
+    logger.info(f"Vector index built: {len(data)} documents → {lance_dir}")
 
 
 def vector_search(
@@ -426,14 +429,14 @@ if __name__ == "__main__":
         build_vector_index(parquet_path, lance_dir)
     elif len(sys.argv) > 1 and sys.argv[1] == "federated":
         fs = FederatedSearch(data_dir)
-        print(f"Available states: {fs.available_states}")
+        logger.info(f"Available states: {fs.available_states}")
         for info in fs.state_info():
-            print(f"  {info['state']}: {info['doc_count']} docs")
+            logger.info(f"  {info['state']}: {info['doc_count']} docs")
         query = sys.argv[2] if len(sys.argv) > 2 else "Mietpreisbremse"
         states = sys.argv[3] if len(sys.argv) > 3 else "all"
         results = fs.search(query, states=states, top_k=5, mode="bm25")
         for r in results:
-            print(f"  {r['score']:.3f}  [{r.get('landesverband', '?')}]  {r.get('kuerzel', '?'):30s}  {r.get('title', '')[:50]}")
+            logger.info(f"  {r['score']:.3f}  [{r.get('landesverband', '?')}]  {r.get('kuerzel', '?'):30s}  {r.get('title', '')[:50]}")
     else:
         # Quick BM25-only test (legacy)
         parquet_path = Path("data/derived/antraege.parquet")
@@ -443,4 +446,4 @@ if __name__ == "__main__":
         query = sys.argv[1] if len(sys.argv) > 1 else "Mietpreisbremse"
         results = hs.search(query, top_k=5, mode="bm25")
         for r in results:
-            print(f"  {r['score']:.3f}  {r.get('kuerzel', '?'):30s}  {r.get('title', '')[:60]}")
+            logger.info(f"  {r['score']:.3f}  {r.get('kuerzel', '?'):30s}  {r.get('title', '')[:60]}")

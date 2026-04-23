@@ -2,8 +2,10 @@
 
 from __future__ import annotations
 
-import sys
+import logging
 from pathlib import Path
+
+logger = logging.getLogger(__name__)
 
 import pandas as pd
 
@@ -28,7 +30,7 @@ def run_pipeline(
     # --- Stage A: Ingest ---
     paths = discover_corpus(md_dir)
     if verbose:
-        print(f"Stage A: Found {len(paths)} files", file=sys.stderr)
+        logger.info(f"Stage A: Found {len(paths)} files")
 
     raw_records = []
     parse_errors = []
@@ -40,7 +42,7 @@ def run_pipeline(
             parse_errors.append({"path": str(path), "error": str(e)})
 
     if verbose:
-        print(f"Stage A: Parsed {len(raw_records)}, errors: {len(parse_errors)}", file=sys.stderr)
+        logger.info(f"Stage A: Parsed {len(raw_records)}, errors: {len(parse_errors)}")
 
     # --- Stage B: Normalize ---
     for doc in raw_records:
@@ -66,7 +68,7 @@ def run_pipeline(
         doc["tag_count"] = len(doc.get("tags_raw", []))
 
     if verbose:
-        print(f"Stage B: Normalized {len(raw_records)} records", file=sys.stderr)
+        logger.info(f"Stage B: Normalized {len(raw_records)} records")
 
     # --- Stage C: Text cleaning ---
     # First pass: collect all texts for boilerplate index
@@ -74,7 +76,7 @@ def run_pipeline(
     boilerplate_index = build_boilerplate_index(all_texts, threshold=boilerplate_threshold)
 
     if verbose:
-        print(f"Stage C: Built boilerplate index ({len(boilerplate_index)} phrases)", file=sys.stderr)
+        logger.info(f"Stage C: Built boilerplate index ({len(boilerplate_index)} phrases)")
 
     # Compute tag_count p95 for quality flag
     tag_counts = sorted(doc["tag_count"] for doc in raw_records)
@@ -101,7 +103,7 @@ def run_pipeline(
         doc["conversion_artifacts_hint"] = _check_conversion_artifacts(text_md)
 
     if verbose:
-        print(f"Stage C: Cleaned {len(raw_records)} records", file=sys.stderr)
+        logger.info(f"Stage C: Cleaned {len(raw_records)} records")
 
     # --- Build DataFrame ---
     columns = [
@@ -133,10 +135,10 @@ def run_pipeline(
     df.to_parquet(output_path, index=False, engine="pyarrow")
 
     if verbose:
-        print(f"Output: {len(df)} rows → {output_path}", file=sys.stderr)
-        print(f"  Date parse rate: {df['date_parse_ok'].mean():.1%}", file=sys.stderr)
-        print(f"  Missing text: {df['missing_text'].sum()}", file=sys.stderr)
-        print(f"  Avg word count: {df['word_count'].mean():.0f}", file=sys.stderr)
+        logger.info(f"Output: {len(df)} rows → {output_path}")
+        logger.info(f"  Date parse rate: {df['date_parse_ok'].mean():.1%}")
+        logger.info(f"  Missing text: {df['missing_text'].sum()}")
+        logger.info(f"  Avg word count: {df['word_count'].mean():.0f}")
 
     return df
 
