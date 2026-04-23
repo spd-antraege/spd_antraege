@@ -4,8 +4,16 @@ build-backend = "hatchling.build"
 
 [project]
 name = "spdbe"
-version = "0.1.0"
+version = "1.0.0"
+description = "Search and analyze 48,000+ SPD Parteitagsanträge across all 16 German state associations"
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "andxblink" }]
 requires-python = ">=3.11"
+
+[project.urls]
+Homepage = "https://spd-antraege.de"
+Repository = "https://github.com/spd-antraege/spd_antraege"
 dependencies = [
     "pyyaml>=6.0",
     "pandas>=2.0",
