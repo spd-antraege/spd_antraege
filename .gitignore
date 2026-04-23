@@ -1,83 +1,45 @@
-*~
-*$py.class
-build/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.venv/
+venv/
+
+# Testing & coverage
 .coverage
-# Coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE & OS
+.idea/
+.vscode/
 .cursor/
-# Data directories — raw input only
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Data
 data/raw/*
 !data/raw/.gitkeep
 data/derived/
 data/pdf_cache/
 data/vectors/
-develop-eggs/
-dist/
-downloads/
-.DS_Store
-*.egg
-*.egg-info/
-.eggs/
-eggs/
-.env
-env/
-ENV/
-# Environment
-.env.local
-htmlcov/
-# IDE
-.idea/
-.installed.cfg
-*.ipynb_checkpoints/
-lib/
-lib64/
-*.local
-# mypy
-.mypy_cache/
-# Notebooks checkpoints
-notebooks/.ipynb_checkpoints/
-# OS
-parts/
-__pycache__/
-*.py[cod]
-.pytest_cache/
-# Python
-.Python
-reports/*
-# Reports (generated, not committed by default)
-!reports/.gitkeep
-# ruff
-.ruff_cache/
-sdist/
-# Secrets
-secrets.md
-# Secrets (never commit)
-*.so
-*.swo
-*.swp
-Thumbs.db
-USER_INPUT/
-# User input data (symlinked to data/raw)
-var/
-.venv/
-venv/
-# Virtual environments
-.vscode/
-wheels/
 
-# Frontend build artifacts
+# Frontend
 frontend/dist/
 frontend/node_modules/
 frontend/.astro/
 
-# Eval backups
+# Secrets
+.env
+.env.local
+secrets.md
+
+# Generated
 *.bak
-
-# Log files
-scripts/*.txt
-scripts/*.log
 *.log
-
-# Python
-__pycache__/
-*.pyc
-.pytest_cache/
+scripts/*.txt
