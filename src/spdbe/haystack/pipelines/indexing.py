@@ -5,7 +5,10 @@ MotionNormalizer -> DocumentSplitter -> Embedder -> DocumentWriter(ES)
 
 from __future__ import annotations
 
+import logging
 from pathlib import Path
+
+logger = logging.getLogger(__name__)
 
 from haystack import Pipeline
 from haystack.components.embedders import SentenceTransformersDocumentEmbedder
@@ -110,7 +113,7 @@ def run_indexing(
     sources = [str(p) for p in discover_corpus(md_dir)]
 
     if verbose:
-        print(f"Found {len(sources)} .md files in {md_dir}")
+        logger.info(f"Found {len(sources)} .md files in {md_dir}")
 
     pipe = build_indexing_pipeline(
         es_host=es_host,
@@ -121,13 +124,13 @@ def run_indexing(
     )
 
     if verbose:
-        print("Running indexing pipeline...")
+        logger.info("Running indexing pipeline...")
 
     result = pipe.run({"normalizer": {"sources": sources}})
 
     if verbose:
         written = result.get("writer", {}).get("documents_written", 0)
-        print(f"Indexed {written} documents into {index_name}")
+        logger.info(f"Indexed {written} documents into {index_name}")
 
     return result
 
@@ -197,7 +200,7 @@ def run_indexing_from_parquet(
     df = pd.read_parquet(parquet_path)
 
     if verbose:
-        print(f"Loaded {len(df)} rows from {parquet_path}")
+        logger.info(f"Loaded {len(df)} rows from {parquet_path}")
 
     # Convert parquet rows to Haystack Documents
     documents = []
@@ -234,7 +237,7 @@ def run_indexing_from_parquet(
         ))
 
     if verbose:
-        print(f"Built {len(documents)} Documents from parquet")
+        logger.info(f"Built {len(documents)} Documents from parquet")
 
     pipe = build_parquet_indexing_pipeline(
         es_host=es_host,
@@ -246,6 +249,6 @@ def run_indexing_from_parquet(
 
     if verbose:
         written = result.get("writer", {}).get("documents_written", 0)
-        print(f"Indexed {written} documents into {index_name}")
+        logger.info(f"Indexed {written} documents into {index_name}")
 
     return result
