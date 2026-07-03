@@ -86,6 +86,58 @@ def build_search_pipeline(
     return pipe
 
 
+def build_bm25_search_pipeline(
+    es_host: str = DEFAULT_ES_HOST,
+    index_name: str = DEFAULT_INDEX,
+    top_k: int = 20,
+) -> Pipeline:
+    """Build a BM25-only search pipeline.
+
+    The hybrid pipeline's joiner requires both BM25 and embedding inputs.
+    BM25-only mode therefore needs its own pipeline shape.
+    """
+    doc_store = create_document_store(hosts=es_host, index=index_name)
+
+    pipe = Pipeline()
+    pipe.add_component(
+        "bm25_retriever",
+        BoostedBM25Retriever(
+            document_store=doc_store,
+            top_k=top_k,
+            title_boost=3,
+        ),
+    )
+    return pipe
+
+
+def build_vector_search_pipeline(
+    es_host: str = DEFAULT_ES_HOST,
+    index_name: str = DEFAULT_INDEX,
+    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
+    top_k: int = 20,
+) -> Pipeline:
+    """Build a vector-only search pipeline."""
+    doc_store = create_document_store(hosts=es_host, index=index_name)
+
+    pipe = Pipeline()
+    pipe.add_component(
+        "text_embedder",
+        SentenceTransformersTextEmbedder(
+            model=embedding_model,
+            normalize_embeddings=True,
+        ),
+    )
+    pipe.add_component(
+        "embedding_retriever",
+        ElasticsearchEmbeddingRetriever(
+            document_store=doc_store,
+            top_k=top_k,
+        ),
+    )
+    pipe.connect("text_embedder.embedding", "embedding_retriever.query_embedding")
+    return pipe
+
+
 def run_search(
     query: str,
     es_host: str = DEFAULT_ES_HOST,
@@ -110,31 +162,53 @@ def run_search(
     Returns:
         List of result dicts with doc_id, score, kuerzel, title, year, snippet.
     """
-    pipe = build_search_pipeline(
-        es_host=es_host,
-        index_name=index_name,
-        embedding_model=embedding_model,
-        top_k=top_k,
-    )
+    if mode not in ("hybrid", "bm25", "vector"):
+        raise ValueError("mode must be hybrid, bm25, or vector")
 
     # Build Elasticsearch filters
     filters = _build_filters(landesverband, year_min, year_max, submitter_type)
 
-    # Build pipeline input based on mode
-    pipeline_input: dict[str, Any] = {}
-
-    if mode in ("hybrid", "bm25"):
-        pipeline_input["bm25_retriever"] = {"query": query}
+    if mode == "bm25":
+        pipe = build_bm25_search_pipeline(
+            es_host=es_host,
+            index_name=index_name,
+            top_k=top_k,
+        )
+        pipeline_input: dict[str, Any] = {"bm25_retriever": {"query": query}}
         if filters:
             pipeline_input["bm25_retriever"]["filters"] = filters
+        result = pipe.run(pipeline_input)
+        documents = result.get("bm25_retriever", {}).get("documents", [])
 
-    if mode in ("hybrid", "vector"):
-        pipeline_input["text_embedder"] = {"text": query}
+    elif mode == "vector":
+        pipe = build_vector_search_pipeline(
+            es_host=es_host,
+            index_name=index_name,
+            embedding_model=embedding_model,
+            top_k=top_k,
+        )
+        pipeline_input = {"text_embedder": {"text": query}}
         if filters:
             pipeline_input["embedding_retriever"] = {"filters": filters}
+        result = pipe.run(pipeline_input)
+        documents = result.get("embedding_retriever", {}).get("documents", [])
 
-    result = pipe.run(pipeline_input)
-    documents = result.get("joiner", {}).get("documents", [])
+    else:
+        pipe = build_search_pipeline(
+            es_host=es_host,
+            index_name=index_name,
+            embedding_model=embedding_model,
+            top_k=top_k,
+        )
+        pipeline_input = {
+            "bm25_retriever": {"query": query},
+            "text_embedder": {"text": query},
+        }
+        if filters:
+            pipeline_input["bm25_retriever"]["filters"] = filters
+            pipeline_input["embedding_retriever"] = {"filters": filters}
+        result = pipe.run(pipeline_input)
+        documents = result.get("joiner", {}).get("documents", [])
 
     # Convert to result dicts, deduplicating chunks by kuerzel (keep highest score)
     seen: set[str] = set()

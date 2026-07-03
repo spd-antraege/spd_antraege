@@ -293,6 +293,23 @@ class TestPipelineBuilds:
         assert "embedding_retriever" in pipe.graph.nodes
         assert "joiner" in pipe.graph.nodes
 
+    def test_bm25_search_pipeline_builds(self):
+        from spdbe.haystack.pipelines.search import build_bm25_search_pipeline
+
+        pipe = build_bm25_search_pipeline()
+        assert "bm25_retriever" in pipe.graph.nodes
+        assert "text_embedder" not in pipe.graph.nodes
+        assert "joiner" not in pipe.graph.nodes
+
+    def test_vector_search_pipeline_builds(self):
+        from spdbe.haystack.pipelines.search import build_vector_search_pipeline
+
+        pipe = build_vector_search_pipeline()
+        assert "text_embedder" in pipe.graph.nodes
+        assert "embedding_retriever" in pipe.graph.nodes
+        assert "bm25_retriever" not in pipe.graph.nodes
+        assert "joiner" not in pipe.graph.nodes
+
     def test_rag_pipeline_builds(self):
         import os
 
@@ -330,3 +347,144 @@ class TestPipelineBuilds:
         yaml_str = pipe.dumps()
         assert "bm25_retriever" in yaml_str
         assert "joiner" in yaml_str
+
+
+class TestSearchModeRouting:
+    def _doc(self):
+        return Document(
+            id="doc-1",
+            content="Snippet content",
+            score=2.5,
+            meta={
+                "kuerzel": "Antrag 1/I/2025",
+                "title": "Test motion",
+                "year": 2025,
+                "status_raw": "Annahme",
+                "submitter_type": "AG",
+                "landesverband": "berlin",
+            },
+        )
+
+    def test_bm25_mode_uses_bm25_only_pipeline(self, monkeypatch):
+        from spdbe.haystack.pipelines import search as search_mod
+
+        captured = {}
+
+        class FakePipe:
+            def run(self, pipeline_input):
+                captured["input"] = pipeline_input
+                return {"bm25_retriever": {"documents": [self_doc]}}
+
+        self_doc = self._doc()
+
+        def fake_build(**kwargs):
+            captured["builder"] = "bm25"
+            captured["kwargs"] = kwargs
+            return FakePipe()
+
+        monkeypatch.setattr(search_mod, "build_bm25_search_pipeline", fake_build)
+        monkeypatch.setattr(
+            search_mod,
+            "build_search_pipeline",
+            lambda **_: pytest.fail("hybrid pipeline should not be built"),
+        )
+        monkeypatch.setattr(
+            search_mod,
+            "build_vector_search_pipeline",
+            lambda **_: pytest.fail("vector pipeline should not be built"),
+        )
+
+        results = search_mod.run_search(
+            "Mietpreisbremse",
+            mode="bm25",
+            landesverband="berlin",
+            year_min=2025,
+            top_k=7,
+        )
+
+        assert captured["builder"] == "bm25"
+        assert captured["kwargs"]["top_k"] == 7
+        assert "text_embedder" not in captured["input"]
+        assert captured["input"]["bm25_retriever"]["query"] == "Mietpreisbremse"
+        assert captured["input"]["bm25_retriever"]["filters"]
+        assert results[0]["kuerzel"] == "Antrag 1/I/2025"
+
+    def test_vector_mode_uses_vector_only_pipeline(self, monkeypatch):
+        from spdbe.haystack.pipelines import search as search_mod
+
+        captured = {}
+
+        class FakePipe:
+            def run(self, pipeline_input):
+                captured["input"] = pipeline_input
+                return {"embedding_retriever": {"documents": [self_doc]}}
+
+        self_doc = self._doc()
+
+        def fake_build(**kwargs):
+            captured["builder"] = "vector"
+            captured["kwargs"] = kwargs
+            return FakePipe()
+
+        monkeypatch.setattr(search_mod, "build_vector_search_pipeline", fake_build)
+        monkeypatch.setattr(
+            search_mod,
+            "build_search_pipeline",
+            lambda **_: pytest.fail("hybrid pipeline should not be built"),
+        )
+        monkeypatch.setattr(
+            search_mod,
+            "build_bm25_search_pipeline",
+            lambda **_: pytest.fail("bm25 pipeline should not be built"),
+        )
+
+        results = search_mod.run_search(
+            "Mietpreisbremse",
+            mode="vector",
+            landesverband="berlin",
+            year_min=2025,
+            top_k=7,
+        )
+
+        assert captured["builder"] == "vector"
+        assert captured["kwargs"]["top_k"] == 7
+        assert "bm25_retriever" not in captured["input"]
+        assert captured["input"]["text_embedder"]["text"] == "Mietpreisbremse"
+        assert captured["input"]["embedding_retriever"]["filters"]
+        assert results[0]["kuerzel"] == "Antrag 1/I/2025"
+
+    def test_hybrid_mode_uses_hybrid_pipeline(self, monkeypatch):
+        from spdbe.haystack.pipelines import search as search_mod
+
+        captured = {}
+
+        class FakePipe:
+            def run(self, pipeline_input):
+                captured["input"] = pipeline_input
+                return {"joiner": {"documents": [self_doc]}}
+
+        self_doc = self._doc()
+
+        def fake_build(**kwargs):
+            captured["builder"] = "hybrid"
+            return FakePipe()
+
+        monkeypatch.setattr(search_mod, "build_search_pipeline", fake_build)
+        monkeypatch.setattr(
+            search_mod,
+            "build_bm25_search_pipeline",
+            lambda **_: pytest.fail("bm25 pipeline should not be built"),
+        )
+        monkeypatch.setattr(
+            search_mod,
+            "build_vector_search_pipeline",
+            lambda **_: pytest.fail("vector pipeline should not be built"),
+        )
+
+        results = search_mod.run_search("Mietpreisbremse", mode="hybrid", landesverband="berlin")
+
+        assert captured["builder"] == "hybrid"
+        assert captured["input"]["bm25_retriever"]["query"] == "Mietpreisbremse"
+        assert captured["input"]["text_embedder"]["text"] == "Mietpreisbremse"
+        assert captured["input"]["embedding_retriever"]["filters"]
+        assert results[0]["kuerzel"] == "Antrag 1/I/2025"
