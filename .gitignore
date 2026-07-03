@@ -43,3 +43,4 @@ secrets.md
 *.bak
 *.log
 scripts/*.txt
+evals/reports/

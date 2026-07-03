@@ -1,0 +1,367 @@
+version: 1
+description: "Starter retrieval eval for SPD Antraege search. Cases are motion-level, not chunk-level."
+defaults:
+  top_k: 10
+cases:
+  - id: mietpreisbremse_hamburg_exact
+    query: "Mietpreisbremse"
+    query_type: exact_keyword
+    expected:
+      kuerzel_any: ["2024/II/Woh/1"]
+      terms_any: ["mietpreisbremse"]
+
+  - id: mietpreisbremse_hessen_filtered
+    query: "Mietpreisbremse"
+    query_type: filtered
+    filters:
+      landesverband: hessen
+      year_min: 2022
+      year_max: 2022
+    expected:
+      kuerzel_any: ["115", "LPT-10/2022", "LPT-11"]
+      landesverband: hessen
+      year: 2022
+      terms_any: ["mietpreisbremse"]
+
+  - id: mietpreisbremse_hessen_question
+    query: "Was sagt die SPD Hessen zur Mietpreisbremse?"
+    query_type: natural_language
+    filters:
+      landesverband: hessen
+    expected:
+      kuerzel_any: ["115", "LPT-10/2022", "LPT-11"]
+      landesverband: hessen
+      terms_any: ["mietpreisbremse", "moeblierte", "möblierte"]
+
+  - id: moeblierte_wohnungen_hessen
+    query: "Schlupfloch fuer moeblierte Wohnungen schliessen"
+    query_type: natural_language
+    filters:
+      landesverband: hessen
+      year_min: 2022
+      year_max: 2022
+    expected:
+      kuerzel_any: ["LPT-10/2022", "LPT-11"]
+      landesverband: hessen
+      year: 2022
+      terms_any: ["moeblierte", "möblierte", "schlupfloch"]
+
+  - id: kita_berlin_2024
+    query: "Kita Berlin 2024"
+    query_type: filtered
+    filters:
+      landesverband: berlin
+      year_min: 2024
+      year_max: 2024
+    expected:
+      kuerzel_any: ["Antrag 47/II/2024", "Antrag 61/II/2024"]
+      landesverband: berlin
+      year: 2024
+      terms_any: ["kita", "kitas"]
+
+  - id: kita_eigenbetriebe_berlin_2025
+    query: "Kita-Eigenbetriebe wirtschaftlich staerken"
+    query_type: exact_keyword
+    filters:
+      landesverband: berlin
+      year_min: 2025
+      year_max: 2025
+    expected:
+      kuerzel_any: ["Antrag 61/II/2025"]
+      landesverband: berlin
+      year: 2025
+      status_contains: "Annahme"
+
+  - id: kitaaufnahmezeiten
+    query: "Kitaaufnahmezeiten flexibler gestalten"
+    query_type: exact_keyword
+    expected:
+      kuerzel_any: ["Antrag 90/II/2018"]
+      terms_any: ["kitaaufnahmezeiten", "kita"]
+
+  - id: schulmittagessen_berlin_2025
+    query: "Schulmittagessen verpflichtende Anmeldesysteme stoppen"
+    query_type: exact_keyword
+    filters:
+      landesverband: berlin
+      year_min: 2025
+      year_max: 2025
+    expected:
+      kuerzel_any: ["Antrag 131/I/2025"]
+      landesverband: berlin
+      year: 2025
+      status_contains: "Annahme"
+      terms_any: ["schulmittagessen"]
+
+  - id: kostenfreies_mittagessen_2017
+    query: "Kinder Recht voller Magen kostenfreies Mittagessen"
+    query_type: natural_language
+    filters:
+      landesverband: berlin
+      year_min: 2017
+      year_max: 2017
+    expected:
+      kuerzel_any: ["Antrag 45/II/2017"]
+      landesverband: berlin
+      year: 2017
+      terms_any: ["mittagessen", "magen"]
+
+  - id: berlinpass_but_schulmittagessen
+    query: "BerlinPass BuT Schulmittagessen Bildungszugang"
+    query_type: exact_keyword
+    expected:
+      kuerzel_any: ["Antrag 82/II/2017"]
+      terms_any: ["schulmittagessen", "berlinpass", "but"]
+
+  - id: polizei_hessen_sicherheit
+    query: "Polizei Sicherheit Hessen"
+    query_type: filtered
+    filters:
+      landesverband: hessen
+    expected:
+      kuerzel_any: ["F8"]
+      landesverband: hessen
+      terms_any: ["polizei", "sicherheit"]
+
+  - id: polizeigewalt_nrw
+    query: "rechtswidrige Polizeigewalt Rassismus"
+    query_type: exact_keyword
+    filters:
+      landesverband: nrw
+      year_min: 2023
+      year_max: 2023
+    expected:
+      kuerzel_any: ["IR-06"]
+      landesverband: nrw
+      year: 2023
+      terms_any: ["polizeigewalt", "rassismus"]
+
+  - id: polizeiwache_kotti
+    query: "Keine Polizeiwache am Kotti"
+    query_type: exact_keyword
+    filters:
+      landesverband: berlin
+      year_min: 2022
+      year_max: 2022
+    expected:
+      kuerzel_any: ["Antrag 163/II/2022"]
+      landesverband: berlin
+      year: 2022
+      terms_any: ["polizeiwache", "kotti"]
+
+  - id: polizeibeauftragte_brandenburg
+    query: "Polizeibeauftragte Buergerbeauftragte Brandenburg"
+    query_type: natural_language
+    filters:
+      landesverband: brandenburg
+      year_min: 2022
+      year_max: 2022
+    expected:
+      kuerzel_any: ["80/I/2022"]
+      landesverband: brandenburg
+      year: 2022
+      terms_any: ["polizeibeauftragte", "buergerbeauftragten", "bürgerbeauftragten"]
+
+  - id: wohnen_rlp_2025
+    query: "Recht auf Wohnen bezahlbarer Wohnraum Rheinland-Pfalz"
+    query_type: natural_language
+    filters:
+      landesverband: rlp
+      year_min: 2025
+      year_max: 2025
+    expected:
+      kuerzel_any: ["2025/B/1"]
+      landesverband: rlp
+      year: 2025
+      terms_any: ["wohnen", "wohnraum"]
+
+  - id: bezahlbarer_wohnraum
+    query: "bezahlbarer Wohnraum"
+    query_type: exact_keyword
+    expected:
+      kuerzel_any: ["41/I/2017", "Antrag 134/I/2017", "75/I/2025"]
+      terms_any: ["wohnraum", "bezahlbar"]
+
+  - id: deutsche_wohnen_enteignen
+    query: "Deutsche Wohnen enteignen"
+    query_type: exact_keyword
+    filters:
+      landesverband: berlin
+    expected:
+      kuerzel_any: ["Antrag 70/I/2019", "Antrag 87/II/2019", "Antrag 304/II/2019"]
+      landesverband: berlin
+      terms_any: ["deutsche wohnen", "enteignen"]
+
+  - id: sozialer_wohnungsbau_berlin_2023
+    query: "Bezahlbare Mieten sozialer Wohnungsbau landeseigene Wohnungsunternehmen"
+    query_type: natural_language
+    filters:
+      landesverband: berlin
+      year_min: 2023
+      year_max: 2023
+    expected:
+      kuerzel_any: ["Antrag 25/II/2023"]
+      landesverband: berlin
+      year: 2023
+      terms_any: ["sozialer wohnungsbau", "mieten"]
+
+  - id: wasserstoff_wirtschaft
+    query: "Wasserstoff-Wirtschaft Energie"
+    query_type: exact_keyword
+    filters:
+      landesverband: schleswig_holstein
+    expected:
+      kuerzel_any: ["En2"]
+      landesverband: schleswig_holstein
+      terms_any: ["wasserstoff", "energie"]
+
+  - id: energiewende_schleswig_holstein
+    query: "Energiewende erfolgreich fortsetzen"
+    query_type: exact_keyword
+    filters:
+      landesverband: schleswig_holstein
+    expected:
+      kuerzel_any: ["U1", "U3"]
+      landesverband: schleswig_holstein
+      terms_any: ["energiewende", "erneuerbare"]
+
+  - id: klima_energie_fahrplan
+    query: "Klima und Energie Fahrplan SPD"
+    query_type: natural_language
+    expected:
+      kuerzel_any: ["50", "51"]
+      terms_any: ["klima", "energie"]
+
+  - id: palantir_all
+    query: "Palantir"
+    query_type: exact_keyword
+    expected:
+      kuerzel_any: ["20/I/2026", "2026/I/Eur/2", "2025/KL/3"]
+      terms_any: ["palantir"]
+
+  - id: palantir_brandenburg_2026
+    query: "Palantir Brandenburg Grundrechte digitale Souveraenitaet"
+    query_type: filtered
+    filters:
+      landesverband: brandenburg
+      year_min: 2026
+      year_max: 2026
+    expected:
+      kuerzel_any: ["20/I/2026"]
+      landesverband: brandenburg
+      year: 2026
+      status_contains: "Annahme"
+      terms_any: ["palantir"]
+
+  - id: palantir_hamburg_2026
+    query: "ICE Trump Palantir Daten Hamburg"
+    query_type: filtered
+    filters:
+      landesverband: hamburg
+      year_min: 2026
+      year_max: 2026
+    expected:
+      kuerzel_any: ["2026/I/Eur/2"]
+      landesverband: hamburg
+      year: 2026
+      status_contains: "Annahme"
+      terms_any: ["palantir", "daten"]
+
+  - id: i_2026_filtered
+    query: "I/2026"
+    query_type: filtered
+    filters:
+      year_min: 2026
+      year_max: 2026
+    expected:
+      kuerzel_any: ["2026/I/Bez/4", "2026/I/Teilh/6", "37/I/2026", "2026/I//2", "2026/I/Recht/10"]
+      year: 2026
+
+  - id: exact_20_i_2026
+    query: "20/I/2026"
+    query_type: exact_keyword
+    filters:
+      landesverband: brandenburg
+      year_min: 2026
+      year_max: 2026
+    expected:
+      kuerzel_any: ["20/I/2026"]
+      landesverband: brandenburg
+      year: 2026
+
+  - id: landesparteitag_i_2026_question
+    query: "Welche Antraege gibt es zum Landesparteitag I/2026?"
+    query_type: natural_language
+    filters:
+      year_min: 2026
+      year_max: 2026
+    expected:
+      kuerzel_any: ["2026/I/Bez/4", "2026/I/Teilh/6", "37/I/2026", "2026/I//2", "2026/I/Recht/10"]
+      year: 2026
+
+  - id: frauen_listenplatz_1
+    query: "Frauen auf Listenplatz 1"
+    query_type: exact_keyword
+    filters:
+      landesverband: berlin
+      year_min: 2025
+      year_max: 2025
+    expected:
+      kuerzel_any: ["Antrag 42/I/2025"]
+      landesverband: berlin
+      year: 2025
+      terms_any: ["listenplatz"]
+
+  - id: fruehkindliche_bildung_kitas
+    query: "Fruehkindliche Bildung in Kitas sichern Beschaeftigte unterstuetzen"
+    query_type: natural_language
+    filters:
+      landesverband: berlin
+      year_min: 2024
+      year_max: 2024
+    expected:
+      kuerzel_any: ["Antrag 47/II/2024"]
+      landesverband: berlin
+      year: 2024
+      terms_any: ["kitas", "fruehkindliche", "frühkindliche"]
+
+  - id: ganztagsschule_baden_wuerttemberg
+    query: "Ganztagsschule gut gestalten"
+    query_type: exact_keyword
+    filters:
+      landesverband: baden_wuerttemberg
+      year_min: 2024
+      year_max: 2024
+    expected:
+      kuerzel_any: ["B08"]
+      landesverband: baden_wuerttemberg
+      year: 2024
+      terms_any: ["ganztagsschule"]
+
+  - id: negative_quantensteuer
+    query: "Quantensteuer fuer Mondkolonien"
+    query_type: negative
+    should_find: false
+    expected:
+      terms_any: ["quantensteuer", "mondkolonien"]
+
+  - id: negative_marsbahn
+    query: "Marsbahn Tempelhofer Feld 2099"
+    query_type: negative
+    should_find: false
+    expected:
+      terms_any: ["marsbahn", "2099"]
+
+  - id: negative_teleportation
+    query: "Pflicht zur Teleportation im Nahverkehr"
+    query_type: negative
+    should_find: false
+    expected:
+      terms_any: ["teleportation"]
+
+  - id: negative_lasersteuer
+    query: "Lasersteuer fuer Mondkolonien und Orbitalkitas"
+    query_type: negative
+    should_find: false
+    expected:
+      terms_any: ["lasersteuer", "orbitalkitas"]
