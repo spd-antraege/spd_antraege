@@ -184,9 +184,11 @@ python -m scraper.pipeline --all
 
 # Index into Elasticsearch
 spdbe haystack index-parquet data/derived/nrw/antraege.parquet
+
+# Index all derived parquet corpora
+spdbe haystack index-derived --input data/derived --verbose
 ```
 
 ## Secrets & Environment
 
 **This is a public repo. No secrets are stored in the codebase.**
-

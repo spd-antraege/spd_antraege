@@ -98,6 +98,37 @@ def index_parquet(parquet_path, es_host, index_name, embedding_model, verbose):
     click.echo(f"Indexed {written} documents into {index_name}")
 
 
+@haystack.command("index-derived")
+@click.option(
+    "--input",
+    "derived_dir",
+    type=click.Path(exists=True, file_okay=False, path_type=Path),
+    default="data/derived",
+    help="Directory containing */antraege.parquet files",
+)
+@click.option("--es-host", default=DEFAULT_ES_HOST)
+@click.option("--index", "index_name", default=DEFAULT_INDEX)
+@click.option("--model", "embedding_model", default=DEFAULT_EMBEDDING_MODEL)
+@click.option("--verbose", is_flag=True)
+def index_derived(derived_dir, es_host, index_name, embedding_model, verbose):
+    """Index all derived state parquet files into Elasticsearch."""
+    from spdbe.haystack.pipelines.indexing import run_indexing_from_derived_parquets
+
+    result = run_indexing_from_derived_parquets(
+        derived_dir=derived_dir,
+        es_host=es_host,
+        index_name=index_name,
+        embedding_model=embedding_model,
+        verbose=verbose,
+    )
+    loader = result.get("loader", {})
+    written = result.get("writer", {}).get("documents_written", 0)
+    click.echo(
+        f"Indexed {written} documents into {index_name} "
+        f"from {loader.get('parquet_files', 0)} parquet files"
+    )
+
+
 @haystack.command()
 @click.argument("query")
 @click.option("--es-host", default=DEFAULT_ES_HOST)

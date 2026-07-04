@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import logging
 from pathlib import Path
+from typing import Iterable
 
 logger = logging.getLogger(__name__)
 
@@ -181,63 +182,99 @@ def build_parquet_indexing_pipeline(
     return pipe
 
 
-def run_indexing_from_parquet(
-    parquet_path: str | Path,
-    es_host: str = DEFAULT_ES_HOST,
-    index_name: str = DEFAULT_INDEX,
-    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
-    verbose: bool = False,
-) -> dict:
-    """Index pre-normalized parquet data into Elasticsearch.
+def discover_derived_parquets(derived_dir: str | Path = "data/derived") -> list[Path]:
+    """Find normalized state parquet files under a derived data directory."""
+    return sorted(Path(derived_dir).glob("*/antraege.parquet"))
 
-    Reads parquet rows, converts to Haystack Documents, then runs
-    splitter -> embedder -> writer pipeline.
-    """
+
+def _clean_parquet_value(value, pd) -> str:
+    """Coerce pandas scalar values to indexable strings."""
+    if value is None:
+        return ""
+    try:
+        if pd.isna(value):
+            return ""
+    except (TypeError, ValueError):
+        pass
+    return str(value)
+
+
+def _first_clean_parquet_value(row, field_names: Iterable[str], pd) -> str:
+    for field_name in field_names:
+        value = _clean_parquet_value(row.get(field_name), pd)
+        if value:
+            return value
+    return ""
+
+
+def _optional_parquet_int(value, pd) -> int | None:
+    if value is None:
+        return None
+    try:
+        if pd.isna(value):
+            return None
+    except (TypeError, ValueError):
+        pass
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def documents_from_parquet(parquet_path: str | Path):
+    """Load one normalized parquet file as Haystack Documents."""
     import pandas as pd
     from haystack import Document
 
     parquet_path = Path(parquet_path)
     df = pd.read_parquet(parquet_path)
 
-    if verbose:
-        logger.info(f"Loaded {len(df)} rows from {parquet_path}")
-
-    # Convert parquet rows to Haystack Documents
     documents = []
     for _, row in df.iterrows():
-        content = row.get("text_clean", "") or row.get("text_content", "")
+        content = _first_clean_parquet_value(row, ("text_clean", "text_content"), pd)
         if not content or len(str(content).strip()) < 10:
             continue
 
-        def _clean(val):
-            """Coerce NaN/None to empty string."""
-            if val is None or (isinstance(val, float) and pd.isna(val)):
-                return ""
-            return str(val)
-
         meta = {
-            "kuerzel": _clean(row.get("kuerzel")),
-            "title": _clean(row.get("title")),
-            "year": int(row["year"]) if pd.notna(row.get("year")) else None,
-            "submitter_raw": _clean(row.get("submitter_raw")),
-            "submitter_type": _clean(row.get("submitter_type")),
-            "status_raw": _clean(row.get("status_raw")),
-            "doc_type": _clean(row.get("doc_type")),
-            "landesverband": _clean(row.get("landesverband")),
-            "content_hash": _clean(row.get("content_hash")),
-            "source_url": _clean(row.get("source_url")),
-            "source_id": _clean(row.get("source_id")),
-            "page_number": int(row["page_number"]) if pd.notna(row.get("page_number")) else None,
+            "kuerzel": _first_clean_parquet_value(row, ("kuerzel",), pd),
+            "title": _first_clean_parquet_value(row, ("title",), pd),
+            "year": _optional_parquet_int(row.get("year"), pd),
+            "submitter_raw": _first_clean_parquet_value(row, ("submitter_raw",), pd),
+            "submitter_type": _first_clean_parquet_value(row, ("submitter_type",), pd),
+            "status_raw": _first_clean_parquet_value(row, ("status_raw",), pd),
+            "doc_type": _first_clean_parquet_value(row, ("doc_type",), pd),
+            "landesverband": _first_clean_parquet_value(row, ("landesverband",), pd),
+            "content_hash": _first_clean_parquet_value(row, ("content_hash",), pd),
+            "source_url": _first_clean_parquet_value(row, ("source_url",), pd),
+            "source_id": _first_clean_parquet_value(row, ("source_id",), pd),
+            "source_doc_id": _first_clean_parquet_value(row, ("source_doc_id",), pd),
+            "veranstaltung_raw": _first_clean_parquet_value(
+                row,
+                ("veranstaltung_raw", "veranstaltung"),
+                pd,
+            ),
+            "page_number": _optional_parquet_int(row.get("page_number"), pd),
         }
 
         documents.append(Document(
-            id=row.get("id", ""),
+            id=_first_clean_parquet_value(row, ("id",), pd),
             content=str(content),
             meta={k: v for k, v in meta.items() if v is not None and v != ""},
         ))
 
+    return documents
+
+
+def run_indexing_from_documents(
+    documents: list,
+    es_host: str = DEFAULT_ES_HOST,
+    index_name: str = DEFAULT_INDEX,
+    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
+    verbose: bool = False,
+) -> dict:
+    """Index already-built Haystack Documents into Elasticsearch."""
     if verbose:
-        logger.info(f"Built {len(documents)} Documents from parquet")
+        logger.info(f"Built {len(documents)} Documents for indexing")
 
     pipe = build_parquet_indexing_pipeline(
         es_host=es_host,
@@ -246,9 +283,91 @@ def run_indexing_from_parquet(
     )
 
     result = pipe.run({"splitter": {"documents": documents}})
+    result["loader"] = {"documents_loaded": len(documents)}
 
     if verbose:
         written = result.get("writer", {}).get("documents_written", 0)
         logger.info(f"Indexed {written} documents into {index_name}")
 
     return result
+
+
+def run_indexing_from_parquet(
+    parquet_path: str | Path,
+    es_host: str = DEFAULT_ES_HOST,
+    index_name: str = DEFAULT_INDEX,
+    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
+    verbose: bool = False,
+) -> dict:
+    """Index one pre-normalized parquet file into Elasticsearch.
+
+    Reads parquet rows, converts to Haystack Documents, then runs
+    splitter -> embedder -> writer pipeline.
+    """
+    parquet_path = Path(parquet_path)
+    documents = documents_from_parquet(parquet_path)
+
+    if verbose:
+        logger.info(f"Loaded {len(documents)} Documents from {parquet_path}")
+
+    result = run_indexing_from_documents(
+        documents=documents,
+        es_host=es_host,
+        index_name=index_name,
+        embedding_model=embedding_model,
+        verbose=verbose,
+    )
+    result["loader"]["parquet_files"] = 1
+    result["loader"]["parquet_paths"] = [str(parquet_path)]
+    return result
+
+
+def run_indexing_from_parquets(
+    parquet_paths: Iterable[str | Path],
+    es_host: str = DEFAULT_ES_HOST,
+    index_name: str = DEFAULT_INDEX,
+    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
+    verbose: bool = False,
+) -> dict:
+    """Index multiple pre-normalized parquet files into Elasticsearch."""
+    paths = [Path(path) for path in parquet_paths]
+    if not paths:
+        raise ValueError("No parquet files provided")
+
+    documents = []
+    for path in paths:
+        path_documents = documents_from_parquet(path)
+        documents.extend(path_documents)
+        if verbose:
+            logger.info(f"Loaded {len(path_documents)} Documents from {path}")
+
+    result = run_indexing_from_documents(
+        documents=documents,
+        es_host=es_host,
+        index_name=index_name,
+        embedding_model=embedding_model,
+        verbose=verbose,
+    )
+    result["loader"]["parquet_files"] = len(paths)
+    result["loader"]["parquet_paths"] = [str(path) for path in paths]
+    return result
+
+
+def run_indexing_from_derived_parquets(
+    derived_dir: str | Path = "data/derived",
+    es_host: str = DEFAULT_ES_HOST,
+    index_name: str = DEFAULT_INDEX,
+    embedding_model: str = DEFAULT_EMBEDDING_MODEL,
+    verbose: bool = False,
+) -> dict:
+    """Index all normalized state parquet files from a derived data directory."""
+    parquet_paths = discover_derived_parquets(derived_dir)
+    if not parquet_paths:
+        raise FileNotFoundError(f"No antraege.parquet files found under {derived_dir}")
+    return run_indexing_from_parquets(
+        parquet_paths=parquet_paths,
+        es_host=es_host,
+        index_name=index_name,
+        embedding_model=embedding_model,
+        verbose=verbose,
+    )
